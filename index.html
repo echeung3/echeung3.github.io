@@ -1,1 +1,335 @@
-<!DOCTYPE html>\n<html lang="en">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <title>Document</title>\n    <link rel="stylesheet" href="styles.css">\n</head>\n<body>\n    <header>\n        <h1>Welcome to Ecref</h1>\n    </header>\n    <main>\n        <p>This is a clean, modern HTML structure.</p>\n    </main>\n    <footer>\n        <p>&copy; 2026 Ecref. All rights reserved.</p>\n    </footer>\n</body>\n</html>\n
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://kennylist.com/styles.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.css">
+  <link href="https://cdn.datatables.net/keytable/2.8.2/css/keyTable.dataTables.css" rel="stylesheet" type="text/css">
+  <title>Kenny Reference</title>
+</head>
+
+<body>
+  <main>
+    <header class="header">
+      <div>
+        <button type="button" id="btnAddRow" style="margin-right:10px;">Add</button>
+        Show temp: <input type="checkbox" id="template" name="template">
+        Show imgs: <input type="checkbox" id="pic" name="pic">
+        Rev: <input type="checkbox" id="reviewed" name="reviewed">
+      </div>
+      <div>
+        <input type="search" id="searchField">
+      </div>
+    </header>
+    
+    <div class="maincontent">
+      <div id="myTable_wrapper" class="dataTables_wrapper no-footer">
+        <table id="myTable" class="display dataTable no-footer" style="width: 100%;">
+          <thead>
+            <tr>
+              <th class="sorting sorting_asc" tabindex="0" aria-controls="myTable" rowspan="1" colspan="1" aria-label="Data: activate to sort column descending" aria-sort="ascending">Data</th>
+              <th class="sorting" tabindex="0" aria-controls="myTable" aria-label="Template: activate to sort column ascending" rowspan="1" colspan="1">Template</th>
+              <th class="sorting" tabindex="0" aria-controls="myTable" aria-label="Imgs: activate to sort column ascending" rowspan="1" colspan="1">Imgs</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="odd">
+              <td spellcheck="false" contenteditable="true" class="sorting_1"></td>
+              <td spellcheck="false" contenteditable="true"></td>
+              <td spellcheck="false" contenteditable="true"></td>
+            </tr>
+            
+            <tr class="even">
+              <td spellcheck="false" contenteditable="true" class="sorting_1"><br></td>
+              <td spellcheck="false" contenteditable="true"></td>
+              <td spellcheck="false" contenteditable="true"></td>
+            </tr>
+            
+            <tr class="odd">
+              <td spellcheck="false" contenteditable="true" class="sorting_1">
+                *** Resources: TWDFMR.<br><br>
+              </td>
+              <td spellcheck="false" contenteditable="true"></td>
+              <td spellcheck="false" contenteditable="true"></td>
+            </tr>
+            
+            <tr class="even">
+              <td spellcheck="false" contenteditable="true" class="sorting_1">
+                **Admission UCI Workflow<br>
+                <a href="https://healthuci.sharepoint.com/:x:/s/SPPO-PatientFlow/EbRJsy9XrKJOhY9_X0zFTOIBE2KFdTdsRUua6Keity1s6w?e=4%3ATC2ED4&at=9&CID=0AC3CE51-0F15-46FE-A288-E187B1782161&wdLOR=cB1137DD3-8AE9-4D06-83AD-C46934DC9328">SPPO Hospitalist Admission Sheet.xlsx (sharepoint.com)</a><br>
+                
+                <p class="MsoNoSpacing">
+                  <a href="https://healthuci.sharepoint.com/sites/deptofmedicine/res/intmed/default.aspx">Transfer Center Notes</a>
+                </p>
+                
+                Transfer Center: 714-456-2222<br>
+                - caloptima: inpatient (no obs) - "straight medical" also inpatient, even if not meeting inpatient criteria<br><br>
+                
+                <a href="https://healthuci-my.sharepoint.com/:w:/g/personal/leungkh_hs_uci_edu/EeSm-LObhflDp4u1TdIn7JAB2fhc3Tf6TlY48ZKBA5pFPQ?e=wBFHOI">H&P Template Simple.docx</a><br>
+                
+                <p class="MsoNormal">
+                  <a href="https://healthuci-my.sharepoint.com/:b:/g/personal/leungkh_hs_uci_edu/ETH5MY2z2WxGhtdZPYgOQIgBYt-VfWQ76DjTNL6I9z5G5w?e=vbAVrX" style="background-color: transparent;">MGH Whitebook 2021-2022.pdf</a><br>
+                </p>
+                
+                <p class="MsoNormal">
+                  <a href="https://healthuci.sharepoint.com/:x:/r/sites/deptofmedicine/res/intmed/_layouts/15/Doc.aspx?sourcedoc=%7Be25c4995-01bf-4184-b41f-cea3a1aa0f8b%7D&action=editnew&cid=3549cb64-4af4-417b-ae13-6084e3a66568">NF list</a>
+                </p>
+                
+                <p class="MsoNormal">
+                  <a href="https://healthuci.sharepoint.com/sites/GRP-UCIIMResidency/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGRP%2DUCIIMResidency%2FShared%20Documents%2FPolicies%2FED%20to%20Trauma%2DOrtho%2DMedicine%2Epdf&parent=%2Fsites%2FGRP%2DUCIIMResidency%2FShared%20Documents%2FPolicies" style="background-color: transparent;">ED to ortho-trauma-medicine agreement</a><br>
+                </p>
+                
+                <p class="MsoNormal">
+                  <a href="https://clients.statrad.com/Exam/Review" style="background-color: transparent;">Review Exam - StatRad Client Portal</a><br>
+                </p>
+                
+                <p class="MsoNormal">- cardiology telemetry: new HFrEF without other major comorbidities</p>
+                <p class="MsoNormal">- HELP order for pharmacy help inpatient</p>
+              </td>
+              
+              <td spellcheck="false" contenteditable="true">
+                <br><br><br><br>
+                - ROS: fever, dizzy, CP, SOB, abd pain, dysuria, freq, constipation.<br><br>
+                - PMH/PSH:<br><br>
+                - FamHx:<br><br><br>
+                - Living:<br>
+                - ADL:<br><br>
+                - Code:<br>
+                - dPOA:<br><br>
+                - PE: <br><br><br><br>
+              </td>
+              
+              <td spellcheck="false" contenteditable="true">
+                <br>
+                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 734pt;">
+                  <tbody>
+                    <tr style="height: 18.67pt;">
+                      <td class="oa2" style="width: 187pt;">
+                        <p style="margin: 0pt 0in; text-align: center;"><br></p>
+                      </td>
+                      <td class="oa2" style="width: 145pt;">
+                        <p style="margin: 0pt 0in; text-align: center;">
+                          <span style="font-family: Calibri; font-size: 14px; font-weight: 700;"> ICU</span><br>
+                        </p>
+                      </td>
+                      <td class="oa2" style="width: 159pt;">
+                        <p style="margin: 0pt 0in; text-align: center;">
+                          <span style="font-family: Calibri; font-size: 14px; font-weight: 700;">Stepdown (56,68,44)</span><br>
+                        </p>
+                      </td>
+                      <td class="oa2" style="width: 164pt;">
+                        <p style="margin: 0pt 0in; text-align: center;">
+                          <span style="font-family: Calibri; font-size: 14px; font-weight: 700;">Telemetry (DH78, 66, T5, T3,B3)</span><br>
+                        </p>
+                      </td>
+                    </tr>
+                    
+                    <tr style="height: 40.23pt;">
+                      <td class="oa3" style="height: 40.23pt; width: 79pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Calibri; font-size: 10.5pt; font-weight: bold;">Monitoring</span>
+                        </p>
+                      </td>
+                      <td class="oa3" style="width: 187pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Invasive central venous, PA, ICP, A line, bladder pressure</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Q1 hr monitoring</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> 1:1 or 2:1 nursing ratio</span>
+                        </p>
+                      </td>
+                      <td class="oa3" style="width: 145pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Q2hr monitoring</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Q1hr monitoring not to exceed 6 hr</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> 3:1 nursing ratio</span>
+                        </p>
+                      </td>
+                      <td class="oa3" style="width: 159pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Q4hr vitals</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Q1-2hr monitoring not to exceed 6 hours</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> 4:1 nursing ratio</span>
+                        </p>
+                      </td>
+                      <td class="oa3" style="width: 164pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 12px; font-weight: bold;">MedSurg (T4)</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> 5:1 nursing ratio</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Pulse oximetry</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Q1-2hr monitoring not to exceed 6 hours</span>
+                        </p>
+                      </td>
+                    </tr>
+                    
+                    <tr style="height: 50.28pt;">
+                      <td class="oa4" style="height: 50.28pt; width: 79pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Calibri; font-size: 10.5pt; font-weight: bold;">Medications</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 187pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Titration of IV vasopressors</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> IV anti-arrhythmic meds</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Systemic thrombolytic rx</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Fluid replacement > 6L/day</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Insulin gtt</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 145pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Non-titratable gtts if hemodynamically stable: diltiazem</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> No moderate sedation</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 159pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Non-titratable gtts:</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Calibri; font-size: 9pt;">amiodarone, lasix, PCAs</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> IV Remodulin or CAD (3T)</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> IV anti-hypertensives</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> IV Haldol</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 164pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Any gtt for comfort measures</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Heparin</span>
+                        </p>
+                      </td>
+                    </tr>
+                    
+                    <tr style="height: 40.23pt;">
+                      <td class="oa4" style="height: 40.23pt; width: 79pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Calibri; font-size: 10.5pt; font-weight: bold;">Airway</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 187pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ Ventilator</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ Fresh trach</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 145pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ BiPAP PRN</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ High flow</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ Mature trach, vent</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 159pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ QHS BiPAP</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ Continuous BiPAP</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ Mature trach, no vent</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-size: 9pt;">▪ High flow</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 164pt;"></td>
+                    </tr>
+                    
+                    <tr style="height: 50.28pt;">
+                      <td class="oa4" style="height: 50.28pt; width: 79pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Calibri; font-size: 10.5pt; font-weight: bold;">Technology</span>
+                        </p>
+                      </td>
+                      <td class="oa4" style="width: 187pt;">
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Ext/transvenous pacemaker</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Mechanical ventilation</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> IABP or VAD</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> Balloon tamponade varices</span>
+                        </p>
+                        <p style="margin: 0pt 0in;">
+                          <span style="font-family: Symbol; font-size: 9pt;">·</span>
+                          <span style="font-family: Calibri; font-size: 9pt;"> CRRT</span>
+                        </p>
+        
