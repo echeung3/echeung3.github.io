@@ -1,0 +1,1391 @@
+DOTPHRASE AMA 
+
+Called by RN that @M@ @LNAME@ wants to leave AMA. I discussed the purpose of @HIS@ hospitalization, including the risks and benefits of staying in the hospital. @CAPHE@ was able to communicate a consistent choice, understanding of @HIS@ illness and recommended treatment, the risks and benefits of treatment, and a consistent rationale behind @HIS@ choice to leave the hospital. @CAPHE@ verbalized understanding that if @HE@ leaves the hospital, @HE@ would not be able to get appropriate treatment and that death is a possibility. @CAPHE@ stated the reason for @HIS@ urgent leaving of the hospital was ***. There were no verbalizations of thoughts of self-harm or harm to others. I feel that @HE@ understood the risks and benefits of staying in the hospital and could weigh @HIS@ decision, so @HE@ had capacity. No acute indication for 5150. Security was not called. We offered to sign the AMA form, and @HE@ did***. @CAPHE@ left the floor safely.
+
+
+There may be questions regarding this patient's capacity to make certain decisions including leaving AMA. All physicians are capable of making basic capacity assessments, although psychiatry is available to assist and offer a second opinion whenever needed. 
+
+If a patient is demanding to leave AMA without having demonstrated capacity, UCD police should be involved and informed that the patient "does not have capacity." A 5150 is not required.
+For a patient to have capacity to make a decision, they must demonstrate an ability to: 
+
+1. Communicate a choice and consistently stick with that choice 
+2. Communicate understanding and convey back the relevant information about their illness and the procedure/treatment recommended. 
+3. Communicate understanding of the risks/benefits of the procedure/treatment and also of not having it done. 
+4. Communicate the rationale behind their choice. 
+
+DOTPHRASE Acute Leukemia
+***
+- Obtain the following labs q8h
+- TLS (K, phosphorus, LDH, uric acid) 
+- DIC (CBC with diff, coagulation panel, D-dimer, fibrinogen)
+- CBC with diff, CMP, Mg daily
+- Obtain hepatitis B panel, hepatitis C antibody, HIV, CMV IgG
+- Obtain peripheral blood smear
+- Obtain cytometry and BCR-ABL of peripheral blood
+- Obtain PML-RARA of peripheral blood
+- Obtain pregnancy test
+- CXR (2 view)
+- TTE
+- Type and screen q72 hours
+- Will need to send for HLA high-resolution testing
+- Will plan for bone marrow biopsy in the am
+- PICC consult
+- Start NS at 100 ml/hr
+- Start allopurinol 300 mg PO BID
+- Rasburicase for uric acid > 8 (will need to be ordered by heme/onc fellow) or rise of >25% between TLS labs
+- Start hydroxyurea 500mg PO BID; if WBC continues to rise will consider increasing up to 2g QID
+- Transfuse irradiated, CMV negative (until CMV IgG results available) blood products for goal Hb >7, Plt >10, INR <2, fibrinogen >100
+
+- Leukopheresis as needed
+- ATRA if concern for APL
+
+DOTPHRASE Atrial fibrillation ***
+Patient presented with {new-onset, paroxysmal, persistent, long-standing persistent, permanent} afib with rates in ***. Differential diagnosis includes: pulmonary/PE/post-op, ischemia/infection, rheumatic heart disease, anemia, toxins/thyroid/drugs, ethanol/electrolytes/elevated BP, sepsis/sleep apnea/sick sinus syndrome. Most likely cause is ***. Has *** history of recent bleeding or other contraindication for anticoagulation. Currently ***hemodynamically stable and rate is ***controlled. 
+CHADSVasc = *** indicating ***% risk of embolism per year. 
+HAS-BLED = *** indicating ***% risk major bleed per year.
+Workup:
+- EKG prn for chest pain
+- Telemetry
+- Troponins
+- BMP, Mg
+- TSH, Free T4
+- EtOH, Utox
+- TTE
+- Rule out PE / lung disease (consider CXR, CTPE)
+Plan:
+- Rate control: ***
+- Rhythm control: ***
+- Anticoagulation: ***
+
+{Afib with RVR acute rate/rhythm control
+- Diltiazem 0.25mg/kg IV bolus (~20mg), may repeat 0.35 mg/kg IV (~25mg), then 5-15mg/hour gtt 
+- Metoprolol tartrate 2.5-5mg IV Q5min x3
+- Esmolol 500mcg/kg bolus then 50-300 mcg/kg/min gtt (uptitrate by 50 every 4 minutes, can also rebolus after each increase of gtt rate)
+- Digoxin 0.5mg bolus, then 0.25mg q6h x2
+- Amiodarone 150mg IV bolus over 10 min, then 1mg/min x6 hrs, then 0.5mg/min x18 hours; overlap PO with drip > 1 week for PO onset, 400mg PO bid x1 week, then 200-400mg PO daily. Monitor TFTs, LFTs, K, Mg (q3-6 months) and one baseline PFT + annual CXRs while on prolonged amiodarone.
+- Keep NPO for option of TEE + DC cardioversion
+
+DOTPHRASE Afib maintenance rate control
+- Diltiazem 30-90mg PO qid while titrating dose, then transition to SA daily formulation (max 360mg/day)
+- Metoprolol tartrate 25-100mg PO bid (start q6h while titrating dose)
+- Digoxin 0.25mg PO q2h up to 1.5mg then 0.125-0.25mg PO daily
+(Check steady-state trough levels within a week, not targeting therapeutic so much as avoiding toxic levels)
+
+DOTPHRASE Agent Selection 
+(Avoid mixing AV nodal blocking classes due to risk of complete block, but can add digoxin as a secondary agent if poor control with primary agent)
+- Diltiazem (avoid in systolic heart failure)
+- Beta-blocker (avoid in reactive airway disease, favor in hyperthyroid)
+- Digoxin (not for acute control, 2 hour onset. Favor in heart failure)
+- None of the above if WPW / accessory pathway (consider cardioversion, ablation, or anti-arrhythmic instead) as it slows conduction through AV node which can increase anterograde conduction through accessory pathway}
+
+DOTPHRASE Acute kidney injury
+Baseline Cr ***. Cr *** on admission. Most likely prerenal in setting of decreased PO intake ***.
+- Daily BMP
+- Maintenance IVF
+- Avoid nephrotoxins, renally dose medications
+- FENa/Urea, urine microscopy if considering intrarenal etiology ***
+- PVR, renal ultrasound for hydronephrosis if possible postrenal etiology ***
+
+DOTPHRASE Alcoholic hepatitis
+Maddrey Discriminant Function ***, treat if >32 {MDCalc}
+- Pentoxifylline 400mg PO tid x3 months (less adverse effects than steroids, though requires PO route)
+- Prednisolone 40mg PO daily x4 weeks followed by 2 month taper
+- Hepatology / GI consult
+- Re-eval Lille Model in 1 week to verify beneficial effect {MDCalc}
+
+DOTPHRASE Alcohol withdrawal
+*** average drinks per day, last drink ***. Has *** history of seizures / delirium tremens. *** motivated to abstain. *** interested in cessation resources. 
+- EtOH, serum osmolarity, UTox
+- CMP, Mg, INR daily
+- Banana bag x1 (1L NS or D5W, 100mg thiamine, 1mg folate, 1amp/tab MVI, 3g magnesium sulfate) if not tolerating PO
+- Daily thiamine, folate, MVI once tolerating PO
+- Insomnia options: melatonin 3mg, doxepin 10mg, hydroxyzine 50mg, zolpidem 10mg
+- SW and SUN consult for cessation resources
+- PT/OT evaluation for mobility
+- CIWA protocol
+
+{== CIWA +/- Standing Protocol ==
+- CIWA symptom triggered PRNs
+  Progressively double dose if poor control despite multiple doses within an hour
+- Diazepam 10mg tid with daily 5mg taper or
+- Lorazepam 2mg tid with daily 1mg taper
+
+== Non-BZD Withdrawal Protocol ==
+(Adapted from Maldonado drafts)
+(Use if expect symptom resolution <5 days)
+- Clonidine 0.2mg PO tid x3
+- Clonidine 0.1mg/day patch x2
+- Valproate 250mg PO/IV bid + 500 qhs
+- Lorazepam 2mg IV PRN seizures
+
+(Escalation options)
+- Increase Valproate to 500mg bid + 1000mg qhs
+(If low BP unable to tolerate clonidine, hepatic disease unable to tolerate VPA, or need additional symptom/anxiety control after above, then add...)
+- Gabapentin 600mg PO tid, taper by 300mg per day
+
+(Tapering off)
+- Peel off 1 clonidine patch after 1-4 days, leave other on for full 7 days duration
+- At same time, taper off daytime valproate doses over couple days until eventual removal of all VPA by ~day 7
+- If started gabapentin, consider extended continuation as outpatient to supress recidivism}
+
+DOTPHRASE Acute encephalopathy
+Presented with ***. Baseline mental status is ***. Differential diagnosis is broad and includes ***.
+Plan:
+- Metabolic: F/u VBG, lactate, glucose, CMP, calcium, TSH, ammonia, Vit B12/thiamine
+- Oxygen: Keep O2 sat >92%
+- Infectious: F/u BCx, UA/UCx, CXR, HIV, syphilis. {Consider LP with cell count/culture/meningitis panel if no improvement}
+- Stroke/Seizure/Structural: F/u CT head. {Consider EEG, MRI}
+- Toxic: F/u UTox. {Consider BAL, ASA, salicylate}
+- Other: Assess for urinary retention/constipation. {Consider LP with paraneoplastic panel/autoimmune panel if no improvement}
+- Standard delirium precautions
+
+DOTPHRASE Acute asthma exacerbation
+Patient presented with ***. Has history of {intermittent, mild persistent, moderate persistent, severe persistent} asthma.
+- PEF assessment <40% predicted = severe (suggests need for hospitalization)
+Check pre- and post- 3 doses of albuterol to assess for response and triage admission
+- Peak flow pre/post treatment
+(Relative to baseline is more important measure)
+(Generally expect normal >300 for women, >400 for men)
+- ABG/VBG to assess for acidemia/CO2 retention that may prompt ICU admission
+- Albuterol +/- ipratropium q20min x3 then q1-4h PRN or continuous if ongoing
+Latter with additive benefit for emergency but not hospital setting
+- Prednisone (1mg/kg) 40-60mg up to 10 days? Or until achieve 70% PEF
+- Magnesium sulfate 1-2g
+
+DOTPHRASE Symptomatic Bradycardia with/without *** degree AV block
+Patient presents with symptoms of ***. HR was noted to be ***. ECG was notable for *** {first, second, third degree block, junctional rhythm, etc}. Patient {does/does not} take AV nodal blocking agents including {beta blockers, CCB, amiodarone and other antiarrhythmics, lithium, digitalis, sofosbovir, daclatasvir, opioids, other sedatives, certain chemotherapeutic agents}. Etiology of bradycardia is most likely {medication induced, acute MI, increased vagal tone, increased intracranial pressure, infectious such as Lyme disease, Chagas disease, legionella, psittacosis, Q fever, typhoid fever, typhus, babesiosis, malaria, leptospirosis, yellow fever, dengue fever, viral hemorrhagic fevers, trichinosis, and Rocky Mountain Spotted fever}.
+Workup:
+- Continuous cardiac monitoring
+- Trend cardiac markers until downtrending
+- Check digoxin level if on digoxin
+Treatment:
+- Keep pacer pads on patient and atropine at bedside
+- Replete electrolytes for goal K>4 and Mg>2
+- Withhold offending agents
+- Avoid negative inotropes/AV nodal blocking agents
+- Place TVP {will require ICU level of care while TVP in place}
+- Will consult EP for possible PPM placement
+
+DOTPHRASE C. difficile colitis
+Patient presented with ***. Last antibiotic use ***. C. difficile toxin ***. Discontinue other antibiotics if possible. Initial regimen based on disease severity, though criteria are only based on expert opinion. No anti-motility agents (may precipitate toxic megacolon).  Evidence equivocal for probiotics, and may even risk fungemia in critically ill, CVC catheter, immunocompromised.
+- Metronidazole 500mg PO tid x10+ days until diarrhea resolves or
+- Vancomycin 125mg PO qid x10+ days if severe disease (WBC>15K or Cr>1.5x prior) or
+- Vancomycin 500mg PO or PR qid + Metronidazole 500mg IV tid if severe, complicated disease (hypotensive, ileus, megacolon)
+- Consider colectomy in severely ill (monitor lab trends, intervene before bad peri-operative mortality once WBC>50K, lactate>5)
+
+{- 1st Recurrence: Same regimen for first recurrence of same severity
+- Further Recurrences: Vancomycin taper 125mg PO qid x2 weeks, then bid x1 week, then daily x1 week, then qod x2-8 weeks
+
+- Further escalation options (need ID approval): Fidaxomicin 200mg PO q12h x10 days, stool transplant (for outpatient prevention, not inpatient acute management)}
+
+DOTPHRASE Acute on chronic *** heart failure exacerbation (EF ***%) 
+Patient with *** history of ***ischemic *** heart failure presented with *** {LE edema, SOB, orthopnea, PND, weight gain}. BNP ***, CXR ***, dry weight *** but *** on admission. Exam consistent with *** {S3, pulmonary edema vs. pleural effusion (dullness to percussion, rales, diminished breath sounds), JVD, HJR, warm vs cool extremities, and poor peripheral pulses}. Currently NYHA class ***, ACC/AHA stage *** and is usually class *** and stage ***. Trigger for decompensation is most likely *** {medication non-compliance, CAD vs. myocardial ischemia, uncontrolled HTN, valvular disease (MR, AR), infection, thyrotoxicosis, anemia, PE, emotional stress, drugs, dilated cardiomyopathy, pacemaker induced cardiomyopathy.} 
+{Class I (symptomatic with greater than ordinary activity), 
+class II (symptomatic with ordinary activity), 
+class III (symptomatic with minimal activity), 
+class IV (symptomatic at rest)}
+{Stage A (no structural heart disease, no symptoms)
+Stage B (structural heart disease, no symptoms)
+Stage C (structural heart disease, symptoms)
+Stage D (refractory heart failure)}
+Workup:
+- Telemetry
+- BMP, Mg BID
+- Lipid panel, A1c ***
+- EKG, troponin ***
+- Utox, TSH
+- TTE
+- Strict I/Os and daily weights
+Treatment:
+- Continuous pulse oximetry, titrate O2 to around 90%
+- Preload reduction: ***; goal net negative ***L, fluid restriction 1.5L per day
+- Afterload reduction: *** {ACEi/ARB/ARNI, hydralazine/nitrate if Black, NYHA III-IV, EF<40% on maximal therapy}
+- Neurohormonal blockade: *** {BB, spironolactone if NYHA II + EF<30%; NYHA III-IV EF<35%; recent MI EF<40%} {CI: Cr>2.5 men >2 in women; K>5}
+- ICD/CRT: *** {ICD: NYHA II-III EF<35% after 90 days of optimal medical therapy} {CRT: NYHA II-III EF<35% +LBBB +QRS >149ms}
+- SGLT2 inhibitor: ***
+- Replete electrolytes for goal K>4 and Mg>2
+- Cardiac rehab referral on discharge
+
+DOTPHRASE  ***compensated cirrhosis
+MELD-Na score *** indicating {1.9,6,19.6,52.6,71.3}% 90 day mortality. Child-Pugh score is ***. Patient is *** a candidate for transplant.
+- Daily LFT, platelet, INR, Na
+- Volume management: ***
+- Ascites: ***
+- SBP ***: ***
+- Hepatic encephalopathy: ***
+- Variceal screening/ppx: ***
+- No more than 2g tylenol per day
+- Low sodium diet, fluid restriction
+- Consider hepatology consult
+
+MELD-Na
+Child-Pugh 
+(ranges from 5-15. 5-6 = class A / well-compensated. 10% mortality rate from abdominal surgery, 100% one year survival rate. 7-9 = class B / significant functional compromise. 30% mortality rate from abdominal surgery, 80% one year survival rate. 10-15 = class C / decompensated cirrhosis. 82% mortality rate from abdominal surgery, 45% one year survival rate)
+Median survival <6 months in decompensated cirrhosis + Child-Pugh >12 or MELD >21 (18 if hospitalized for liver-related illness)
+MAP <82 predicts 20% survival at 24 months and 0% survival at 48 months (compared to 70% and 50% for MAP >82)
+
+Triggers to consider before assuming medication non-adherence: Fluid (increased total body, decreased intravascular), infection (UA, urine microscopy, CXR, BCx, paracentesis), bleed (CBC)
+Another paradigm: Medication non-adherence, infection, increased generation of ammonia (bleed, overdiuresis, volume depletion, AKI), decreased clearance of ammonia (TIPS, portal vein thrombosis, HCC, alcoholic hepatitis), electrolyte disturbance, toxin
+
+Hepatic encephalopathy
+- Lactulose titrated to 2-3BM/day, Rifaximin 550mg PO bid, Zinc SO4 200mg PO daily
+- Screen for (infectious) trigger: UA, Blood Cx, paracentesis, r/o dehydration / overdiuresis
+
+Ascites
+- Furosemide 40mg PO : Spironolactone 100mg PO
+- Therapeutic paracentesis, replete 25g albumin per 4L removed
+- Consider hold or half beta blocker variceal prophylaxis 
+
+DOTPHRASE Spontaneous bacterial peritonitis
+Paracentesis with >250 PMN or positive culture
+- Ceftriaxone 1g IV daily -> ciprofloxacin 500mg PO daily or TMP/SMX DS PO bid x1 week
+- Albumin 1.5g/kg body weight within 6 hours of detecting SBP and 1.0g/kg on day 3 may help short-term survival/renal function per Albumin for SBP (1999)
+  (Use if high risk: Cr>1, BUN>30, or TBili >4) 
+- Permanently discontinue nonselective beta blockers (decreased transplant-free survival, increased rates of hepatorenal syndrome, and more days of hospitalization)
+
+DOTPHRASE SBP prophylaxis
+? Hx prior SBP or ascites albumin <1.5 with renal/liver impairment (Cr>1.2, BUN>25, Na<130, Childs-Pugh>9, Bili >3) or ascitic albumin <1.5 and currently hospitalized
+- Ciprofloxacin 500mg PO daily vs. TMP/SMX DS 1 tab PO daily?  Ciprofloxacin 750mg PO weekly sometimes used (but may select for resistant organisms).  VA recommends cefpodoxime given high rates of Cipro resistance
+
+DOTPHRASE Varices (Bleed): 
+Octreotide 50mcg bolus followed by 50mcg/hr gtt acutely, transition to Propranolol 20mg PO bid or Nadolol 20mg PO daily after stabilization with goal HR <70
+Antibiotic prophylaxis for week after bleed (ceftriaxone 1g IV daily while inpatient, transition to norfloxacin 400mg or ciprofloxacin 500mg PO bid upon discharge)
+Hepatology 2005;41:572
+
+DOTPHRASE Hepatorenal syndrome? (Type I: Rapidly progressive over days.  Type II: "Diuretic refractory ascites")
+- 1g/kg/day albumin challenge x2 days to confirm not pre-renal (if improves, this is hypovolemic renal failure. If fails to improve, HRS)
+- Midodrine (7.5-12.5mg PO tid) + Octreotide (100-200mcg SubQ tid) + 20-40g/d albumin, goal increase MAP 15mmHg, but really only liver transplant will help at this point
+Hepatology 1999;29:1690
+
+DOTPHRASE Coagulopathy / "Chronic DIC"
+Elevated INR is actually misleading, patient missing both pro- and anti-coagulant factors, and should receive VTE prophylaxis (heparin) if Plt>50
+- For purposes of procedure (i.e., paracentesis), can administer FFP, platelets, cryoprecipitate respectively (goal INR<2, Plt>50, fibrinogen>100), but no data to support.  Can't really avoid bleed risks (though minimal for paracentesis anyway).
+Hepatology 2004;40;484
+
+DOTPHRASE Compensated cirrhosis (outpatient)
+- q6month RUQ ultrasound for HCC monitoring if cirrhosis or Hepatitis B+
+- EGD (repeat every 3 years if no varices)
+- Check Hep C genotype + viral load to guide potential therapy
+- Hep A/B vaccination series
+- Counsel on EtOH cessation
+- Can consider baclofen for EtOH cessation, 5mg tid x3 days then 10mg tid x3 days, continue to uptitrate to up to 95mg/day in 5 divided doses
+- Low sodium diet (<2g/day)
+
+DOTPHRASE COPD exacerbation
+*** exacerbations per year, *** previously required intubation, typical course of exacerbation: ***. GOLD severity 1 (FEV1>80%), 2 (FEV1>50%), 3 (FEV1>30%), 4 (FEV1<30%), Group ***. Does *** have at least 2 of 3 cardinal symptoms of increased sputum purulence AND sputum volume or dyspnea, qualifying patient for antibiotics. ABG ***, CXR ***.
+- Supplemental O2, goal sat 88-92%
+- Bronchodilator: Albuterol/ipratropium q4hr and PRN
+- Corticosteroids: Prednisone {30-60mg} PO daily x5 days, (*** - ***) 
+{As per REDUCE 2013, 5 day course non-inferior to conventional 7-14 day course. Alternatively can also do methylprednisolone 1-2mg/kg q6-12h but likely excessive}
+- Antibiotics: Azithromycin*** x5 days, (*** - ***)
+{If antibiotics within past 3 months, use a different class this time}
+- Home MDIs as tolerated 
+{May continue home long-acting anticholinergic: i.e., tiotropium, if pharmacy allows. Unlikely to benefit from, so can hold, inhaled steroids while already receiving systemic steroids}
+ - Encourage tobacco cessation
+
+https://erj.ersjournals.com/content/49/3/1600791 //EVIDENCE
+Should intravenous or oral corticosteroids be used to treat patients who are hospitalised with a COPD exacerbation?
+#Acute Exacerbation of COPD
+Presented with symptoms of ***. Gold Stage ***. 
+- O2: Currently *** with goal SpO2 88-92%
+- start prednisone 40mg QD x5 days (s/p one dose in ED)
+- start scheduled duonebs*** Nebs: (Albuterol 2.5mg/ipratroprium 0.5mg) Q***H
+- Antibiotics: doxycycline 100mg BID
+- MagS: 
+
+///
+Microbiology:
+@RESUFAST(labgram:*,bloodcx:*,urinecx:*,woundcx:*,culture:*,cdifficile:*,cdifftox:*,cdifftoxq:*,afbstain:*,afb:*,quantiferon:*AER:1)@
+
+DOTPHRASE COVID-19 pneumonia
+Acute hypoxemic respiratory failure -
+{Patient Reported Covid Symptoms:"20731"}. Diagnosed ***.
+Workup:
+- EKG, BNP, CRP, ferritin, procalcitonin, RVP, strep EIA, legionella EIA
+- LFTs, D-dimer, INR, LDH, fibrinogen now and MWF. CBC daily
+Treatment:
+- COVID-GRAM Critical Illness Risk Score: COVID risk assessment
+- Oxygen: {Nasal cannula, NRB, HNFC, BiPAP}
+- Dexamethasone 6mg daily for 10 days if worsening hypoxia (*** - ***) per RECOVERY trial 
+- Convalescent plasma: ***
+- Remdesivir: *** per ACTT-1 trial may decrease time to recovery however does not appear to show mortality benefit. Currently not recommended by WHO but recommended by IDSA and NIH in patients with severe disease (SpO2 <94%, or any patients requiring supplemental oxygen)
+- Consider tocilizumab (IL-6 inhibitor) if severely elevated inflammatory markers (CRP >75) or escalating oxygen requirements despite dexamethasone - per RECOVERY trial 
+- Anticoagulation: *** per UCD Protocol
+- Consult inpatient hyperglycemic team for patient with hyper/hypoglycemia (BG <70 or >180)
+- Prone patient QID as tolerated
+- Tylenol, robitussin, MDIs PRN (avoid nebulizers)
+
+DOTPHRASE Acute {bloody/nonbloody} diarrhea
+Presented with *** for *** duration in the setting of ***.  Suspect this to be 2/2 ***. Infectious etiologies include bacterial, viral, and protozoal. Non-infectious etiologies including medication-related, IBD, diverticulitis, IBS, acute mesenteric ischemic, constipation with overflow, colorectal cancer, radiation proctitis, short bowel syndrome, neuroendocrine tumors, hyperthyroidism. If on antibiotics, would consider C. diff. If immunosuppressed, consider CMV colitis. 
+Workup:
+- Stool culture (assessing for Salmonella, Shigella, Campylobacter, E. Coli O157:H7)
+- Stool O&P (consider EIA for Giardia, Cryptosporidium, acid-fast stains for Cyclospora, Isospora, MAC)
+- C. difficile toxin (if on antibiotics or chemotherapy recently)
+- Vibrio testing if seafood / seacoast exposure
+- Norovirus testing for isolation of contagion
+- GI biofire panel
+- ESR, CRP, FOBT, stool WBC / lactoferrin if suspect inflammatory bowel disease
+{- HIV
+- Add Microsporidia + MAC testing if HIV+}
+Treatment:
+- PO and IV hydration: ***
+- Replete K<4 and Mg<2
+- Bland low fat diet with limited dairy products
+- Loperamide can be considered if infectious causes ruled out
+
+? Exposures: Travel hx, sick contacts, day care, dietary (undercooked, dairy, seafood), risky sexual exposures, recent antibiotics or chemotherapy
+? Timing: Chronicity, frequency, hospitalized >3 days
+? Symptoms: Bloody, nausea, vomiting, tenesmus
+? Host: Immunocompromised?
+
+DOTPHRASE Diabetic ketoacidosis / Hyperglycemic hyperosmolar syndrome
+Workup:
+- CBC, BMP+Phos
+- UA, Beta-hydroxybutyrate (assess for presence of ketones)
+- Serum Osmolality
+- ABG/VBG to assess severity of acidemia
+Trigger assessment
+- CXR, UA, Blood Cultures for infection
+- Troponin, EKG for ischemia
+- Lipase for pancreatitis
+Treatment:
+- Insulin (regular) 0.1u/kg (~10 units) IV x1
+- Insulin drip, DKA protocol
+- Isotonic (NS,LR) bolus 1L / hr until euvolemic (expect extensive volume depletion, could require 5L+)
+- Foley catheter for high urine output monitoring
+- Consider arterial/central line for repeated labs
+- Treat any underlying causes
+- Glucose: q1h to titrate insulin
+- Lab monitoring: q2-4h BMP+Phosphorus+pH (ABG/VBG) 
+
+{- If pH<6.9, consider D5W + 100mEq NaHCO3 IVF for few hours
+- Maintenance fluids 1/2NS ~200mL/hr
+  - Change to D5 1/2NS when glucose <250
+  - Change to D5 1/2NS + 20-40mEq KCl when demonstrated urine output and K <5.5
+     - If K<3.5, aggressively replete and hold insulin for couple hours until K>4
+  - Replete phosphorus with KPhos 20-40mmol if Phos severely low <1 (less evidence)
+- Goal to normalize anion gap (eliminate beta-hydroxy butyrate / ketones) due to insulin deficiency (glucose and potassium repletion expected)
+
+When normalize anion gap and low stable insulin requirement for 4 hours
+- Calculate/extrapolate 24hr insulin requirement and use 75-80% of that split between basal and bolus dosing
+- Start long acting insulin then stop drip 2-3 hours AFTER to bridge effect
+- Stop fluids and start carb-controlled diet}
+
+DOTPHRASE Type 2 diabetes mellitus
+Last A1c ***% on ***. On *** at home. Total daily dose of insulin = *** units.
+- Hold home medications
+- Correction-dose insulin
+- Lantus *** units qhs
+- Aspart *** units tid ac
+
+DOTPHRASE {Upper/Lower} GI bleed
+{Acute/Chronic} GI bleed with *** unit blood loss over ***. Symptoms included {hematemesis, hematochezia, melena} {with/without} hemodynamic instability. Differential includes {peptic ulcer disease (H. pylori vs. NSAID), gastritis, variceal Bleed, Mallory-Weiss tear, AVM, malignancy} {diverticulosis, AVM, malignancy, hemorrhoids}.
+- GI consulted for ***, appreciate recommendations
+- NPO 
+- 2 large bore IVs (18 gauge or larger)
+- IVF resuscitation to maintain MAP>65
+- CBC q***
+- Type and screen
+- Transfuse for hgb <7, Plt<50, INR>1.5 (consented on ***)
+- Pantoprazole 80 IV x1 then 40mg IV BID
+- Hold NSAIDs, steroids, ASA
+- Octreotide 50mcg x1 then 50mcg/hr gtt {cirrhosis}
+- Ceftriaxone 1g daily x7 days {cirrhosis}
+
+{Risk Score: Glasgow Blatchford Bleeding Score for Outpatient Management of Low Risk GI Bleed
+(Massive Transfusion Protocol option or empiric FFP+Platelets if needing more than 2-4 units PRBC)
+- Pantoprazole 80mg IV x1 then gtt 8mg/hr is another option
+- NG lavage with 1L cold NS then continue to suction if ongoing N/V
+  (Intubation / ICU Admission for Airway Protection if excessive Hematemesis)
+- Bowel prep with 4L Golytely (if suspect lower GI source / BRedBloodPR)
+  (If massive lower GI bleed, CT angio to isolate source and IR Consult for embolization)
+- Helicobacter pylori Ab + stool Ag.  If either positive, treat
+
+Post-EGD Stabilization
+Risk Score: Rockall Score
+- Complete 72hr PPI drip vs 40mg IV bid if high risk lesion on EGD (visible vessel or bleed vs. clean base / red spot)
+High- versus low-dose proton pump inhibitors after endoscopic hemostasis in patients with peptic ulcer bleeding: a multicentre, randomized study.  Am J Gastroenterol. 2008;103(12):3011.
+- Transition to oral PPI (daily dosing adequate)
+- If variceal bleed / portal gastropathy, start propranolol 20mg PO bid to suppress (goal HR <70 while maintain SBP>90) 
+- Iron supplementation outpatient until replete anemia, with respective counseling on darkened stools, GI upset / constipation
+(Alternatively consider IV iron sucrose 200mg / day inpatient if Hgb<10 to help quickly replete with response within 1-2 weeks and avoid confounding subsequent dark stool interpretation)
+- Restart ASA within 3 days if known CAD}
+
+DOTPHRASE Hyperkalemia
+K *** on admission in setting of ***. *** EKG changes. Treated with ***.
+- BMP BID
+- EKG prn
+- Continue temporizing measures (calcium gluconate, insulin + dextrose, bicarbonate, beta agonists) as needed
+- Lasix, lokelma, dialysis if needed
+
+{Differential: production/intake (tumor lysis, rhabdomyolysis, hemolysis, ischemic bowel, transfusions, resorbing hematomas, hyperthermia, rewarming, excessive K intake), poor excretion (AKI or CKD, constipation, hypoaldosteronism/CHF/cirrhosis), transcellular shifts (acidemia, insulin deficiency, beta blockers, digoxin toxicity due to blocking Na-K ATPase, hyperkalemic periodic paralysis, succinylcholine)}
+
+DOTPHRASE Hypernatremia
+Na *** {on admission}. Likely 2/2 dehydration from ***. Free water deficit is ***. 
+- Trend Na
+- D5W at *** for *** hours
+
+DOTPHRASE Hypotonic hyponatremia
+Patient presented with sodium *** and sOsm ***. Volume status is {hypo, eu, hyper}volemic, differential includes {mineralocorticoid deficiency, extrarenal losses (vomiting, diarrhea, lasix, burns), cerebral salt wasting, etc} {SIADH, hypothyroid, glucocorticoid deficiency, psychogenic polydipsia, low solute intake (beer potomania, tea and toast diet), reset osmostat} {CHF, cirrhosis, nephrotic, CKD}. Most likely *** given ***. Currently ***asymptomatic, Na trending ***.
+Workup:
+- sOsm, uOsm, UNa
+- TSH
+- Na Q***h
+Treatment:
+- ***3% hypertonic saline {if symptomatic: seizure/AMS}
+- IVF {if hypovolemic}
+- Water restriction {if euvolemic}
+
+{Chronic hyponatremia
+Goal rate of correction 4-6 mEq/L over 24 hours. 6-8 mEq/L over 24 hours if having severe symptoms, which should be achieved in first 6 hours and then maintained.
+- Asymptomatic patients with Na <120: 3% hypertonic saline at 15-30mL/hr. If high risk for water diuresis or ODS, consider also starting desmopressin
+- Asymptomatic patients with Na <130: Reverse the cause of hyponatremia (discontinue offending drugs, identify potential causes, water restrict if needed)
+- Symptomatic patients: 100mL bolus of 3% hypertonic saline, can give two additional 100mL boluses over next 30 minutes if symptoms persist (for total of 300mL)
+
+Acute hyponatremia (<48 hours)
+- Asymptomatic patients with Na <130: 50mL bolus of 3% hypertonic saline to prevent sodium from falling further, unless already correcting due to water diuresis.
+- Symptomatic patients which could be due to increased intracranial pressure: 100mL bolus of 3% hypertonic saline, can give two additional 100mL boluses over next 30 minutes if symptoms persist (for total of 300mL)
+
+Severe hyponatremia = <120 mEq/L
+Moderate hyponatremia = <130 mEq/L
+Mild hyponatremia = <135 mEq/L
+}
+
+DOTPHRASE Type I NSTEMI
+Patient presented on *** with chest pain or pressure. Troponin ***. EKG demonstrated ***. Bedside echo demonstrated ***. Given typical features and ***CAD history, this is concerning for NSTEMI type 1 from ACS or plaque rupture. TIMI score is *** indicating *** risk {0-2 = low; 3-4 = intermediate; >4 = high}. GRACE score *** indicating *** risk {<109 low risk, 109-140 intermediate risk, >140 high risk} which favors {early invasive (within 24 hours), delayed invasive (within 72 hours), ischemia-guided} strategy. No indications for immediate invasive (within 2 hours) strategy (refractory angina, HF or new/worsening MR, hemodynamic instability, recurrent angina/ischemia at rest despite medical therapy, sustained VT/VF). Patient is ***good candidate for PCI given reliability, good follow-up, and ability to tolerate DAPT.
+- Telemetry
+- Troponin q3-6 until peaks
+- Serial EKGs
+- CAD Risk factor screening: A1c, lipid panel, TSH, UTox
+- F/u TTE
+- Titrate O2 to goal 90%
+- Antiplatelet: 
+- s/p ASA 325mg load and ticagrelor 180mg load / clopidogrel 600mg (300mg if not planning for PCI)
+	- ASA 81mg daily and ticagrelor 90mg BID / clopidogrel 75mg daily per CURE/PLATO/TRITON-TIMI 38 {can hold second antiplatelet if suspicious of triple-vessel disease which may be suggested by diabetes, cardiogenic shock, or VA patient. But will never be faulted for doing DAPT}
+	- Favor GP IIb/IIIa if high risk (only helps if getting catheterization, defer to interventional cardiology)
+- Anticoag: heparin gtt until catheterization or at least 48 hours {can consider lovenox BID per ESSENCE vs fondaparinux per OASIS-5, mainly for if planning medical management}
+- Plaque stabilization: atorvastatin 80mg qhs per MIRACL/PROVE-IT
+- MACE prevention: {Metoprolol 12.5mg BID}, start ACEI/ARB after stent {captopril 6.25mg TID and uptitrate as tolerated}
+- Consider IV morphine PRN though may worsen outcomes
+etihol
+
+{- ASA 325mg load + ticagrelor 180mg load or clopidogrel 600mg (if cath planned), 300mg (if no cath)
+- Then ASA 81 daily + ticagrelor 90mg bid or clopidogrel 75mg daily
+- Hold second antiplatelet if suspicious of multi-vessel disease or need for CABG as needs to wait 5 days to washout if given
+- Continue DAPT >30 days for BMS, >1 year for DES
+- Atorvastatin 80mg PO daily (or rosuvastatin 40mg), check lipid panel 
+- Anti-coagulation (heparin drip per ACS protocol) vs (enoxaparin if planning medical management only, slightly superior as per ESSENCE, more appropriate if Low Risk TIMI <=2, but ask interventional first as they usually prefer reversible and monitorable heparin). Continue until catheterization or at least 48hrs if only medical management
+- Consider beta-blocker: metoprolol 12.5mg PO bid (titrate to goal Hr<70). Hold if SBP <90 / cardiogenic shock (may worsen near-term mortality from shock, especially if use IV. Start prior to discharge)
+- NTG + morphine PRN chest pain or NTG drip if ongoing chest pain (hold if hypotensive / cardiogenic shock / inferior MI / sildenafil within past 24 hours)
+
+High Risk TIMI >=3: favor GP IIb/IIIa and early angiography
+- Consider GP IIb/IIIa inhibitor (e.g., eptifibatide) if ongoing chest pain, elevated troponin on presentation, heart failure, diabetes or otherwise planning early angiography (within 24-48hrs), but only helps if actually getting catheterization and per ACUITY and EARLY, same effect if wait until just prior to PCI, so usually defer to interventional cardiology (continue until catheterization, then 6-12 hours)
+
+Prior to Discharge (core measures)
+- Assess LV Function (i.e., TTEcho)
+- ACE-I / ARB if EF<40% (though GISSI-3 indicates can help regardless of EF)
+- Eplerenone (or spironolactone) if new EF<40% (as per EPHESUS)
+- Beta-blocker}
+
+DOTPHRASE Community-acquired pneumonia
+Patient presented on *** with ***. CXR with ***. Qualifies for ***severe disease given ***. PSI class {I-II = outpatient, III = outpatient vs observation, IV-V = ward vs ICU} and CURB-65 score {0 = outpatient, 1-2 = admit to ward, 3-5 = consider ICU} which suggests ***.
+2019 IDSA/ATS guidelines:
+- BCx, sputum culture and Gram stain, Legionella/Strep pneumo urine antigen only if severe CAP or suspected MRSA/Pseudomonas 
+- Trend procalcitonin, consider discontinuing antibiotics if >80% decrease from peak or absolute <25-50
+- If influenza positive, oseltamivir indicated regardless of duration of illness (check influenza during flu season)
+- Anaerobic coverage not recommended for aspiration pneumonia unless abscess/empyema suspected
+Treatment:
+- START ceftriaxone 1-2g daily x 5-7d (***-***) and azithromycin 500mg x 3d (***-***) {doxycycline if prolonged QTc or on digoxin. If can't do combination therapy, then fluoroquinolone monotherapy. 5 days preferred in nonsevere CAP, 7 days in severe CAP}
+- If risk factor for MRSA, add vancomycin or linezolid (preferred)
+- If risk factor for Pseudomonas, use antipseudomonal beta-lactam PLUS antipseudomonal fluoroquinolone
+- Consider transition to *** on discharge
+
+{Severe CAP is defined by at least 1 of: septic shock with need for vasopressors, respiratory failure requiring mechanical ventilation
+Or at least 3 of: RR >30, P:F ratio <250, multilobar infiltrates, confusion/disorientation, BUN >20, WBC <4, platelets <100,  temp <36, hypotension requiring aggressive fluid resuscitation
+
+MRSA risk factors: known prior infection, GPC in clusters on sputum Gram stain, IV antibiotics within 3 months, recent influenza-like illness, necrotizing/cavitary pneumonia, empyema, ESRD, MSM, living in crowded conditions, incarcerations, IVDU, contact sports
+Pseudomonas risk factors: known prior infection, GNB on sputum Gram stain, IV antibiotics within 3 months, structural lung abnormalities (eg, bronchiectasis), frequent COPD exacerbations requiring frequent glucocorticoid/antibiotic use
+
+Outpatient CAP without comorbidities: monotherapy with amoxicillin 1g TID, doxycycline 100 BID, or macrolide (UpToDate recommends combination therapy)
+Outpatient CAP with comorbidities: augmentin 500/125 TID, augmentin 875/125 BID, cefpodoxime 200mg BID *PLUS* macrolide/doxycycline. Or fluoroquinolone monotherapy
+Inpatient CAP without risk for MRSA and Pseudomonas: beta-lactam + macrolide/doxycycline, or fluoroquinolone monotherapy
+Inpatient CAP with risk factors for MRSA and Pseudomonas: vancomycin, cefepime, piperacillin-tazobactam, etc.
+HAP/VAP: develops after 48 hours in hospital or on ventilator.
+
+DOTPHRASE Hospital-acquired pneumonia / Ventilator-associated pneumonia
+Patient developed *** on ***. CXR with ***. >48 hours since hospitalization/intubation. 
+2019 IDSA/ATS guidelines:
+- F/u BCx, sputum culture and Gram stain, Legionella/Strep pneumo urine antigen
+- Trend procalcitonin, consider discontinuing antibiotics if >80% decrease from peak or absolute <25-50
+- Anaerobic coverage not recommended for aspiration pneumonia unless abscess/empyema suspected
+- F/u MRSA nares
+Treatment:
+- Prolonged infusions preferred if possible to optimize pharmacodynamics against MDR pathogens
+- START cefepime 2g q8h or piperacillin-tazobactam 4.5g q6h x 7d (***-***)
+- If recent IV antibiotics in 90 days or high risk for mortality: add second antipseudomonal with alternate mechanism (aminoglycoside, fluoroquinolone), add MRSA coverage (vancomycin or linezolid), consider broadening to carbapenem for ESBL coverage}
+
+DOTPHRASE Preoperative risk assessment 
+1. Cardiac Risk Stratification
+?	Revised Cardiac Risk Index = ***, conferring a Class *** risk and a ***% risk of major cardiac event
+?	Gupta Perioperative Risk = ***, conferring a ***% risk of MI or cardiac arrest
+?	Estimated Functional Capacity = *** METs 
+The planned surgery is *** and it is *** {emergent/urgent/elective}. The patient does {not} have any active cardiac conditions that would preclude {him/her} from surgery as defined by the American College of Cardiology such as unstable ACS, recent MI (<6 weeks), decompensated CHF, life-threatening arrhythmias, or severe valvular disease. The patient has {good/fair/poor} functional capacity as defined by attainable METs. Stress testing is NOT indicated based on lack of cardiac symptoms and adequate functional capacity. Major risk factors include: {CVA, CAD, CHF, DM, renal insufficiency with Cr > 2}, which our patient exhibits ***. The surgery-specific risk of cardiac death or nonfatal MI is {high >5% risk / intermediate 1-5% risk / low <1% risk}. Heart rate control with a beta blocker should be {continued/started}. 
+- Avoid cessation of low dose aspirin therapy used for secondary prevention (associated with three-fold increase in adverse cardiac events, 90-fold increase if stents are present)
+- Continue statin therapy
+- Beta blocker therapy should be initiated at least 2-4 weeks prior to surgery and titrated to heart rate 55-65
+- Hold ACEi/ARB on day of surgery unless patient has history of heart failure***
+- EKG in patients with cardiac disease (except in low-risk surgery) to have baseline should a posteperative test be abnormal
+- Otherwise, the patient should proceed to surgery without further risk factor modification
+
+
+
+2. Pulmonary Risk Stratification
+Major patient related risk factors for pulmonary complications identified in this patient include {ROS ENDO:300069::"smoking","COPD","ILD","URI","OSA","Age > 60","pulmonary hypertension","CHF","serum albumin < 3.5","CKD","dependent functional status","prior stroke with residual deficits"}. Surgery specific risk factors include {ROS ENDO:300069::"surgical site (thoracic and upper abdominal have most risk, also head and neck and major vascular procedures)","surgery > 3 hours","general anesthesia","emergency surgery"}. ARISCAT score is ***, indicating {ROS ENDO:300069::"low risk (1.6% risk of in hospital post-op pulmonary complications)","intermediate risk (13.3% risk of in hospital post-op pulmonary complications)","high risk (42.1% risk of in hospital post-op pulmonary complications)"}. Patient with ASA {ASA Status REQUIRED:11046}.
+- PFTs have not been shown to correlate with the incidence of pulmonary complications, nor have they been confirmed to be independent predictors of complications.
+- Reasonable to obtain a CXR in patients with known cardiopulmonary disease, age > 50, undergoing a high risk procedure
+- Smoking cessation > 8 weeks prior to surgery
+- Optimize management of COPD and asthma
+- Treat any lower respiratory tract infections
+- Aggressive incentive spirometry and chest PT pre- and post-operatively
+- Post-op nutritional support
+
+Delirium precautions
+The risk of perioperative delirium is ***.
+- Minimize and avoid when possible deliriogenic meds: Anti-cholinergics (eg, diphenhydramine, cyclobenzaprine, phenothiazine anti-emetics, benzodiazepines, centrally acting meds like metoclopramide.) 
+- For pain control, recommend tylenol 650 mg q6h around the clock to reduce narcotic requirement.
+- Frequent re-orientation by health-care providers and by orienting stimuli like sign close to bed giving location, date
+- Window bed to promote normal circadian rhythm
+- Provision of hearing aides and eyeglasses, if patient has them
+- Remove Foley catheter ASAP after surgery
+
+
+
+DOTPHRASE Sepsis
+SIRS: *** (body temp <36 or >38, HR >90, WBC <4 or >12, RR >20), qSOFA: *** (AMS, SBP <100, RR >22) on admission.
+Presented with ***. Labs notable for WBC ***, lactate ***. Meets criteria for ***. Most likely sources include ***. 
+Workup:
+- Daily CBC
+- F/u BCx, UCx
+- F/u CXR
+- F/u procalcitonin
+- F/u RVP
+- F/u COVID
+Treatment:
+- Abx: *** for *** day course (*** - ***)
+- Fluids: *** (30cc/kg)
+- Pressors: *** for MAP>65
+- Source Control: ***
+
+DOTPHRASE STEMI, {region}:
+Patient with *** previously known CAD/MI *** and risk factors of ***{DM, HLD, HTN, Smoking, Age >45men/>55women, FHx of CAD/MI at age <45m/<55w} presented with symptoms of ***. EKG with *** and troponin ***.  Patient was taken to cardiac catheterization on arrival which showed *** and was intervened with ***. Currently is *** chest pain free.
+Workup:
+- Admit to CCU
+- Trend troponin
+- Serial EKGs
+- Telemetry
+- TTE
+- CAD Risk factor screening: A1c, lipid panel, TSH, UTox, LFTs, coags
+- Daily BMP, Mg; replete PRN K >4.0 and Mg >2.0
+Treatment:
+- Titrate O2 as needed for symptoms
+- Antiplatelet: 
+- s/p ASA 325mg load and ticagrelor 180mg load
+	- ASA 81mg daily and ticagrelor 90mg BID
+- Anticoag: heparin gtt
+- Plaque stabilization: atorvastatin 80mg qhs
+- Cardiac remodeling prevention: {BB} and {ACEi/ARB}
+- Consider IV morphine PRN
+- NTG PRN chest pain
+
+{- ASA 81mg PO daily (initial 162-324mg = 2-4x 81mg chewable tablets)
+(Consider higher dose >30 days if get BMStent, >3 months if get DEStent, otherwise CURE trial suggests 81mg should be adequate, while higher doses just increase bleeding)
+- Clopidogrel 75mg PO daily (initial load 300mg if no cath, 600mg if cath planned) 
+(Hold 5 days if surgery / CABG planned, suggested by diabetes, cardiogenic shock or VA patient since likely multi-vessel disease that will need surgery, probably should ask Cards fellow or attending first)
+(Continue >30 days if get BMStent, >1 year if DEStent or only planning medical management)
+- Atorvastatin 80mg PO daily, check lipid panel 
+(Start high-dose statin prior to discharge regardless as per MIRACL and PROV-IT)
+
+- Consider Beta-blocker: Metoprolol 12.5mg PO bid (titrate to goal HR<70) 
+(Hold if SBP<90 / cardiogenic shock) 
+(Beware may actually worsen near-term mortality from shock, especially if use IV.  Start prior to discharge)
+- NTG + morphine PRN chest pain or NTG drip if ongoing chest pain 
+(Hold if hypotensive / cardiogenic shock / inferior MI / sildenafil within past 24 hours)
+
+- Anti-coagulation (Heparin drip per ACS protocol)
+(Enoxaparin if planning medical management only (no cath), slightly superior as per ESSENCE, more appropriate if Low Risk TIMI <=2, but ask Interventional first as they usually prefer reversible and monitorable heparin)
+(Continue until catheterization or at least 48hrs if only medical management)
+
+(High Risk TIMI >=3) (Favor GP IIb/IIIa and early angiography)
+- Consider GP IIb/IIIa inhibitor (e.g., eptifibatide) if ongoing chest pain, elevated troponin on presentation, heart failure, diabetes or otherwise planning early angiography (within 24-48hrs), but only helps if actually getting catheterization and per ACUITY and EARLY, same effect if wait until just prior to PCI, so usually defer to interventional cardiology
+(Continue until catheterization, then 6-12 hours)
+
+Prior to Discharge (core measures)
+- Assess LV Function (i.e., TTEcho)
+- ACE-I / ARB if EF<40% (though GISSI-3 indicates can help regardless of EF)
+- Eplerenone (or spironolactone) if new EF<40% (as per EPHESUS)
+- Beta-blocker}
+
+DOTPHRASE Acute complicated UTI / pyelonephritis
+Presented on *** with {fever/chills, flank pain, CVA tenderness, dysuria, urgency, frequency, suprapubic pain}. UA positive for ***. Complicated given ***. 
+- S/p *** x1 in ED
+- F/u BCx
+- F/u UCx
+- Start *** (***-), narrow pending susceptibilities
+- 10-14d total course if beta-lactam is chosen, 7-10d course if TMP-SMX, 5-7d course if fluoroquinolone
+
+{Acute simple cystitis
+Presented to outpatient clinic with {dysuria, urgency, frequency, suprapubic pain}. UA positive for ***. Not complicated given lack of fever, flank pain, or CVA tenderness.
+- F/u UCx to confirm susceptibilities
+- Start *** for *** day course (***-***)
+
+Risk factors for MDR (in past 3 months): positive MDR urinary culture, inpatient stay at healthcare facility or nursing home, antibiotics, international travel to area with high rate of MDR (Spain, Mexico, India, Israel)
+
+Inpatient for acute complicated UTI:
+- Ceftriaxone 1g daily (2g daily if septic) then narrow as appropriate (10-14d total for beta-lactam, 7-10d total for TMP-SMX, 5-7d total for fluoroquinolone)  
+- If risk factors for Pseudomonas, cefepime 1-2g q12h (2g q8h if septic) then narrow as appropriate.
+- If risk factors for MDR, meropenem 1g q8h or piperacillin-tazobactam 3.375g q6h.
+- If critically ill, obtain additional abdominal/pelvic imaging (CT with/without contrast or renal US) AND add vancomycin. Consider urologic consultation especially if suspected obstruction.
+
+Outpatient for acute complicated UTI: 
+- Ciprofloxacin 500mg bid x 5-7d or levofloxacin 750mg daily x 5-7d. 
+- If E. coli fluoroquinolone resistance >10%, then ceftriaxone 1g IV/IM (or ertapenem/gentamicin/tobramicin) once then ciprofloxacin 500mg bid x 5-7d or levofloxacin 750mg daily x 5-7d. 
+- If can't take fluoroquinolones, then ceftriaxone 1g IV/IM (or ertapenem/gentamicin/tobramicin) once then TMP-SMX DS bid x 7-10d, augmentin 875mg bid x 10-14d, or cefpodoxime 200mg bid x 10-14d. 
+- If risk factors for MDR, then ertapenem 1g IV/IM once then ciprofloxacin 500mg bid x 5-7d or levofloxacin 750mg daily x 5-7d.
+
+Outpatient for acute simple cystitis: 
+- Nitrofurantoin 100mg bid x 5-7d (okay in older women with mild renal impairment, but avoid if GFR <30), TMP-SMX DS bid x 3-7d (slightly higher rates of resistance), fosfomycin 3g powder x1 dose (generally reserved for MDR infections). 
+- If can't, then augmentin 500mg bid x 5-7d, cefpodoxime 100mg bid x 5-7d, cephalexin 250-500mg QID x 5-7d. 
+- If can't, then ciprofloxacin 250mg bid x 3d or levofloxacin 250mg daily x 3d.
+
+UTIs in men no longer considered complicated if no signs of infection extending past the bladder (fever, flank pain, CVA tenderness). If positive pelvic/perineal pain, pain radiating to tip of penis, obstructive symptoms such as dribbling/hesitancy, consider prostatitis which WOULD be complicated and warrants treatment with fluoroquinolone. Also get G/C testing in sexually active men. Patients with underlying urologic abnormalities, immunocompromised states, or poorly controlled diabetes are also no longer automatically considered complicated.}
+
+DOTPHRASE #social Hx#
+Residence: ***
+Occupation: ***
+Smoking: ***
+Alcohol: ***
+Drugs: ***
+ADLs: ***
+Hobbies: ***
+
+Last updated: @TD@
+
+DCHF
+===============================================================
+
+DOTPHRASE INFORMATION ABOUT YOUR CONGESTIVE HEART FAILURE (CHF)
+                                                                        
+Taking Care of Yourself At Home:
+?	Weigh yourself every morning after voiding, wearing the same clothing and before eating.  
+?	Get enough rest – and get plenty of sleep each night.  
+?	Plan 30 minutes of daily activity – stop and rest if you feel tired or short of breath during any activity.  
+?	You may be able to take the UCDHS ‘DO MORE with HEART FAILURE’ class.  Call (916) 734-0718 for information.  
+?	IF YOU SMOKE – STOP! You may be able to take the UCDHS ‘Smoking Cessation’ program. Call (916) 734-8493 for information. Also ask your doctor for help to quit smoking.
+
+Medicines:
+?	Take all the medicines that your doctor gives you.
+?	Don’t run out of medicines.  Order more medicines when you have one week of pills left.
+?	Carry a list of your medicines, the amount that you take and the times you take them every day.  Add any herbal or over-the-counter medicines to your list.
+
+Diet:
+?	Eat fresh fruits and vegetables.  Choose low fat dairy foods.
+?	Use less than 2000 mg of salt or sodium every day.  Read the labels on cans, frozen foods and prepared foods.  Do not add salt when cooking!
+?	Do not drink more than 2000 ml or 48 ounces a day.
+?	Drinking too much alcohol can hurt your heart, liver and brain. 
+
+Call your doctor if:
+?	You gain or lose 2 or more pounds in a day or 3 to 5 pounds in a week.
+?	You begin urinating less frequently.
+?	Your feet or ankles swell more than usual.
+?	You can’t keep up with your normal activities.
+?	Breathing becomes more difficult, or you start coughing at night.
+?	You notice any new symptoms, or your symptoms get worse.
+
+If you develop chest pain, chest tightness, chest pressure and/or shortness of breath and/or nausea for more than 5 minutes CALL 9-1-1. 
+
+===============================================================
+ 
+
+DOTPHRASE KAISER HOSPITAL - DISCHARGE INSTRUCTIONS: FOR @NAME@ 
+- You were admitted to the hospital on @ADMITDT@ and discharged on @TD@
+- You were treated in the hospital for: ***
+- You were discharged by @ME@ 
+- You had following procedures done : {OPERATIVE/NON-OPERATIVE PROCEDURES IP NCAL:290891}
+
+YOU CAN REACH HOSPITAL DISCHARGING PHYSICIAN FOR UP TO 3 DAYS AFTER DISCHARGE
+- Your discharging physician wants to help you make a safe transition home
+- You may reach discharging physician directly by calling the hospital operator at 916-973-4424 for non-urgent issues within the first 3 days after discharge.  
+- Physician will call back as soon as can. Please do not expect a call back right away.  
+- You may receive a call back from another Hospital Medicine physician if your discharging physician is not available.
+- After 3 days, please contact your primary care doctor
+
+FOLLOW UP APPOINTMENTS & TESTS
+- {Follow-up Instructions:294124}
+
+- You can also send your primary care provider a non-urgent message at www.kp.org Message Center (or using your KP smartphone app). 
+- It may take up to 2 business days for your primary care provider to respond back to you.
+- You can schedule a lab appointment on www.kp.org (or using the KP smartphone app) to avoid having to wait at the lab
+
+THINGS TO DISCUSS WITH YOUR PRIMARY DOCTOR
+***
+
+{BP/FSBG/Incidental:280584}
+
+WHEN TO CALL SOMEONE
+Call the appointment / advice line at 1-866-454-8855, if you need to change your appointment
+Call if you experience any of the following symptoms:
+- Temperature of 101 degrees F or above.
+- Pain unrelieved by medication.
+- Persistent nausea, vomiting and/or inability to eat.
+- Increase in fatigue, confusion or dizziness.
+- Diarrhea that is bloody or occurs more than 5-6 times a day or persists for more than 3-4 days.
+- Call 911 for any kind of emergencies.
+
+IF YOU ARE NOT A KAISER MEMBER
+Please contact your primary care provider directly for follow-up or if questions arise
+
+FOLLOWING REFERRALS HAVE BEEN MADE FOR YOU ON DISCHARGE 
+{Referrals:294126}
+
+RECOMMENDED DIET, ACTIVITIES/LIFESTYLE AND EQUIPMENT 
+{DIET SELECTIONS:294127}
+
+{MY ACTIVITIES AND LIFESTYLE:294128}
+
+{BATHING/EQUIPMENT/WOUND:294129::" "}
+
+OTHER IMPORTANT INFORMATION FOR YOU
+{CORE MEASURES DCI:294136}
+
+{PNEUMONIA MRSA CHF INSTRUCTIONS:280585::" "}
+
+@DCISUICIDE@
+
+YOUR DISCHARGING PHYSICIAN
+@ME@ @TD@ @NOW@
+
+
+DOTPHRASE === FASTHUGSBID
+F: @IPDIET@
+A: {analgesia}
+S: {sedation}
+T: {lovenox, or heparin if poor kidney function}
+H: head >30 degrees
+U: - *** {Ventilation >48 hours, coagulopathy (platelets <50, INR >1.5, PTT >2 UNL), GI ulceration/bleeding in past year, TBI/spinal cord injury/burn OR 
+2+ of sepsis, ICU >1 week, occult GI bleeding >6 days, steroid >250mg hydrocortisone/wk, NSAID/antiplatelet use}
+G: goal 140-180
+S: daily SBTs
+B: {bowel regimen} (@FLOWDETAILSR(76309:)@ )
+I: {indwelling lines}
+D: {de-escalate antibiotics}
+Code status: {CSLCODESTATUS:"22021"}
+
+DOTPHRASE ==========ICU
+ICU ACADEMIC TEAM PROGRESS NOTE
+
+Date of service: @TD@
+Attending: @ATTPROVNR@
+
+Patient Name: @NAME@
+Patient MRN: @MRN@
+Date of Admission: @ADMITDT@ 
+
+ACTIVE ICU PROBLEMS: *** 
+
+INTERVAL HISTORY: *** 
+
+SUBJECTIVE: *** 
+
+OBJECTIVE: 
+
+{:268143}
+@IOBRIEF@ 
+VENTILATOR SETTINGS:***
+
+PHYSICAL EXAMINATION: *** 
+@PHYSEXAM@
+
+
+MEDICATIONS 
+Vasopressors: *** 
+Antibiotics: *** 
+Sedation: *** 
+GI bleed prophylaxis: *** 
+DVT prophylaxis: *** 
+@HOSPMEDS@
+
+
+TUBES, LINES, DRAINS, RESTRAINTS: 
+Foley catheter present, indications reviewed, patient continues to require this for monitoring of fluid status and prevention of incontinence.*** 
+
+Central line/PICC present, indications reviewed, patient continues to require this for medication administration/IV access.*** 
+
+Others: *** 
+Restraints:{yes or no:168592}
+
+SELECTED LAB RESULTS: {RECENT LAB RESULTS:268062:} 
+@LABRCNT(lactate:3)@
+
+MICROBIOLOGY:
+@LASTUC@
+@LASTBLOODCULTURE2@
+***
+
+IMAGING: 
+@LASTIMAGING1DAY@
+CXR: *** 
+  
+
+IMPRESSION: 
+@PROBHOSP@ 
+
+F: @IPDIET@
+A: {analgesia}
+S: {sedation}
+T: {lovenox, or heparin if poor kidney function}
+H: head >30 degrees
+U: - *** {Ventilation >48 hours, coagulopathy (platelets <50, INR >1.5, PTT >2 UNL), GI ulceration/bleeding in past year, TBI/spinal cord injury/burn OR 
+2+ of sepsis, ICU >1 week, occult GI bleeding >6 days, steroid >250mg hydrocortisone/wk, NSAID/antiplatelet use}
+G: goal 140-180
+S: daily SBTs
+B: {bowel regimen} (@FLOWDETAILSR(76309:)@ )
+I: {indwelling lines}
+D: {de-escalate antibiotics}
+CODE STATUS:@CODESTATUSR@ 
+Expected disposition: *** 
+
+@MYSIG@
+
+
+=======
+DOTPHRASE ACADEMIC ICU TRANSFER SUMMARY:
+
+Patient Name: @name@
+MRN: @mrn@
+DOB: @dob@
+Admit Date: @admitdt@
+Transfer Date: @td@
+
+Anticipatory Guidance/Pending Studies:
+***
+
+Brief Summary of Hospitalization:
+***
+
+Hospital Course by Active Problem:
+***
+
+Transfer Exam:
+Vitals: {:268143}
+
+General appearance -  { :270697}
+Mental status - {:67084}
+Eyes - {:67085}
+ENT - Mouth { :67098}
+Neck - {:67087}
+Lymphatics - {:67088}
+Respiratory - { :67089}
+Cardiovascular -  { :67090}
+Abdomen - {:67091}
+Neurological - {:67093}
+Extremities - {:15109}
+Skin - {:67095}
+
+Scheduled Medications at the Time of Transfer:
+@HOSPMEDS@
+
+Procedures:
+***
+
+Current Active Lines/Tubes:
+Foley: {YES NO:26878}
+•	Indication: {Foley Indications:237914}
+•	Plan for removal: {na:160439}
+
+Central Line: {YES NO:26878}
+•	Date placed: ***
+•	Type of line: {Central Line Site:291789}
+•	Indication: {CENTRAL LINE INDICATION:25211}
+•	Plan for removal: {na:160439}
+
+Other Lines/Drains/Tubes: ***
+
+Goals of Care/Advanced Planning:
+Current code status: {Code Status:291795}
+Any relevant discussions regarding prognosis/GOC: ***
+
+Family Involvement:
+Person of contact: ***
+Relationship: ***
+Phone Number: ***
+
+Electronically signed by:
+@MYSIG@
+
+=======================IM/ICUHPI
+
+DOTPHRASE ADMISSION HISTORY AND PHYSICAL
+
+CHIEF COMPLAINT: ***
+
+HPI: 
+@NAME@ is a @AGE@ear old @SEX@ with 
+
+ROS: 
+Review of systems negative except for those noted in HPI.
+
+PMH:
+@PMH@
+PSH:@PSH@
+FAMILY HISTORY:
+@CAPHIS@ @FAMHXP@
+
+SOCIAL HISTORY:
+Residence: ***
+Occupation: ***
+Smoking: ***
+Alcohol: ***
+Drugs: ***
+ADLs: ***
+Hobbies: ***
+
+ALLERGIES: @ALLERGY@
+MEDICATIONS:
+@PTAMEDS@
+PHYSICAL EXAM:
+@VSNR@
+Gen - ***, nad
+CV - RRR no mrg
+Lungs - CTAB
+Abd - soft nontender nondistended
+Extremities - no LE edema
+Neuro - AOx3
+
+LABS: 
+@RESULTSLAST24HRS@MICRO:
+***
+
+IMAGING/STUDIES: 
+@LASTIMAGING1DAY@
+
+@HBSSEPSISDIAGNOSISDOC@Septic shock : {sacsepticshockreassessment:191035}
+Stroke/SAH/ICH: {YES/NO:170923}
+
+
+ASSESSMENT/PLAN:
+***
+
+
+
+======== CHRONIC / STABLE / RESOLVED ========
+
+
+
+Disposition
+Prior residence: {home, B&C, SNF, etc. and who do they live with}
+Baseline ADLs: {independent? fully ambulatory? poor? needs assistance? how about compared to now?}
+Dispo needs: {PT, OT, SW, PICC, HH, etc. and their recommendations}
+Anticipated discharge: {location and date}
+Follow-up: with PCP @PCP@ in ***
+
+Foley Catheter: {sacfoleyreasons:171261}
+Telemetry: {YES  (DESCRIBE)/NO:260943::"no"}
+Central/PICC Line: {yes or no:168592} {indications reviewed, patient continues to require this for medication administration/IV access.} 
+DVT Prophylaxis: Yes -  {NVLY DVT Prophylaxis List:289452}
+Restraints: {yes or no:168592}
+Nutrition: @IPDIET@
+Bowel Regimen: {miralax/senna should be default} (Last Bowel Movement @FLOWDETAILSR(76309:)@)
+Mobility: ***
+Code Status: @CODESTATUSR@
+
+DISCHARGE PLANNING:
+- Anticipated date of discharge: ***
+- Disposition anticipated: { :36441::"unknown","level of care higher than home","assisted living facility","Board and Care","SNF","home"}
+- Potential barriers to discharge: {Blank:26098::"***","Foley","teaching for ***","lines","drains","restraints","mode of nutrition","mobility"}
+- {SAC HBS Spoke With:288889}
+
+@MYSIG@
+
+
+—---------------------------
+
+DOTPHRASE ACADEMIC TEAM PROGRESS NOTE 
+
+Date of service: @TD@
+Attending: @ATTPROVNR@
+
+Patient Name: @NAME@
+Patient MRN: @MRN@
+Date of Admission: @ADMITDT@ 
+@LOS@
+INTERVAL EVENTS:
+- ***
+
+SUBJECTIVE:
+***
+
+MEDICATIONS: @HOSPMEDS@OBJECTIVE:
+@VSNR@@IOBRIEF@
+Gen - ***, nad
+CV - RRR no mrg
+Lungs - CTAB
+Abd - soft nontender nondistended
+Extremities - no LE edema
+Neuro - AOx3, CN 2-12 intact, 5/5 strength upper and lower extremities
+
+SELECTED RESULTS
+@LABCBCS7DAYS@@LABLYTES7DAYS@@LABLFTS7DAYS@@LABCARDS7DAYS@@LABCOAGS7DAYS@@LASTLIPID@@LASTHBA1C@@LASTTSH@MICROBIOLOGY:
+@LASTUC@@LASTBLOODCULTURE2@
+IMAGING: 
+@LASTIMAGING1DAY@
+
+ASSESSMENT/PLAN:
+@NAME@ is a @AGE@ear old @SEX@
+
+
+
+======== CHRONIC / STABLE / RESOLVED ========
+
+
+
+Disposition
+Prior residence: {home, B&C, SNF, etc. and who do they live with}
+Baseline ADLs: {independent? fully ambulatory? poor? needs assistance? how about compared to now?}
+Dispo needs: {PT, OT, SW, PICC, HH, etc. and their recommendations}
+Anticipated discharge: {location and date}
+Follow-up: with PCP @PCP@ in ***
+
+Medical necessity for continued hospital care: ***
+
+Foley Catheter: {sacfoleyreasons:171261}
+Telemetry: {YES  (DESCRIBE)/NO:260943::"no"}
+Central/PICC Line: {yes or no:168592} {indications reviewed, patient continues to require this for medication administration/IV access.}
+DVT Prophylaxis: Yes -  {NVLY DVT Prophylaxis List:289452}
+Restraints: {yes or no:168592}
+Nutrition: @IPDIET@
+Bowel Regimen: ***
+Last BM: @FLOWDETAILSR(76309:)@ 
+Mobility: ***
+Code Status:@CODESTATUSR@
+
+DISCHARGE PLANNING:
+- Anticipated date of discharge: ***
+- Disposition anticipated: { :36441::"unknown","level of care higher than home","assisted living facility","Board and Care","SNF","home"}
+- Potential barriers to discharge: {Blank:26098::"***","Foley","teaching for ***","lines","drains","restraints","mode of nutrition","mobility"}
+- {SAC HBS Spoke With:288889}
+
+Electronically signed by:
+@MYSIG@
+
+DOTPHRASE safesurgery
+We want you to have a safe and successful surgery.
+Please follow these instructions.
+{NVL PREOP STUDIES:211193}                                                                                                                                                                                                                     
+One Week before surgery
+{POMNSAID2:226770}
+{NVL BLOOD THINNERS TO HOLD:211201}
+The Evening Before Surgery 
+{NVL DAY BEFORE MEDS TO CHANGE:205137} 
+{NVL DAY BEFORE SURGERY:211205}
+
+On the morning of surgery
+Rinse your mouth, brush, and floss your teeth well the morning of surgery.  
+Don't take the following medications:
+{hold these meds day of surgery:152093}
+
+{dayofsurgerymeds:220744}
+
+**FOR YOUR SAFETY, please follow the critical information below to prevent surgical complications or cancellation of your surgery**
+{NVLYPOMNPO:213888}
+                                                                                                                        	
+Other special instructions:  
+{NVL OTHER SPECIAL INSTRUCTIONS:211209}
+
+Infection with coronavirus would complicate and will likely postpone your surgery.  
+The best way to minimize your chance of infection is physical distancing.  
+Physical distancing means putting space between you and other people. The recommended distance is 6 feet, or about 2 meters. This means staying away from any place where people may gather, such as parks or other public gathering places. Physical distancing is the best way to reduce the spread of COVID-19. 
+If you do go out, wear a mask.  Wash your hands often with soap and water. Don’t touch your eyes, nose, or mouth. If you can’t wash, use an alcohol-based hand sanitizer.
+
+=============
+OBJECTIVE:
+@VSNR@
+@IOBRIEF@
+
+PHYSICAL EXAM:
+***
+
+SELECTED RESULTS
+@LABCBCS7DAYS@
+@LABLYTES7DAYS@
+
+====================
+
+
+DOTPHRASE surgery perioperative note 
+Perioperative Medicine Consultation
+
+Procedure Information:
+@FUTURESURGERY@
+
+History provided by: {POM Chief Complaint:287612}
+
+Chief Complaint and History of Present Illness:
+@ID@ with a history of *** for which he is scheduled for surgery.
+
+@PROBLR@
+@PSH@
+@ALLERGY@
+@ACTMEDNOTE@
+
+Social History:  ***
+@ZZSOCH@
+
+Family History: {Family History:294995::"non-contributory"}
+
+Family History of Anesthesia Complications: {FAMILY HISTORY:291931::"None"}
+
+Personal History of Anesthesia Complications: {PERSONAL HISTORY ANESTHESIA COMPLICATIONS PREOP TEL HISTORY KP IP NCAL:289002::"none"}
+
+Review of Systems: 
+General: Denies {POM1 (POM-NCAL):285997::"fever","chills","weight change","fatigue","weakness"}
+Cardiovascular: Denies {POM2 (POM-NCAL):285998::"chest pain","orthopnea","PND","palpitations with exercise or at rest"}
+Respiratory: Denies {POM3 (POM-NCAL):285999::"recent SOB","orthopnea","dyspnea","cough (productive)"}
+Neuro: Denies {NEURO:289004::"fainting","seizures","weakness of extremities","numbness","headaches"}
+GI: Denies {POM4 (POM-NCAL):286000::"GERD"}
+GU: Denies {POM5 (POM-NCAL):286001::"dysuria","frequency","urgency","history of difficult foley catheter placement."}
+Heme: Denies {POM6 (POM-NCAL):286002::"easy bruising","bleeding"}
+Musculoskeletal: Denies {POM7 (POM-NCAL):286003::"joint pain","decreased ROM neck"}
+Skin: Denies {POM8 (POM-NCAL):286004::"rashes","abrasions","cuts","skin infection","skin changes over the surgical site"}
+Other: {GEN NONE DEFAULT:24846::"none"}
+
+Vital Signs:
+@BMI@
+@LASTSPO2(3)@
+@LASTBP(3)@
+@LASTPULSE(3)@
+@LASTTEMP(3)@
+
+Physical Exam:
+General appearance - {GENSURG GEN APPEARANCE :93722::"alert, well appearing, and in no distress"}
+Mental Status - {mental status exam:32388::"alert, oriented x 3"}
+Eyes - {GENSURG EYE EXAM:32389::"pupils equal and reactive"}
+Nose - {GENSURG PE NOSE:32390::"normal and patent"}
+Neck - {PE NECK:32392::"supple, no significant adenopathy"}
+Chest:- {CHEST :15033::"clear to auscultation, no wheezes, rales or rhonchi, symmetric air entry"}
+Cardiovascular - {Heart Exam:15510::"normal rate, regular rhythm, normal S1, S2, no murmurs, rubs, clicks or gallops"} 
+Abdomen - {GENSURG PE ABDOMEN:32399::"soft, nontender, nondistended, no masses or organomegaly"}
+Neurologic - {neuro:15902::"alert, oriented, normal speech, no focal findings or movement disorder noted"}
+Extremities - {GENSURG PE EXTREMITY EXAM:39233::"no clubbing, cyanosis or edema"}
+Skin - {GEN SURG SKIN:36950}
+
+Pre-Operative Screening
+
+Pregnancy Testing: 
+{PREGNANCY TESTING IP NCAL:291944}
+
+Obstructive Sleep Apnea Criteria:
+{OBSTRUCTIVE SLEEP APNEA CRITERIA SYMPTOMS:290908::"None"}
+
+Exercise/Functional Capacity: 
+{Choose the highest level of activity the patient can perform without cardiac or pulmonary symptoms:290909::"Patient's current level of activity includes the following: *** "}
+
+History of Cardiac Stent:  {POM HX OF CARDIAC STENT:287658::"No"}
+
+Objections To Blood Transfusions: {YES W/ WILDCARD -NO (DEFAULT=NO):291973::"NO"}
+
+Labs:
+@LABBRIEF(WBC,HCT,PLT)@
+@LABBRIEF(NA,K,CL,CO2,BUN,CR,RBS,HGA1C)@
+@LABBRIEF(PT,PTT,INR)@
+@LABBRIEF(ABORH)@
+***  
+
+Review of Other Relevant Data:
+EKG:  {EKG PREOPERATIVE TELEPHONE HISTORY KP IP NCAL:289005::"none"}
+
+Echo: {ECHO PREOPERATIVE TELEPHONE HISTORY:289006::"none"}
+
+Cardiac Stress Test: {CARDIAC STRESS TEST PREOPERATIVE TELEPHONE HISTORY KP IP NCAL:289007::"none"}
+
+Patient Class: @ptclass@
+
+Pneumonia Prevention Education: {Pneumonia Prevention Education:293047}
+
+Impression:
+@ID@ is {IMPRESSION PREOPERATIVE TELEPHONE HISTORY KP:289010::"optimized for planned surgery."}
+
+The following studies have been ordered or are pending at the time of this visit:{IMPRESSION STUDIES PREOPERATIVE TELEPHONE HISTORY KP IP NCAL:289011::"none"}
+
+Assesment and Plan:
+@DIAG@
+
+
+{Document Ambulatory And Hospital Chronic Problems:293009}
+
+***
+Medication Consent:
+- Patient is on {sacpombloodthinner:239282} for {sacpombloodthinerreasons:239283}. 
+- For this surgery, the surgeon requires the patient to stop {sacpombloodthinner:239282} to decrease bleeding risk. 
+- I have informed the patient of the increased risk of {sacpombloodthinnerholdrisks:239284} due to stopping {sacpombloodthinner:239282}.  
+- The patient understood the risks and wishes to proceed.
+
+
+DOTPHRASE ----------STROKE
+NIH Stroke Scale:
+1 a	Level of Consciousness	{NEURO NIHSS LOC:48330}
+   b	LOC Questions- 	(The patient is asked the month and his/her age)
+{NEURO NIHSS LOC QUESTIONS:48332}
+   c	LOC Commands- 	(The patient is asked to open & close the eyes and then grip & release the non-paretic hand)
+{NEURO NIHSS LOC COMMAND:48336}
+2	Best Gaze	{NEURO NIHSS BEST GAZE:48337}
+3	Visual fields	{NEURO NIHSS VISUAL:48338}
+4	Facial Palsy	{NEURO NIHSS FACIAL PALSY:48339}
+5 a	Motor Arm Right	{NEURO NIHSS ARM:48344}
+   b	Motor Arm Left	{NEURO NIHSS ARM:48344}
+6 a	Motor Leg Right	{NEURO NIHSS LEG:48349}
+   b	Motor Leg Left	{NEURO NIHSS LEG:48349}
+7	Limb Ataxia	{NEURO NIHSS LIMB ATAXIA:48350}
+8	Sensory	{NEURO NIHSS SENSORY:48351}
+9	Best Language	{NEURO NIHSS LANGUAGE:48353}
+10	Dysarthia	{NEURO NIHSS DYSARTHIA:48357}
+11	Extinction and Inattention (Neglect)	{NEURO NIHSS NEGLECT:48360}
+	TOTAL	***
+
+=============
+NTD/CIS
+Fluids: per NF
+Abx: 
+Pain: per NF
+Sedation: per NF
+Pressors: 
+Capacity: 
+CODE: 
+Dispo: 
+
+DOTPHRASE afib
+#Atrial Fibrillation: Symptoms consist of lightheadedness, palpitations, and SOB. EKG with absent p-waves, and irregularly irregular. CHADS2-VASC of *** indicating ***. Etiology likely ***. Will obtain the following diagnostic workup and rate control with beta-blocker.
+- F/u BMP, CBC, TSH, Trop
+- Consider TTE when rate controlled
+- Monitor with continuous telemetry
+- Rate control with goal <  80 bpm at rest <  110bpm with exertion
+- Metop tartrate 5mg IV over 2 min up to 3 doses. Once stable - Maintenance: 25-100mg (2.5x home dose PO?) BID (or succinate 50-400mg DAILY, or carvedilol 3.125 to 25mg BID).
+- Dilt (if no HF, WpW): IV: 0.25 mg/kg IV. Then 5-15mg q1h.
+- Adenosine (DON”T USE if  AFib), Digoxin, Cardioversion 
+- Anticoag (Don't use more than two agents at a time)
+
+
+A-fib causes: Rx | Thyroid | MI | CHF | Valves | PE | Inf
+Pulmonary embolism, pulmonary disease, post-operative
+Ischemic heart disease, idiopathic (“lone atrial fibrillation”)
+Rheumatic valvular disease (mitral stenosis or regurgitation)
+Anemia, alcohol (“holiday heart”), age, autonomic tone (vagal atrial fibrillation)
+Thyroid disease (hyperthyroidism)
+Elevated blood pressure (hypertension), electrocution
+Sleep apnea, sepsis, surgery
+
+DOTPHRASE CHF
+#Congestive Heart Failure, NYHA (I: no limitation, II: mild limitation, III: marked limitation, IV: sxs at rest), ACC/AHA Stage (A: risk of HF, no structural change ; B structural change without sxs ; C structural change with sxs ; D refractory to Tx need transplant)
+*** Ischemic Cardiomyopathy, HTN, Toxic, Arrhythmia, valvular.  Last Echo *** EF ***, (MR***, TR***, AS***). Volume Overload? ***, Pressure Overload? ***, Low-Output? ***. Dry weight ***. (Diastolic Heart Failure / HFpEF.  Few trials, with none showing any intervention with mortality benefit. Intuitively, manage with HTN and volume/diuretic control)
+***Physical Exam findings: S3 (99% specific), hepatojugular reflex, orthopnea, US IVC (maximum size < 2.1 cm and a collapse >50% during sniff = right atrial pressure 0–5 mm Hg, maximum size > 2.1 cm; collapses >50% during sniff = 5–10 mm Hg, maximum size > 2.1; collapses <50% during sniff = 10–20 mm Hg)
+
+[] ACEi/ARB/ARNI: [if not, give contraindication] Lisinopril starting dose 2.5-5 mg daily, target 20-40 mg OR Enalapril 1.25-2.5 mg BID, target 10-20 mg BID OR Losartan 25-50 mg daily, target 150 mg daily OR candesartan 4 mg daily, target 32 mg daily
+[] Beta-blocker: [if not, give contraindication] Carvedilol starting dose 3.125 mg BID, target does 25 mg BID or 50 mg BID >85 kg OR Bisoprolol starting dose 1.25 mg, target 10 mg daily OR Metoprolol XL 25 mg daily, target dose 200 mg daily
+[] C: Will need referral to Care Transitions (535-7598)
+[] Diuretic: Lasix ***. Net *** since admission.
+[] D: Strict I/O, daily weights (dry weight ***), fluid restriction (***)
+[] E: *** TTE notable for LVEF ***% (Takotsubo- Transient apical balloon syndrome - stress cardiomyopathy, temporary "Broken heart syndrome" (e.g. pheo, sepsis, shock) (McConnell sign- right heart akinesis with apical sparing usually in PE)
+[] Consider spironolactone (if EF<35% and GFR>30 with good monitoring follow-up), BiDil (Isordil/Hydralazine 37.5/20 in AA as per A-HeFT) if already on ACE-i/BB and EF <35%
+[] Consider SGLT2-I if Dm2
+
+Dx:
+- TTE to assess for EF
+- BNP to monitor response to diuresis (good sensitivity)
+- CXR to assess for pulmonary edema
+
+Tx: 
+- Afterload, Goal MAP <70, Lisinopril/Losartan *** (Isordil/Hydralazine 37.5/20 (Specifically in African Americans as per A-HeFT)) mortality benefit
+- Beta-Blockade: Carvedilol (Metoprolol if want rate control more than BP control) *** morality benefit (Cessation does not improve feelings of wellbeing or dyspnea Eur Heart J 2009; 30:2186-2192)
+- start afterload reducers (ACEI/diuretics) before BB because it can make initially worse (titrate slow). Hold for sxs, not low BP
+- Spironolactone (if EF<35% and GFR>30 with good monitoring follow-up) *** mortality benefit
+- Mechanical: BiV Pacer for cardiac resynchronization if LBBB / wide QRS (>120-150ms) *** or ICD if EF<35% after 3-6 months optimal med therapy and non-terminal Class IV sx ***
+- Diuretics: No difference in bolus vs. infusion as per DOSE
+   - Furosemide 40 PO:Furosemide 20 IV:Bumetanide 1 IV/PO (PO furosemide may absorb less reliably during volume overload due to gut edema)
+  -  HCTZ (synergistic with loop diuretic, but may worsen hyponatremia).   
+  - IV diureses >1L negative per day until approach euvolemia/worsening renal function.
+  - If diuresis isn't working, may need ionotropic support with dobutamine otherwise Cr will increase, and if that doesn't work, may need RHC
+- Inotropic Support: 
+  - Hold beta-blockers if patient has cardiogenic shock
+  - Digoxin (Beware if renal impairment.  Use minimal effective dose, levels only for toxicity) - (IV inotropes for palliative, or SNF)
+  - Dobutamine or milrinone for acute cardiogenic shock / low-output failure
+- Devices: ICD or BiV-ICD, if indicated
+- Low salt diet, monitor weight
+- Aggressive electrolyte repletion (K>4.5, Mg>2)
+- avoid CCB's (decrease contractility) and NSAIDS
+- CHF Teaching, Home Telehealth, etc.
+- Close follow-up in clinic (withing 1 week, 2-3 weeks) with repeat BMP within a week
+
+- Considered Chaga's as a potential etiology given travel Hx as chronic Chagas cardiomyopathy can present many years later with progression rates of 1.9% from indeterminate disease and 4.6% from acute disease. Confirmation would require 2 positive serologic tests, however, per the BENEFIT trial advanced CCC did not show any halt in cardiac progression with anti-trypanosomal therapy only reduction in parasitemia which in our pt would not change current management. 
+
+DOTPHRASE DIABETIC KETOACIDOSIS
+Signs and symptoms suggestive of DKA with a glucose level that peaked at ***, notable urinary ketones and an elevated beta-hydroxybutyrate level of ***. Etiology unclear, though most likely precipitated by poor insulin administration adherence. Less likely to be infectious/sepsis, MI, CVA, pancreatitis, cocaine, or medications (glucocorticoids, higher-dose thiazide diuretics, sympathomimetic agents, atypical antipsychotics). Patient is status ***L NS, now on maintenance 1/2NS at *** cc/hr given Na > 135 or NS at *** given Na < 135. Patient s/p bolus of 0.1U/kg regular insulin, now on insulin gtt with goal linear decline of 50mg/dL per hour. If not at goal, will plan on doubling current dose of insulin otherwise if overcorrect, will decrease rate by 25%. When anion-gap closes, HCO3 > 15, and glucose < 250, will plan on giving a dose of basal insulin and recheck BMP 4-hours post-administration. If continues to meet all 3 criteria will discontinue insulin gtt. Will consider feeding patient when tolerating oral diet without nausea or vomiting.
+- Continue Insulin gtt at *** cc/hr, titrating to a linear decline of 50mg/dL per hour
+- Continue maintenance fluids at *** cc/hr
+- Monitor Glucose Q1H Glucose level
+- Monitor BMP Q2H
+- F/u HA1c
+- Consider repleting K if < 5.3
+- Consider HCO pushes of gtt if pH < 6.8
+- Consider carb-controlled diet once tolerating orals
+
+DOTPHRASE PREROUND
+==========PREROUND=========
+
+@VSRANGES@
+
+@IOBRIEFMR@
+
+@LASTBM@
+
+@MEDSSCHEDULED@
+
+@MEDSPRN@
+
+DOTPHRASE —----RASH—---------
+
+Rash
+@AGE@ immunocompetent and ***immunized @SEX@ presents with *** exanthem. *** fevers. No sore throat. No dyspnea or airway symptoms.
+No known environmental, food, or medication-related triggers.
+VS noted, *** afebrile.
+Exam remarkable for ***.
+Overall *** is well-appearing, nontoxic.
+No oropharyngeal involvement, lymphadenopathy, sloughing, desquamation, or other concerning clinical signs. No petechia or purpura. No target lesions.
+Rash is nonspecific in appearance, possibly viral exanthem, contact or atopic dermatitis. Does not seem allergic, no e/o angioedema/anaphylaxis. No other high risk features or systemic symptoms.
+No clinical evidence of a more serious etiology such as TSS, RMSF, SJS, SSS, meningococcemia, vascular etiology (such as DIC/ITP, HSP), or bacterial cellulitis.
+Plan to *** and discharge home. ***.
+Careful return precautions and discharge instructions were provided to return in the event that fevers, worsening rash, or other concerning symptoms develop. *** endorses understanding and is amenable to the plan.
+
+DOTPHRASE ALLLABS
+—--------
+@LACTATE@
+@LASTDDIMER@
+@LABRCNT(wbc:3,hgb:3,mcv,plt:3,neut:3,band:3,lymph:3,mono:3,eos:3)@
+@LABRCNT(na:3,k:3,cl:3,co2:3,bun:3,cr:3,rbs:3,alt:3,ast:3,alkp:3)@
+@LABRCNT(tbili:3,amyl:3,lipase:3,ca:3)@
+@LABRCNT(ca:3)@
+@LABRCNT(mg:3,po4:3,uric:3,cpk:3)@
+@BRIEFLAB(trop:3)@
+@LABBRIEF(tsh:3)@
+@LABRCNT(inr:3)@
+@LASTLIPIDS@
+@LASTA1C@
+@LASTBNP@
+
+@LABBRIEF(retic,iron,ferritin,ibc,guiaic,ldh,b12,folate)@
+@LABBRIEF(cg,glyco,abg,ldh)@
+@LASTUA@
+@LABRCNT(uhcg)@
+
+@unresultedlabs@
+
+{RECENT LAB RESULTS:268062::***}
+

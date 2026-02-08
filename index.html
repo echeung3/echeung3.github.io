@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kenny Reference - UCI Medical Center</title>
+    <title>Medical Reference - UCI</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
@@ -12,7 +12,6 @@
         :root {
             --uci-blue: #0064a4;
             --uci-gold: #ffd200;
-            --header-bg: #f8f9fa;
         }
         body {
             background-color: #f4f6f9;
@@ -26,6 +25,64 @@
             margin-bottom: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
+        .controls-bar {
+            background: white;
+            padding: 1rem;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .section-tabs {
+            margin-bottom: 20px;
+        }
+        .tab-button {
+            padding: 10px 20px;
+            margin-right: 10px;
+            border: 2px solid var(--uci-blue);
+            background: white;
+            color: var(--uci-blue);
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        .tab-button:hover {
+            background: #e8f4f8;
+        }
+        .tab-button.active {
+            background: var(--uci-blue);
+            color: white;
+        }
+        .data-section {
+            display: none;
+        }
+        .data-section.active {
+            display: block;
+        }
+        table.dataTable {
+            font-size: 0.9rem;
+        }
+        table.dataTable thead th {
+            background-color: #343a40;
+            color: white;
+            border-bottom: none;
+            padding: 12px;
+        }
+        table.dataTable tbody td {
+            padding: 10px;
+            vertical-align: top;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        .col-data {
+            width: 40%;
+        }
+        .col-template {
+            width: 30%;
+        }
+        .col-imgs {
+            width: 30%;
+        }
         .card {
             border: none;
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
@@ -33,10 +90,10 @@
             border-radius: 8px;
         }
         .card-header {
-            background-color: #fff;
-            border-bottom: 2px solid var(--uci-blue);
+            background-color: var(--uci-blue);
+            color: white;
             font-weight: 600;
-            color: var(--uci-blue);
+            padding: 12px 20px;
         }
         .info-link {
             display: block;
@@ -63,21 +120,10 @@
             font-weight: 600;
             text-align: center;
         }
-        /* Table Styling */
-        #triageTable {
-            width: 100% !important;
-        }
-        #triageTable thead th {
-            background-color: #343a40;
-            color: white;
-            border-bottom: none;
-        }
-        /* Status Badges for Columns */
         .badge-icu { background-color: #dc3545; color: white; }
         .badge-stepdown { background-color: #ffc107; color: black; }
         .badge-tele { background-color: #0dcaf0; color: black; }
         .badge-medsurg { background-color: #198754; color: white; }
-        
         .table-cell-list {
             padding-left: 1.2rem;
             margin-bottom: 0;
@@ -89,6 +135,40 @@
             font-weight: bold;
             background-color: #e9ecef;
         }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2rem;
+            color: #666;
+        }
+        .copy-btn {
+            padding: 2px 8px;
+            font-size: 0.75rem;
+            margin-left: 5px;
+        }
+        .copy-btn.copied {
+            background-color: #28a745 !important;
+            border-color: #28a745 !important;
+        }
+        .dotphrase-title {
+            font-weight: bold;
+            color: var(--uci-blue);
+            cursor: pointer;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            margin-bottom: 5px;
+        }
+        .dotphrase-title:hover {
+            background: #e9ecef;
+        }
+        .dotphrase-content {
+            padding: 10px;
+            background: white;
+            border-left: 3px solid var(--uci-blue);
+            margin-bottom: 10px;
+            white-space: pre-wrap;
+        }
     </style>
 </head>
 <body>
@@ -97,8 +177,8 @@
     <div class="container-fluid px-4">
         <div class="d-flex justify-content-between align-items-center">
             <div>
-                <h2 class="mb-0"><i class="fas fa-user-md me-2"></i>Kenny Reference</h2>
-                <small class="opacity-75">UCI Medical Center Clinical Guidelines</small>
+                <h2 class="mb-0"><i class="fas fa-book-medical me-2"></i>Medical Reference</h2>
+                <small class="opacity-75">UCI Medical Center - Clinical Guidelines & Database</small>
             </div>
             <div>
                 <span class="badge bg-light text-dark">v2026.1</span>
@@ -108,259 +188,319 @@
 </div>
 
 <div class="container-fluid px-4">
-    <div class="row">
-        <div class="col-lg-3">
-            <div class="card">
-                <div class="card-header"><i class="fas fa-hospital-user me-2"></i>Admission Workflow</div>
-                <div class="card-body p-3">
-                    <div class="phone-box">
-                        <i class="fas fa-phone-alt me-2"></i>Transfer Center<br>
-                        714-456-2222
-                    </div>
-                    <div class="alert alert-info py-2 small mb-3">
-                        <strong>CalOptima:</strong> Inpatient only (No Obs)<br>
-                        <strong>Straight Medi-Cal:</strong> Inpatient
-                    </div>
-                    
-                    <h6 class="text-muted text-uppercase small fw-bold mt-3">Quick Links</h6>
-                    <a href="https://healthuci.sharepoint.com/:x:/s/sppo-patientflow/EbrJSY9XrkJOhY9_X0ZftoIBE2kfdtdsruua6keity1s6w" class="info-link" target="_blank">
-                        <i class="fas fa-file-excel me-2"></i>SPPO Admission Sheet
-                    </a>
-                    <a href="https://healthuci.sharepoint.com/sites/deptofmedicine/res/intmed/default.aspx" class="info-link" target="_blank">
-                        <i class="fas fa-notes-medical me-2"></i>Transfer Center Notes
-                    </a>
-                    <a href="https://healthuci-my.sharepoint.com/:w:/g/personal/leungkh_hs_uci_edu/EESM-LOBhFldp4U1tDIn7JAB2fHc3tf6tLY48ZKBa5pFPQ" class="info-link" target="_blank">
-                        <i class="fas fa-file-word me-2"></i>H&P Template Simple
-                    </a>
-                    <a href="https://healthuci-my.sharepoint.com/:b:/g/personal/leungkh_hs_uci_edu/Eth5My2z2wXghtdzpygoqigByt-VfwQ76DjTnl6i9z5G5w" class="info-link" target="_blank">
-                        <i class="fas fa-book-medical me-2"></i>MGH Whitebook 21-22
-                    </a>
-                    <a href="https://clients.statrad.com/Exam/Review" class="info-link" target="_blank">
-                        <i class="fas fa-x-ray me-2"></i>StatRad Portal
-                    </a>
-                </div>
+    
+    <!-- Control Bar -->
+    <div class="controls-bar">
+        <div class="d-flex justify-content-between align-items-center flex-wrap">
+            <div class="section-tabs">
+                <button class="tab-button active" data-section="quick">Quick Reference</button>
+                <button class="tab-button" data-section="database">Database</button>
+                <button class="tab-button" data-section="dotphrases">Dot Phrases</button>
             </div>
-
-            <div class="card">
-                <div class="card-header"><i class="fas fa-clipboard-list me-2"></i>Quick ROS</div>
-                <div class="card-body small">
-                    <p class="mb-0">Fever, Dizzy, CP, SOB, Abd pain, Dysuria, Frequency, Constipation.</p>
-                </div>
+            <div id="tableControls" style="display: none;">
+                <label class="me-3">
+                    <input type="checkbox" id="showTemplate" checked> Show Templates
+                </label>
+                <label>
+                    <input type="checkbox" id="showImgs" checked> Show Images/Notes
+                </label>
             </div>
         </div>
+    </div>
 
-        <div class="col-lg-9">
-            <div class="card">
-                <div class="card-header d-flex justify-content-between align-items-center">
-                    <span><i class="fas fa-table me-2"></i>Triage & Monitoring Criteria</span>
+    <!-- Loading Indicator -->
+    <div id="loading" class="loading">
+        <i class="fas fa-spinner fa-spin fa-2x"></i><br>
+        Loading reference data...
+    </div>
+
+    <!-- Quick Reference Section -->
+    <div id="quick-section" class="data-section active">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="card">
+                    <div class="card-header"><i class="fas fa-hospital-user me-2"></i>Admission Workflow</div>
+                    <div class="card-body p-3">
+                        <div class="phone-box">
+                            <i class="fas fa-phone-alt me-2"></i>Transfer Center<br>
+                            714-456-2222
+                        </div>
+                        <div class="alert alert-info py-2 small mb-3">
+                            <strong>CalOptima:</strong> Inpatient only (No Obs)<br>
+                            <strong>Straight Medi-Cal:</strong> Inpatient
+                        </div>
+                        
+                        <h6 class="text-muted text-uppercase small fw-bold mt-3">Quick Links</h6>
+                        <a href="https://healthuci.sharepoint.com/:x:/s/sppo-patientflow/EbrJSY9XrkJOhY9_X0ZftoIBE2kfdtdsruua6keity1s6w" class="info-link" target="_blank">
+                            <i class="fas fa-file-excel me-2"></i>SPPO Admission Sheet
+                        </a>
+                        <a href="https://healthuci.sharepoint.com/sites/deptofmedicine/res/intmed/default.aspx" class="info-link" target="_blank">
+                            <i class="fas fa-notes-medical me-2"></i>Transfer Center Notes
+                        </a>
+                        <a href="https://healthuci-my.sharepoint.com/:w:/g/personal/leungkh_hs_uci_edu/EESM-LOBhFldp4U1tDIn7JAB2fHc3tf6tLY48ZKBa5pFPQ" class="info-link" target="_blank">
+                            <i class="fas fa-file-word me-2"></i>H&P Template Simple
+                        </a>
+                        <a href="https://healthuci-my.sharepoint.com/:b:/g/personal/leungkh_hs_uci_edu/Eth5My2z2wXghtdzpygoqigByt-VfwQ76DjTnl6i9z5G5w" class="info-link" target="_blank">
+                            <i class="fas fa-book-medical me-2"></i>MGH Whitebook 21-22
+                        </a>
+                        <a href="https://clients.statrad.com/Exam/Review" class="info-link" target="_blank">
+                            <i class="fas fa-x-ray me-2"></i>StatRad Portal
+                        </a>
+                    </div>
                 </div>
-                <div class="card-body">
-                    <div class="table-responsive">
-                        <table id="triageTable" class="table table-bordered table-hover criteria-row">
-                            <thead>
-                                <tr>
-                                    <th style="width: 15%">Category</th>
-                                    <th style="width: 21%"><span class="badge badge-icu w-100 p-2">ICU</span></th>
-                                    <th style="width: 21%"><span class="badge badge-stepdown w-100 p-2">Stepdown (56, 68, 44)</span></th>
-                                    <th style="width: 21%"><span class="badge badge-tele w-100 p-2">Telemetry</span></th>
-                                    <th style="width: 22%"><span class="badge badge-medsurg w-100 p-2">MedSurg (T4)</span></th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="category-header">Monitoring</td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Invasive central venous, PA, ICP, A-line</li>
-                                            <li>Q1hr monitoring</li>
-                                            <li>1:1 or 2:1 nursing</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Q2hr monitoring</li>
-                                            <li>Q1hr monitoring (< 6hr)</li>
-                                            <li>3:1 nursing ratio</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Q4hr vitals</li>
-                                            <li>Q1-2hr monitoring (< 6hr)</li>
-                                            <li>4:1 nursing ratio</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>5:1 nursing ratio</li>
-                                            <li>Pulse oximetry</li>
-                                            <li>Q4hr vitals</li>
-                                        </ul>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="category-header">Medications</td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Titration of IV vasopressors</li>
-                                            <li>IV anti-arrhythmic meds</li>
-                                            <li>Systemic thrombolytics</li>
-                                            <li>Insulin gtt (unstable)</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Non-titratable gtts (stable)</li>
-                                            <li>Diltiazem gtt</li>
-                                            <li>No moderate sedation</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Non-titratable: Amiodarone, Lasix, PCAs</li>
-                                            <li>IV Remodulin</li>
-                                            <li>IV Anti-hypertensives</li>
-                                            <li>IV Haldol</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Heparin gtt</li>
-                                            <li>Comfort measures gtts</li>
-                                        </ul>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="category-header">Airway</td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Ventilator</li>
-                                            <li>Fresh tracheostomy</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Continuous BiPAP</li>
-                                            <li>Mature trach (no vent)</li>
-                                            <li>High flow O2</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>QHS BiPAP</li>
-                                            <li>High flow O2 (stable)</li>
-                                        </ul>
-                                    </td>
-                                    <td>—</td>
-                                </tr>
-                                <tr>
-                                    <td class="category-header">Technology</td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Ext/Transvenous pacer</li>
-                                            <li>IABP or VAD</li>
-                                            <li>Balloon tamponade</li>
-                                            <li>CRRT</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Long term mech vent (stable)</li>
-                                            <li>Clamped ventriculostomy (Neuro)</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>New pacemaker/ICD</li>
-                                        </ul>
-                                    </td>
-                                    <td>—</td>
-                                </tr>
-                                <tr>
-                                    <td class="category-header">Medical Condition</td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>HR < 40 or > 140</li>
-                                            <li>SBP < 80 or > 250</li>
-                                            <li>Na < 120 or > 160</li>
-                                            <li>pH < 7.2</li>
-                                            <li>Status epilepticus</li>
-                                            <li>Septic shock</li>
-                                            <li>Active GI Bleed (unstable)</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>New onset atrial arrhythmia</li>
-                                            <li>DKA (Insulin gtt stable > 2hr)</li>
-                                            <li>Post-op specialty care</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Syncope</li>
-                                            <li>Stable arrhythmias</li>
-                                            <li>Chest pain r/o</li>
-                                            <li>Acute CHF exac</li>
-                                            <li>Stroke (stable)</li>
-                                            <li>Severe electrolyte abnl</li>
-                                        </ul>
-                                    </td>
-                                    <td>
-                                        <ul class="table-cell-list">
-                                            <li>Stable chronic arrhythmia</li>
-                                            <li>Asymptomatic bradycardia</li>
-                                            <li>Stable HF</li>
-                                            <li>Stable PE</li>
-                                        </ul>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+
+                <div class="card">
+                    <div class="card-header"><i class="fas fa-clipboard-list me-2"></i>Quick ROS</div>
+                    <div class="card-body small">
+                        <p class="mb-0">Fever, Dizzy, CP, SOB, Abd pain, Dysuria, Frequency, Constipation.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card h-100">
-                        <div class="card-header bg-dark text-white">UCI Telemetry Orders</div>
-                        <ul class="list-group list-group-flush small">
-                            <li class="list-group-item">Acute Resp Failure (48 hr)</li>
-                            <li class="list-group-item">Chronic CHF (24 hr)</li>
-                            <li class="list-group-item">Acute PE (48 hr)</li>
-                            <li class="list-group-item">Sepsis (48 hr)</li>
-                            <li class="list-group-item">Cardiology/CT surgery (ongoing)</li>
-                        </ul>
+            <div class="col-lg-9">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span><i class="fas fa-table me-2"></i>Triage & Monitoring Criteria</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover criteria-row">
+                                <thead>
+                                    <tr>
+                                        <th style="width: 15%">Category</th>
+                                        <th style="width: 21%"><span class="badge badge-icu w-100 p-2">ICU</span></th>
+                                        <th style="width: 21%"><span class="badge badge-stepdown w-100 p-2">Stepdown (56, 68, 44)</span></th>
+                                        <th style="width: 21%"><span class="badge badge-tele w-100 p-2">Telemetry</span></th>
+                                        <th style="width: 22%"><span class="badge badge-medsurg w-100 p-2">MedSurg (T4)</span></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="category-header">Monitoring</td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Invasive central venous, PA, ICP, A-line</li>
+                                                <li>Q1hr monitoring</li>
+                                                <li>1:1 or 2:1 nursing</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Q2hr monitoring</li>
+                                                <li>Q1hr monitoring (< 6hr)</li>
+                                                <li>3:1 nursing ratio</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Q4hr vitals</li>
+                                                <li>Q1-2hr monitoring (< 6hr)</li>
+                                                <li>4:1 nursing ratio</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>5:1 nursing ratio</li>
+                                                <li>Pulse oximetry</li>
+                                                <li>Q4hr vitals</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="category-header">Medications</td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Titration of IV vasopressors</li>
+                                                <li>IV anti-arrhythmic meds</li>
+                                                <li>Systemic thrombolytics</li>
+                                                <li>Insulin gtt (unstable)</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Non-titratable gtts (stable)</li>
+                                                <li>Diltiazem gtt</li>
+                                                <li>No moderate sedation</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Non-titratable: Amiodarone, Lasix, PCAs</li>
+                                                <li>IV Remodulin</li>
+                                                <li>IV Anti-hypertensives</li>
+                                                <li>IV Haldol</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Heparin gtt</li>
+                                                <li>Comfort measures gtts</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="category-header">Airway</td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Ventilator</li>
+                                                <li>Fresh tracheostomy</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Continuous BiPAP</li>
+                                                <li>Mature trach (no vent)</li>
+                                                <li>High flow O2</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>QHS BiPAP</li>
+                                                <li>High flow O2 (stable)</li>
+                                            </ul>
+                                        </td>
+                                        <td>—</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="category-header">Technology</td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Ext/Transvenous pacer</li>
+                                                <li>IABP or VAD</li>
+                                                <li>Balloon tamponade</li>
+                                                <li>CRRT</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Long term mech vent (stable)</li>
+                                                <li>Clamped ventriculostomy (Neuro)</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>New pacemaker/ICD</li>
+                                            </ul>
+                                        </td>
+                                        <td>—</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="category-header">Medical Condition</td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>HR < 40 or > 140</li>
+                                                <li>SBP < 80 or > 250</li>
+                                                <li>Na < 120 or > 160</li>
+                                                <li>pH < 7.2</li>
+                                                <li>Status epilepticus</li>
+                                                <li>Septic shock</li>
+                                                <li>Active GI Bleed (unstable)</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>New onset atrial arrhythmia</li>
+                                                <li>DKA (Insulin gtt stable > 2hr)</li>
+                                                <li>Post-op specialty care</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Syncope</li>
+                                                <li>Stable arrhythmias</li>
+                                                <li>Chest pain r/o</li>
+                                                <li>Acute CHF exac</li>
+                                                <li>Stroke (stable)</li>
+                                                <li>Severe electrolyte abnl</li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <ul class="table-cell-list">
+                                                <li>Stable chronic arrhythmia</li>
+                                                <li>Asymptomatic bradycardia</li>
+                                                <li>Stable HF</li>
+                                                <li>Stable PE</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="card h-100">
-                        <div class="card-header bg-secondary text-white">Review at 24-48 hr</div>
-                        <ul class="list-group list-group-flush small">
-                            <li class="list-group-item">Chest pain (low risk) - 24h</li>
-                            <li class="list-group-item">Syncope unknown etiology - 24h</li>
-                            <li class="list-group-item">Drug OD/Toxins - 24h</li>
-                            <li class="list-group-item">ACS / Chest Pain (High) - 48h</li>
-                            <li class="list-group-item">Stroke (cryptogenic) - 48h</li>
-                        </ul>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-header">UCI Telemetry Orders</div>
+                            <ul class="list-group list-group-flush small">
+                                <li class="list-group-item">Acute Resp Failure (48 hr)</li>
+                                <li class="list-group-item">Chronic CHF (24 hr)</li>
+                                <li class="list-group-item">Acute PE (48 hr)</li>
+                                <li class="list-group-item">Sepsis (48 hr)</li>
+                                <li class="list-group-item">Cardiology/CT surgery (ongoing)</li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card h-100 border-danger">
-                        <div class="card-header bg-danger text-white">Not Indicated</div>
-                        <ul class="list-group list-group-flush small">
-                            <li class="list-group-item">Chronic stable A-Fib</li>
-                            <li class="list-group-item">Anemia (stable)</li>
-                            <li class="list-group-item">GI Bleed (stable)</li>
-                            <li class="list-group-item">Febrile illness w/o shock</li>
-                            <li class="list-group-item">Stable PE w/o hemodynamic instability</li>
-                        </ul>
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-header">Review at 24-48 hr</div>
+                            <ul class="list-group list-group-flush small">
+                                <li class="list-group-item">Chest pain (low risk) - 24h</li>
+                                <li class="list-group-item">Syncope unknown etiology - 24h</li>
+                                <li class="list-group-item">Drug OD/Toxins - 24h</li>
+                                <li class="list-group-item">ACS / Chest Pain (High) - 48h</li>
+                                <li class="list-group-item">Stroke (cryptogenic) - 48h</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100 border-danger">
+                            <div class="card-header bg-danger text-white">Not Indicated</div>
+                            <ul class="list-group list-group-flush small">
+                                <li class="list-group-item">Chronic stable A-Fib</li>
+                                <li class="list-group-item">Anemia (stable)</li>
+                                <li class="list-group-item">GI Bleed (stable)</li>
+                                <li class="list-group-item">Febrile illness w/o shock</li>
+                                <li class="list-group-item">Stable PE w/o hemodynamic instability</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <!-- Database Section -->
+    <div id="database-section" class="data-section">
+        <div class="card">
+            <div class="card-body">
+                <table id="databaseTable" class="table table-striped table-bordered" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th class="col-data">Data</th>
+                            <th class="col-template">Template</th>
+                            <th class="col-imgs">Images/Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Dot Phrases Section -->
+    <div id="dotphrases-section" class="data-section">
+        <div class="card">
+            <div class="card-body">
+                <div class="mb-3">
+                    <input type="text" id="dotphraseSearch" class="form-control" placeholder="Search dot phrases...">
+                </div>
+                <div id="dotphrasesContent"></div>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -369,18 +509,187 @@
 <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
 
 <script>
-    $(document).ready(function () {
-        $('#triageTable').DataTable({
-            paging: false,
-            ordering: false,
-            info: false,
-            searching: true,
-            language: {
-                search: "_INPUT_",
-                searchPlaceholder: "Search criteria..."
+    let generalTable, databaseTable, dotphrasesData = [];
+
+    $(document).ready(function() {
+        // Load JSON data
+        fetch('reference_data.json')
+            .then(response => response.json())
+            .then(data => {
+                initializeTables(data);
+                return fetch('dotphrases.txt');
+            })
+            .then(response => response.text())
+            .then(text => {
+                parseDotphrases(text);
+                $('#loading').hide();
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                $('#loading').html('<div class="alert alert-danger">Error loading reference data. Please refresh the page.</div>');
+            });
+
+        // Tab switching
+        $('.tab-button').on('click', function() {
+            const section = $(this).data('section');
+            $('.tab-button').removeClass('active');
+            $(this).addClass('active');
+            $('.data-section').removeClass('active');
+            $(`#${section}-section`).addClass('active');
+            
+            // Show/hide table controls based on section
+            if (section === 'database') {
+                $('#tableControls').show();
+            } else {
+                $('#tableControls').hide();
             }
         });
+
+        // Column visibility toggles
+        $('#showTemplate').on('change', function() {
+            const visible = this.checked;
+            if (databaseTable) databaseTable.column(1).visible(visible);
+        });
+
+        $('#showImgs').on('change', function() {
+            const visible = this.checked;
+            if (databaseTable) databaseTable.column(2).visible(visible);
+        });
+
+        // Dotphrase search
+        $('#dotphraseSearch').on('keyup', function() {
+            const searchTerm = $(this).val().toLowerCase();
+            $('.dotphrase-item').each(function() {
+                const text = $(this).text().toLowerCase();
+                $(this).toggle(text.includes(searchTerm));
+            });
+        });
+
+        // Copy button handler
+        $(document).on('click', '.copy-btn', function() {
+            const text = $(this).siblings('.dotphrase-content').text();
+            navigator.clipboard.writeText(text).then(() => {
+                const btn = $(this);
+                btn.addClass('copied').text('Copied!');
+                setTimeout(() => {
+                    btn.removeClass('copied').text('Copy');
+                }, 2000);
+            });
+        });
     });
+
+    function initializeTables(data) {
+        // Initialize General References Table
+        const generalData = data.general_references || [];
+        generalTable = $('#generalTable').DataTable({
+            data: generalData,
+            columns: [
+                { data: 'data', defaultContent: '' },
+                { data: 'template', defaultContent: '' },
+                { data: 'imgs', defaultContent: '' }
+            ],
+            pageLength: 25,
+            order: [],
+            language: {
+                search: "_INPUT_",
+                searchPlaceholder: "Search references..."
+            },
+            columnDefs: [{
+                targets: '_all',
+                render: function(data, type, row) {
+                    if (type === 'display' && data) {
+                        // Convert URLs to clickable links
+                        data = data.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
+                        // Preserve line breaks
+                        data = data.replace(/\n/g, '<br>');
+                    }
+                    return data;
+                }
+            }]
+        });
+
+        // Initialize Database Table
+        const databaseData = data.database || [];
+        databaseTable = $('#databaseTable').DataTable({
+            data: databaseData,
+            columns: [
+                { data: 'data', defaultContent: '' },
+                { data: 'template', defaultContent: '' },
+                { data: 'imgs', defaultContent: '' }
+            ],
+            pageLength: 25,
+            order: [],
+            language: {
+                search: "_INPUT_",
+                searchPlaceholder: "Search database..."
+            },
+            columnDefs: [{
+                targets: '_all',
+                render: function(data, type, row) {
+                    if (type === 'display' && data) {
+                        // Convert URLs to clickable links
+                        data = data.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
+                        // Preserve line breaks
+                        data = data.replace(/\n/g, '<br>');
+                    }
+                    return data;
+                }
+            }]
+        });
+    }
+
+    function parseDotphrases(text) {
+        const lines = text.split('\n');
+        let currentPhrase = null;
+        let content = [];
+
+        lines.forEach(line => {
+            if (line.startsWith('DOTPHRASE ')) {
+                // Save previous phrase if exists
+                if (currentPhrase) {
+                    dotphrasesData.push({
+                        title: currentPhrase,
+                        content: content.join('\n').trim()
+                    });
+                }
+                // Start new phrase
+                currentPhrase = line.replace('DOTPHRASE ', '').trim();
+                content = [];
+            } else if (currentPhrase) {
+                content.push(line);
+            }
+        });
+
+        // Save last phrase
+        if (currentPhrase) {
+            dotphrasesData.push({
+                title: currentPhrase,
+                content: content.join('\n').trim()
+            });
+        }
+
+        // Render dotphrases
+        renderDotphrases();
+    }
+
+    function renderDotphrases() {
+        const container = $('#dotphrasesContent');
+        container.empty();
+
+        dotphrasesData.forEach((phrase, index) => {
+            const item = $('<div class="dotphrase-item mb-3"></div>');
+            
+            const title = $(`<div class="dotphrase-title d-flex justify-content-between align-items-center">
+                <span><i class="fas fa-file-medical me-2"></i>${phrase.title}</span>
+                <button class="btn btn-sm btn-primary copy-btn">Copy</button>
+            </div>`);
+            
+            const content = $(`<div class="dotphrase-content">${phrase.content}</div>`);
+            
+            item.append(title).append(content);
+            container.append(item);
+        });
+    }
 </script>
 
 </body>
