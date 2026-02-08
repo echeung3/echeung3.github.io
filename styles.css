@@ -1,0 +1,209 @@
+:root {
+    --uci-blue: #0064a4;
+    --uci-gold: #ffd200;
+}
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-size: 0.9rem;
+}
+.header-bar {
+    background: var(--uci-blue);
+    color: white;
+    padding: 1rem 0;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.controls-bar {
+    background: white;
+    padding: 1rem;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.section-tabs {
+    margin-bottom: 20px;
+}
+.tab-button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 2px solid var(--uci-blue);
+    background: white;
+    color: var(--uci-blue);
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+.tab-button:hover {
+    background: #e8f4f8;
+}
+.tab-button.active {
+    background: var(--uci-blue);
+    color: white;
+}
+.data-section {
+    display: none;
+}
+.data-section.active {
+    display: block;
+}
+table.dataTable {
+    font-size: 0.9rem;
+}
+table.dataTable thead th {
+    background-color: #343a40;
+    color: white;
+    border-bottom: none;
+    padding: 12px;
+}
+table.dataTable tbody td {
+    padding: 10px;
+    vertical-align: top;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+.col-data {
+    width: 40%;
+}
+.col-template {
+    width: 30%;
+}
+.col-imgs {
+    width: 30%;
+}
+.card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+}
+.card-header {
+    background-color: var(--uci-blue);
+    color: white;
+    font-weight: 600;
+    padding: 12px 20px;
+}
+.info-link {
+    display: block;
+    padding: 8px 12px;
+    margin: 4px 0;
+    background: #eef4fa;
+    border-radius: 6px;
+    color: #2c3e50;
+    text-decoration: none;
+    transition: all 0.2s;
+    border-left: 3px solid var(--uci-blue);
+}
+.info-link:hover {
+    background: #dfe9f5;
+    color: #000;
+    transform: translateX(2px);
+}
+.phone-box {
+    background-color: #fff3cd;
+    color: #856404;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+.badge-icu { background-color: #dc3545; color: white; }
+.badge-stepdown { background-color: #ffc107; color: black; }
+.badge-tele { background-color: #0dcaf0; color: black; }
+.badge-medsurg { background-color: #198754; color: white; }
+.table-cell-list {
+    padding-left: 1.2rem;
+    margin-bottom: 0;
+}
+.criteria-row td {
+    vertical-align: top;
+}
+.category-header {
+    font-weight: bold;
+    background-color: #e9ecef;
+}
+.loading {
+    text-align: center;
+    padding: 40px;
+    font-size: 1.2rem;
+    color: #666;
+}
+.copy-btn {
+    padding: 2px 8px;
+    font-size: 0.75rem;
+    margin-left: 5px;
+}
+.copy-btn.copied {
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+.dotphrase-title {
+    font-weight: bold;
+    color: var(--uci-blue);
+    cursor: pointer;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+.dotphrase-title:hover {
+    background: #e9ecef;
+}
+.dotphrase-content {
+    padding: 10px;
+    background: white;
+    border-left: 3px solid var(--uci-blue);
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+}
+.reference-image {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+.reference-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 5px;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    padding-top: 50px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.9);
+}
+.modal-content-img {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 90%;
+}
+.close-modal {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.close-modal:hover {
+    color: #bbb;
+}
