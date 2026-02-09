@@ -661,6 +661,61 @@ Treatment:
 - Pressors: *** for MAP>65
 - Source Control: ***
 
+DOTPHRASE Syncope
+Patient experienced transient loss of consciousness with spontaneous recovery. ***
+Syncope Differential includes: Reflex (vasovagal, situational, carotid sinus), Orthostatic hypotension, Cardiogenic (arrhythmia, structural), Neurologic (seizure, stroke/TIA; uncommon cause of isolated syncope), v. Mechanical or metabolic causes
+>> Syncopal episode most consistent with ***
+Low likelihood of neurologic etiology given normal exam and imaging
+Management focused on treating underlying cause and preventing recurrence
+//High-risk features: no prodrome, exertional or supine syncope, palpitations, abnormal EKG, known arrhythmia or structural heart disease, hypotension or bleeding, focal neurologic deficits, post-ictal state, intoxication
+//No prodrome suggests cardiac etiology (arrhythmia, structural disease, tamponade, dissection, high-grade AV block)
+
+W/U: 
+-F/U Orthostatic vital signs
+-EKG
+-Blood glucose
+-CBC, CMP, TSH, vitamin B12
+-HbA1c, Lipid panel, Urine drug screen
+-PT/OT for fall risk
+
+Cardiac evaluation:
+-Telemetry for high-risk features
+-obtain TTE
+-Consider outpatient event monitor or Zio patch if intermittent symptoms
+
+Neurologic evaluation (selective only):
+-EEG for seizure suspected (tongue biting, incontinence, post-ictal state)
+-CT or MRI brain for focal neurologic deficits or concern for stroke/TIA
+
+TREATMENT:
+Reflex syncope:
+-Education and trigger avoidance
+-Lifestyle measures (hydration, counter-pressure maneuvers)
+-Consider midodrine if recurrent and refractory
+-Tilt table testing if diagnosis unclear
+
+Orthostatic hypotension:
+Diagnostic criteria: SBP drop ≥20 mmHg or DBP drop ≥10 mmHg within 3 minutes of standing
+-Encourage increased fluid intake and salt intake
+-Order for compression stockings and abdominal binder 
+-Review and adjust contributing medications
+-Midodrine 5–20 mg TID
+//Fludrocortisone 0.1–0.2 mg daily
+//Droxidopa for Parkinson-associated autonomic dysfunction
+
+Cardiogenic syncope:
+Heart murmur noted on physical exam
+-Admit to telemetry
+-Treat underlying arrhythmia or structural disease
+-Cardiology consultat
+
+SUMMARY:
+//Risk stratification:
+Canadian Syncope Risk Score (VT and death prediction)
+https://www.mdcalc.com/calc/3951/canadian-syncope-risk-score
+
+
+
 DOTPHRASE STEMI, {region}:
 Patient with *** previously known CAD/MI *** and risk factors of ***{DM, HLD, HTN, Smoking, Age >45men/>55women, FHx of CAD/MI at age <45m/<55w} presented with symptoms of ***. EKG with *** and troponin ***.  Patient was taken to cardiac catheterization on arrival which showed *** and was intervened with ***. Currently is *** chest pain free.
 Workup:
