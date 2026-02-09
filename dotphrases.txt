@@ -303,6 +303,43 @@ MALIGNANCY: AFP level, 4-phase CT scan
 Cholestatic: R factor <2, ↑↑ Alk-P, ↑↑ GGT, ↑ ALT
 Hepatocellular: R factor >5, ↑↑ ALT
 
+DOTPHRASE Cellulitis
+Patient with erythema, warmth, tenderness, edema, leukocytosis. Risk factors: venous stasis, lymphedema, PVD, diabetes mellitus, obesity, IVDU, tinea pedis, ulcer. ALT-70 score: *** (greater than 2 suggests 83.3% of pseudocellulitis)
+// Consider LRINEC score if concern for necrotizing soft tissue infection
+https://www.mdcalc.com/calc/1734/lrinec-score-necrotizing-soft-tissue-infection
+
+DIAGNOSTIC CONSIDERATIONS:
+-Blood and wound cultures if systemic toxicity, immunosuppression, or recurrent or persistent cellulitis
+-Blood and wound cultures not recommended for typical uncomplicated cellulitis
+
+MICROBIOLOGY CONSIDERATIONS:
+Purulent infection: concern for MRSA >> MSSA > Streptococcus
+Non-purulent infection: Streptococcus >> Staphylococcus aureus > aerobic gram-negative rods
+Gas gangrene concern for Clostridium perfringens (penicillin G plus clindamycin)
+Dog or cat bite: concern for Pasteurella (amoxicillin-clavulanate 875/125 mg PO BID or IV Unasyn 3g q6hr)
+Human bite or IVDU: Eikenella
+Fresh water exposure: Aeromonas
+Salt water exposure: Vibrio vulnificus (doxycycline plus ceftazidime or ceftriaxone)
+
+ANTIBIOTIC MANAGEMENT:
+->Mild, purulent: incision and drainage only plus or minus clindamycin or TMP-SMX
+->Mild, non-purulent: oral cephalexin, dicloxacillin, or amoxicillin-clavulanate
+->Moderate, purulent (systemic signs or abscess greater than 2 cm): incision and drainage, culture, plus TMP-SMX or doxycycline
+->Moderate, non-purulent with systemic signs: IV cefazolin, ceftriaxone, penicillin G, or clindamycin
+Severe infection (systemic toxicity, hypotension, immunocompromised, or rapid progression):
+->Severe, Purulent: incision and drainage, culture, plus IV vancomycin, daptomycin, or linezolid +/- clindamycin
+->Severe, Non-purulent: IV vancomycin plus piperacillin-tazobactam +/- clindamycin (for toxin inhibition in nec fasc)
+
+SPECIAL CONSIDERATIONS:
+Non-purulent cellulitis with MRSA risk factors (IVDU, antibiotics in prior 8 weeks, diabetes, LTC facility residents, hospitalization in past year): add empiric MRSA coverage (TMP-SMX or doxycycline)
+Consider anaerobic coverage for diabetic infections, gram-negative rods, or immunocompromised patients
+Consider Pseudomonas coverage in neutropenic patients, trauma, or post-operative infections
+
+COURSE AND DURATION:
+Typical duration 5 days, extend up to 14 days if slow response
+Mark margins to monitor progression
+Erythema may worsen initially due to inflammatory response from bacterial killing
+Clinical improvement expected within 48 to 72 hours of appropriate antibiotics
 
 DOTPHRASE COPD exacerbation
 Presented on *** with ***. VBG ***, CXR *** on admission. Trigger is likely *** .  *** exacerbations per year, *** previously required intubation, typical course of exacerbation: ***. GOLD severity 1 (FEV1>80%), 2 (FEV1>50%), 3 (FEV1>30%), 4 (FEV1<30%), Group ***. Does *** have at least 2 of 3 cardinal symptoms of increased sputum purulence AND sputum volume or dyspnea, qualifying patient for antibiotics. ABG ***, CXR ***.
