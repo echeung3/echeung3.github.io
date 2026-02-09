@@ -281,7 +281,7 @@ DOTPHRASE Compensated cirrhosis (outpatient)
 - Can consider baclofen for EtOH cessation, 5mg tid x3 days then 10mg tid x3 days, continue to uptitrate to up to 95mg/day in 5 divided doses
 - Low sodium diet (<2g/day)
 
-DOTPHRASE Acute {hepatocellular/cholestatic} liver injury
+DOTPHRASE Acute [hepatocellular/cholestatic] liver injury
 Presented on *** with ***. MELD-Na score *** indicating {1.9, 6.1, 9.6, 15.2, 26.7, 71.3} % 90-day mortality.
 Differential diagnosis for hepatocellular pattern includes: Drug-induced liver injury (DILI), Viral hepatitis, Autoimmune hepatitis, Ischemic or shock liver, Inherited disorders (Wilson disease, hemochromatosis, alpha-1 antitrypsin deficiency), Alcoholic hepatitis, Budd-Chiari syndrome, Malignancy, MASH or MASLD.
 Differential diagnosis for cholestatic pattern includes: Drug-induced liver injury (DILI), Choledocholithiasis, Malignancy, Primary sclerosing cholangitis (PSC), Primary biliary cholangitis (PBC), 
