@@ -178,10 +178,14 @@ Treatment:
 
 DOTPHRASE C. difficile colitis
 Patient presented with ***. Last antibiotic use ***. C. difficile toxin ***. Discontinue other antibiotics if possible. Initial regimen based on disease severity, though criteria are only based on expert opinion. No anti-motility agents (may precipitate toxic megacolon).  Evidence equivocal for probiotics, and may even risk fungemia in critically ill, CVC catheter, immunocompromised.
-- Metronidazole 500mg PO tid x10+ days until diarrhea resolves or
-- Vancomycin 125mg PO qid x10+ days if severe disease (WBC>15K or Cr>1.5x prior) or
-- Vancomycin 500mg PO or PR qid + Metronidazole 500mg IV tid if severe, complicated disease (hypotensive, ileus, megacolon)
+Non-severe (WBC < 15 AND Cr < 1.5) - Fidaxomicin 200 mg PO BID x 10 days OR Vanc 125 mg PO q6h x 10 days
+	- If oral fidaxomicin or vanc are unavailable, then give: Metronidazole 500mg PO tid x10+ days until diarrhea resolves 
+Severe disease (WBC>15K or Cr>1.5x prior)
+	-Fidaxomicin 200 mg PO BID x 10 days OR Vanc 125 mg PO q6h x 10 days
+Fulminant complicated disease (hypotensive, ileus, megacolon)
+	- Vancomycin 500mg PO or PR qid + Metronidazole 500mg IV tid for severe complicated disease 
 - Consider colectomy in severely ill (monitor lab trends, intervene before bad peri-operative mortality once WBC>50K, lactate>5)
+-Contact precautions - wash hands with soap and water after contact 
 
 {- 1st Recurrence: Same regimen for first recurrence of same severity
 - Further Recurrences: Vancomycin taper 125mg PO qid x2 weeks, then bid x1 week, then daily x1 week, then qod x2-8 weeks
