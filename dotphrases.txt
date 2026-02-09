@@ -13,8 +13,7 @@ For a patient to have capacity to make a decision, they must demonstrate an abil
 3. Communicate understanding of the risks/benefits of the procedure/treatment and also of not having it done. 
 4. Communicate the rationale behind their choice. 
 
-DOTPHRASE test
-testing
+
 
 DOTPHRASE Acute Leukemia
 ***
