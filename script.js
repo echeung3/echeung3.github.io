@@ -56,14 +56,39 @@ $(document).ready(function() {
 
     // Copy button handler
     $(document).on('click', '.copy-btn', function() {
-        const text = $(this).siblings('.dotphrase-content').text();
-        navigator.clipboard.writeText(text).then(() => {
-            const btn = $(this);
-            btn.addClass('copied').text('Copied!');
-            setTimeout(() => {
-                btn.removeClass('copied').text('Copy');
-            }, 2000);
-        });
+        const btn = $(this);
+        const text = btn.closest('.dotphrase-item').find('.dotphrase-content').text();
+        
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(text).then(() => {
+                btn.addClass('copied').text('Copied!');
+                setTimeout(() => {
+                    btn.removeClass('copied').text('Copy');
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+                alert('Failed to copy to clipboard. Please try again.');
+            });
+        } else {
+            // Fallback for browsers that don't support clipboard API
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                document.execCommand('copy');
+                btn.addClass('copied').text('Copied!');
+                setTimeout(() => {
+                    btn.removeClass('copied').text('Copy');
+                }, 2000);
+            } catch (err) {
+                console.error('Fallback copy failed:', err);
+                alert('Failed to copy to clipboard. Please try again.');
+            }
+            document.body.removeChild(textarea);
+        }
     });
 
     // Image modal handlers
