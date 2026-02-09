@@ -283,8 +283,7 @@ DOTPHRASE Compensated cirrhosis (outpatient)
 
 DOTPHRASE Acute {hepatocellular/cholestatic} liver injury
 Presented on *** with ***. MELD-Na score *** indicating {1.9, 6.1, 9.6, 15.2, 26.7, 71.3} % 90-day mortality.
-Differential diagnosis for hepatocellular pattern includes: Drug-induced liver injury (DILI), Viral hepatitis, 
-Autoimmune hepatitis, Ischemic or shock liver, Inherited disorders (Wilson disease, hemochromatosis, alpha-1 antitrypsin deficiency), Alcoholic hepatitis, Budd-Chiari syndrome, Malignancy, MASH or MASLD.
+Differential diagnosis for hepatocellular pattern includes: Drug-induced liver injury (DILI), Viral hepatitis, Autoimmune hepatitis, Ischemic or shock liver, Inherited disorders (Wilson disease, hemochromatosis, alpha-1 antitrypsin deficiency), Alcoholic hepatitis, Budd-Chiari syndrome, Malignancy, MASH or MASLD.
 Differential diagnosis for cholestatic pattern includes: Drug-induced liver injury (DILI), Choledocholithiasis, Malignancy, Primary sclerosing cholangitis (PSC), Primary biliary cholangitis (PBC), 
 IgG4-related disease, Disease-associated cholestasis, Mirizzi syndrome
 
@@ -300,7 +299,9 @@ HEREDITARY: 24-hour urine copper, Ceruloplasmin, Serum copper, Ferritin, Iron sa
 THROMBUS: Right upper quadrant ultrasound with Doppler
 MALIGNANCY: AFP level, 4-phase CT scan
 
-If pattern of injury is unclear, calculate R factor (on MDCalc)
+//If pattern of injury is unclear, calculate R factor (on MDCalc)
+Cholestatic: R factor <2, ↑↑ Alk-P, ↑↑ GGT, ↑ ALT
+Hepatocellular: R factor >5, ↑↑ ALT
 
 
 DOTPHRASE COPD exacerbation
