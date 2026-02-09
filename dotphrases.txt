@@ -141,6 +141,14 @@ Plan:
 - Other: Assess for urinary retention/constipation. {Consider LP with paraneoplastic panel/autoimmune panel if no improvement}
 - Standard delirium precautions
 
+DOTPHRASE Anemia
+Baseline Hb circa ***, but on admission Hb *** with MCV ***. Likely due to {bleeding, production defect, or destruction (lysis)}.
+-Transfuse for goal Hb >7 
+-Assess for melena
+-F/U iron panel, Ferritin/TIBC, B12, folate
+-LFTs, haptoglobin, LDH to assess for hemolysis
+-consider empiric folate supplementation for 1-2 weeks 
+
 DOTPHRASE Acute asthma exacerbation
 Patient presented with ***. Has history of {intermittent, mild persistent, moderate persistent, severe persistent} asthma.
 - PEF assessment <40% predicted = severe (suggests need for hospitalization)
@@ -273,8 +281,30 @@ DOTPHRASE Compensated cirrhosis (outpatient)
 - Can consider baclofen for EtOH cessation, 5mg tid x3 days then 10mg tid x3 days, continue to uptitrate to up to 95mg/day in 5 divided doses
 - Low sodium diet (<2g/day)
 
+DOTPHRASE Acute {hepatocellular/cholestatic} liver injury
+Presented on *** with ***. MELD-Na score *** indicating {1.9, 6.1, 9.6, 15.2, 26.7, 71.3} % 90-day mortality.
+Differential diagnosis for hepatocellular pattern includes: Drug-induced liver injury (DILI), Viral hepatitis, 
+Autoimmune hepatitis, Ischemic or shock liver, Inherited disorders (Wilson disease, hemochromatosis, alpha-1 antitrypsin deficiency), Alcoholic hepatitis, Budd-Chiari syndrome, Malignancy, MASH or MASLD.
+Differential diagnosis for cholestatic pattern includes: Drug-induced liver injury (DILI), Choledocholithiasis, Malignancy, Primary sclerosing cholangitis (PSC), Primary biliary cholangitis (PBC), 
+IgG4-related disease, Disease-associated cholestasis, Mirizzi syndrome
+
+Most likely etiology: @@@ 
+WORKUP AND MONITORING:
+-Daily liver function tests, platelet count, INR, sodium
+-Consider hepatology consultation, especially if altered mental status and INR greater than 1.5 (concern for acute liver failure)
+TOXIN: Urine toxicology, Acetaminophen level, Ethanol level, Medication review
+VIRAL: Anti-HAV IgM, HBsAg, Anti-HBs antibodies, Anti-HBc IgM, Anti-HCV, HCV viral load, CMV/EBV/HIV if immunosuppressed
+AUTOIMMUNE: ANA, ASMA, IgG level, AMA, ANCA
+ISCHEMIC: Echocardiography, EKG
+HEREDITARY: 24-hour urine copper, Ceruloplasmin, Serum copper, Ferritin, Iron saturation, Alpha-1 antitrypsin level, Consider slit lamp exam & HFE gene testing
+THROMBUS: Right upper quadrant ultrasound with Doppler
+MALIGNANCY: AFP level, 4-phase CT scan
+
+If pattern of injury is unclear, calculate R factor (on MDCalc)
+
+
 DOTPHRASE COPD exacerbation
-*** exacerbations per year, *** previously required intubation, typical course of exacerbation: ***. GOLD severity 1 (FEV1>80%), 2 (FEV1>50%), 3 (FEV1>30%), 4 (FEV1<30%), Group ***. Does *** have at least 2 of 3 cardinal symptoms of increased sputum purulence AND sputum volume or dyspnea, qualifying patient for antibiotics. ABG ***, CXR ***.
+Presented on *** with ***. VBG ***, CXR *** on admission. Trigger is likely *** .  *** exacerbations per year, *** previously required intubation, typical course of exacerbation: ***. GOLD severity 1 (FEV1>80%), 2 (FEV1>50%), 3 (FEV1>30%), 4 (FEV1<30%), Group ***. Does *** have at least 2 of 3 cardinal symptoms of increased sputum purulence AND sputum volume or dyspnea, qualifying patient for antibiotics. ABG ***, CXR ***.
 - Supplemental O2, goal sat 88-92%
 - Bronchodilator: Albuterol/ipratropium q4hr and PRN
 - Corticosteroids: Prednisone {30-60mg} PO daily x5 days, (*** - ***) 
@@ -1347,6 +1377,47 @@ Signs and symptoms suggestive of DKA with a glucose level that peaked at ***, no
 - Consider repleting K if < 5.3
 - Consider HCO pushes of gtt if pH < 6.8
 - Consider carb-controlled diet once tolerating orals
+
+DOTPHRASE Diabetic ketoacidosis / Hyperglycemic hyperosmolar syndrome
+
+WORKUP:
+-CBC, BMP + Phos
+-UA, beta-hydroxybutyrate (assess for presence of ketones)
+-Serum osmolality
+-ABG/VBG to assess severity of acidemia
+
+TRIGGER ASSESSMENT:
+-CXR, UA, blood cultures for infection
+-Troponin, EKG for ischemia
+-Lipase for pancreatitis
+
+TREATMENT:
+-Insulin (regular) 0.1 u/kg (~10 units) IV x1
+-Insulin drip, DKA protocol
+-Isotonic fluids (NS or LR) bolus 1 L/hr until euvolemic
+(expect extensive volume depletion; may require 5 L or more)
+-Foley catheter for high urine output monitoring
+-Consider arterial or central line for repeated labs
+-Treat any underlying causes
+-Glucose checks q1h to titrate insulin
+-Lab monitoring q2–4h: BMP + phosphorus + pH (ABG/VBG)
+
+SPECIAL CONSIDERATIONS:
+If pH < 6.9, consider D5W + 100 mEq NaHCO3 IV fluids for a few hours
+Maintenance fluids: 1/2 NS at ~200 mL/hr
+	-Change to D5 1/2 NS when glucose < 250
+	-Change to D5 1/2 NS + 20–40 mEq KCl when urine output demonstrated and K < 5.5
+		-If K < 3.5, aggressively replete potassium and hold insulin for a couple hours until K > 4
+
+	-Replete phosphorus with KPhos 20–40 mmol if phosphorus severely low <1
+(less evidence)
+-Goal: normalize anion gap (eliminate beta-hydroxybutyrate/ketones) due to insulin deficiency (expect glucose and potassium repletion)
+
+TRANSITION OFF INSULIN DRIP:
+When anion gap is normalized and insulin requirements are low and stable for 4 hours:
+-Calculate/extrapolate 24-hour insulin requirement & Use 75–80% of that total, split between basal and bolus dosing
+-Start long-acting insulin, then stop drip 2–3 hours AFTER to bridge effect
+-Stop IV fluids and start carb-controlled diet
 
 DOTPHRASE PREROUND
 ==========PREROUND=========
