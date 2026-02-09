@@ -560,6 +560,17 @@ The risk of perioperative delirium is ***.
 - Provision of hearing aides and eyeglasses, if patient has them
 - Remove Foley catheter ASAP after surgery
 
+DOTPHRASE Neutropenic Fever
+Presented on *** with fever to *** and ANC ***. Last infusion ***, antibiotic prophylaxis ***, last Neupogen ***.
+-F/U Blood Cultures (one from port, one peripherally)
+-F/U CXR (in low risk patients) or non-contrast CT chest (in high risk patients)
+-F/U CT Abdomen/Pelvis (if abdominal pain present), given need to rule-out typhlitis or C. Diff colitis 
+-Cefepime (*** - )
+-Vancomycin (***-) only if concerned for port infection, pneumonia, SSTI, or hemodynamically unstable
+-If persistent fever >4 days without clear source, obtain CT sinus, serum galactomannan, and start empiric antifungal 
+-Discharge and discontinue antibiotics if negative infectious workup, afebrile > 48 hours, ANC > 500 and rising
+-Neutropenic precautions, avoid rectal exams/suppositories
+
 
 
 DOTPHRASE Sepsis
