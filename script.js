@@ -40,6 +40,10 @@ $(document).ready(function() {
         if (databaseTable) databaseTable.column(1).visible(visible);
     });
 
+    const dataDiv = document.getElementById("condition-data");
+dataDiv.textContent = entry.data;
+
+
     $('#showImgs').on('change', function() {
         const visible = this.checked;
         if (databaseTable) databaseTable.column(2).visible(visible);
