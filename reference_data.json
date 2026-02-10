@@ -2074,6 +2074,11 @@
       "data": "WPW - do not use calcium channel, b blocker or digoxin if also Afib; use procainamide if pt has Afib and WPW - Afib with WPW is risk factor for Vfib - if AVNRT - use Ca channel blocker and B blocker to prevent recurrent AVNRT AVNRT = p wave buried in QRS or right after;  AVRT = sees an RP interval",
       "template": "",
       "imgs": ""
+    },
+    {
+  "data": "- anti-smooth, anti-dsDNA = lupus \n- anti-U1-RNP = mixed connective tissue (= both lupus, autoimmune myositis, and systemic sclerosis)\n- anti-centromere and anti-Scl-70 = systemic sclerosis (raynaud); CREST \n - antiLa, anti-Ro - sjogren \n - antihistone = drug induced lupus \n - cANCA / antiPR3=  granulomatosis with polyaniitis (wagener) \n - pANCA/anti-MPO - eosinophilic granulomatosis with polyangitis \n - anti-Jo1 = polymyositis \n- antiCCP or RF = rheumatoid \n At VA: ANA panel reflexes to \nANA IFA SCREEN \nANA IFA TITER \nANA IFA PRIMARY PATTERN \nANTI JO-1 \nANTI SM \nANTI RNP \nANTI SM/RNP \nSS-A \nSS-B \nSCLERODERMA AB (SCL-70) \nRIBOSOMAL P PROTEIN AB \nCENTROMERE ANTIBODY \nCHROMATIN \nANTI DS-DNA ",
+  "template": "",
+  "imgs": "//"
     }
   ]
 }
