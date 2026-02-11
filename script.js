@@ -1,5 +1,11 @@
 let databaseTable, dotphrasesData = [];
 
+function initTable() {
+  console.log("initTable loaded");
+  // your table / data render logic here
+}
+
+
 document.addEventListener("DOMContentLoaded", () => {
   try {
     initTable();
