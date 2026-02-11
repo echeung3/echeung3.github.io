@@ -41,7 +41,7 @@ $(document).ready(function() {
     });
 
     const dataDiv = document.getElementById("condition-data");
-dataDiv.textContent = entry.data;
+dataDiv.innerHTML = entry.data;
 
 
     $('#showImgs').on('change', function() {
