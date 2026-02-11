@@ -5,7 +5,7 @@ Called by bedside RN that @M@ @LNAME@ wants to leave AMA. I discussed the purpos
 
 There may be questions regarding this patient's capacity to make certain decisions including leaving AMA. All physicians are capable of making basic capacity assessments, although psychiatry is available to assist and offer a second opinion whenever needed. 
 
-If a patient is demanding to leave AMA without having demonstrated capacity, UCD police should be involved and informed that the patient "does not have capacity." A 5150 is not required.
+If a patient is demanding to leave AMA without having demonstrated capacity, UCI police should be involved and informed that the patient "does not have capacity." A 5150 is not required.
 For a patient to have capacity to make a decision, they must demonstrate an ability to: 
 
 1. Communicate a choice and consistently stick with that choice 
