@@ -1,5 +1,20 @@
 let databaseTable, dotphrasesData = [];
 
+document.addEventListener("DOMContentLoaded", () => {
+  try {
+    initTable();
+    initSearch();
+    initCopy();
+  } catch (e) {
+    console.error("Init failed:", e);
+  }
+});
+
+$(function () {
+  // your handlers here
+});
+
+
 $(document).ready(function() {
     // Load JSON data
     fetch('reference_data.json')
@@ -41,7 +56,8 @@ $(document).ready(function() {
     });
 
     const dataDiv = document.getElementById("condition-data");
-dataDiv.textContent = entry.data
+    if (dataDiv) dataDiv.textContent = ""; // or set to a default message
+
 
 
     $('#showImgs').on('change', function() {
@@ -227,3 +243,4 @@ function renderDotphrases() {
         container.append(item);
     });
 }
+
