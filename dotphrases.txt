@@ -844,7 +844,7 @@ If you develop chest pain, chest tightness, chest pressure and/or shortness of b
 ===============================================================
  
 
-DOTPHRASE KAISER HOSPITAL - DISCHARGE INSTRUCTIONS: FOR @NAME@ 
+DOTPHRASE HOSPITAL - DISCHARGE INSTRUCTIONS: FOR @NAME@ 
 - You were admitted to the hospital on @ADMITDT@ and discharged on @TD@
 - You were treated in the hospital for: ***
 - You were discharged by @ME@ 
@@ -852,7 +852,7 @@ DOTPHRASE KAISER HOSPITAL - DISCHARGE INSTRUCTIONS: FOR @NAME@
 
 YOU CAN REACH HOSPITAL DISCHARGING PHYSICIAN FOR UP TO 3 DAYS AFTER DISCHARGE
 - Your discharging physician wants to help you make a safe transition home
-- You may reach discharging physician directly by calling the hospital operator at 916-973-4424 for non-urgent issues within the first 3 days after discharge.  
+- You may reach discharging physician directly by calling the hospital operator for non-urgent issues within the first 3 days after discharge.  
 - Physician will call back as soon as can. Please do not expect a call back right away.  
 - You may receive a call back from another Hospital Medicine physician if your discharging physician is not available.
 - After 3 days, please contact your primary care doctor
@@ -860,9 +860,9 @@ YOU CAN REACH HOSPITAL DISCHARGING PHYSICIAN FOR UP TO 3 DAYS AFTER DISCHARGE
 FOLLOW UP APPOINTMENTS & TESTS
 - {Follow-up Instructions:294124}
 
-- You can also send your primary care provider a non-urgent message at www.kp.org Message Center (or using your KP smartphone app). 
+- You can also send your primary care provider a non-urgent message at Message Center (or using your UCI Health smartphone app). 
 - It may take up to 2 business days for your primary care provider to respond back to you.
-- You can schedule a lab appointment on www.kp.org (or using the KP smartphone app) to avoid having to wait at the lab
+- You can schedule a lab appointment online (or using the UCI Health smartphone app) to avoid having to wait at the lab
 
 THINGS TO DISCUSS WITH YOUR PRIMARY DOCTOR
 ***
@@ -870,7 +870,7 @@ THINGS TO DISCUSS WITH YOUR PRIMARY DOCTOR
 {BP/FSBG/Incidental:280584}
 
 WHEN TO CALL SOMEONE
-Call the appointment / advice line at 1-866-454-8855, if you need to change your appointment
+Call the appointment / advice line, if you need to change your appointment
 Call if you experience any of the following symptoms:
 - Temperature of 101 degrees F or above.
 - Pain unrelieved by medication.
@@ -879,8 +879,6 @@ Call if you experience any of the following symptoms:
 - Diarrhea that is bloody or occurs more than 5-6 times a day or persists for more than 3-4 days.
 - Call 911 for any kind of emergencies.
 
-IF YOU ARE NOT A KAISER MEMBER
-Please contact your primary care provider directly for follow-up or if questions arise
 
 FOLLOWING REFERRALS HAVE BEEN MADE FOR YOU ON DISCHARGE 
 {Referrals:294126}
@@ -1567,4 +1565,7 @@ DOTPHRASE ALLLABS
 @unresultedlabs@
 
 {RECENT LAB RESULTS:268062::***}
+
+DOTPHRASE Brief Preop Evaluation
+Preoperative Cardiac Risk Asessment for *** surgery: According to the 2014 ACC/AHA guidelines for preoperative cardiovascular risk assessment, risk of perioperative cardiac morbidity should be estimated with the Revised Cardiac Risk Index which includes 6 predictors: high risk surgery (intraperitoneal, intrathoracic, or suprainguinal vascular surgery), ischemic heart disease, heart failure, cerebrovascular disease, renal insufficiency with Cr >2, and insulin-dependent diabetes mellitus.  @M@ @LNAME@ has a score of *** which is associated with a low (<1%)/elevated (***%) risk of MACE. No active cardiac conditions such as unstable angina, recent MI, decompensated heart failure, unstable arrhythmias, or severe valvular disease. Functional capacity is ***>***< 4 METS. In summary, he/she is a *** risk patient going for a *** risk surgery.   @CAPHE@ may proceed to surgery without further testing because further testing will not impact decision-making or perioperative care. We recommend the following for management of her perioperative cardiovascular risk: 1) Continue all antihypertensive/antianginal medications perioperatively 2) Continue/hold*** aspirin as she has a/no*** history of coronary stents.  Resume aspirin postoperatively if no active bleeding. 
 
