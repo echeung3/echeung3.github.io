@@ -149,6 +149,10 @@ Baseline Hb circa ***, but on admission Hb *** with MCV ***. Likely due to {blee
 -LFTs, haptoglobin, LDH to assess for hemolysis
 -consider empiric folate supplementation for 1-2 weeks 
 
+DOTPHRASE Thrombocytopenia 
+Patient with low platelets 
+@@@ 
+
 DOTPHRASE Acute asthma exacerbation
 Patient presented with ***. Has history of {intermittent, mild persistent, moderate persistent, severe persistent} asthma.
 - PEF assessment <40% predicted = severe (suggests need for hospitalization)
