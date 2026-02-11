@@ -55,11 +55,7 @@ $(document).ready(function() {
         if (databaseTable) databaseTable.column(1).visible(visible);
     });
 
-    const dataDiv = document.getElementById("condition-data");
-    if (dataDiv) dataDiv.textContent = ""; // or set to a default message
-
-
-
+   
     $('#showImgs').on('change', function() {
         const visible = this.checked;
         if (databaseTable) databaseTable.column(2).visible(visible);
@@ -242,5 +238,8 @@ function renderDotphrases() {
         item.append(title).append(content);
         container.append(item);
     });
+
+   const dataDiv = document.getElementById("condition-data");
+    if (dataDiv) dataDiv.textContent = ""; // or set to a default message
 }
 
