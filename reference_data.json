@@ -6,8 +6,8 @@
       "imgs": "https://pbs.twimg.com/media/DSfsj7bUQAAnrIk.jpg"
     },
     {
-      "data": "abdominal pain - DDx: PUD, Hyplori,  IBS, gastropathy, celiac disease, MSK, mesenteric ischemia, SIBO, dyspepsia.",
-      "template": "GI cocktail with maalox, viscous lidocaine, donnatol adequate bowel regimen, miralax, senna daily to bid PPI daily Avoid anticholinergics/ opiate medications zofran",
+      "data": "abdominal pain \n- DDx: Life-threatening — AAA rupture, mesenteric ischemia, perforated viscus, ectopic pregnancy, MI, severe pancreatitis \n |RUQ — biliary colic, cholecystitis, cholangitis, hepatitis, liver abscess, RLL pneumonia, pyelonephritis \n | Epigastric — PUD/gastritis, pancreatitis, GERD, gastroparesis, MI, aortic pathology \n | LUQ — splenic infarct/rupture, pancreatitis (tail), gastritis/PUD, LLL pneumonia, renal \n | RLQ — appendicitis, Crohn (TI), ovarian torsion, ectopic pregnancy, PID, ureteral stone \n | LLQ — diverticulitis, colitis (infectious/ischemic/IBD), constipation, ovarian pathology, ureteral stone \n | Suprapubic—cystitis, urinary retention, prostatitis, PID \n | Pathophysiology — infectious/inflammatory, obstructive, vascular, perforation, functional, referred \n | Special populations — pregnancy (ectopic, HELLP), elderly (ischemia, malignancy, AAA), immunocompromised (CMV, typhlitis).",
+      "template": "GI cocktail with maalox, viscous lidocaine, donnatol adequate bowel regimen, miralax, senna daily to bid PPI daily \nAvoid anticholinergics/ opiate medications zofran",
       "imgs": "images/abpain.png, from CPS"
     },
     {
