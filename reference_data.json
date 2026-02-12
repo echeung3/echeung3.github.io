@@ -1093,7 +1093,7 @@
     {
       "data": "Intubation: - induction: ketamine 1.5 mg/kg IBW (onset 60-90s, duration 10-20m), propofol 2mg/kg IBW (onset 30 seconds, duration 10 min) - paralytic: rocuronium 1.2mg/kg IV by IBW (onset 60 seconds) preferred over succinylcholine 1.5mg/kg onset (cannot use in high K) - for awake inttubation, use ketamine - amnesia, dissociation, and analgeic, but still have respiratory drive. Also benefit increases BP and relaxes bronchial muscle. - if intubation fail if > 90% on mask ventilation, try again. if <90, then cricothyrotomy. - LBM: Fentanyl 5mcg/kg also , versed propofol can decrease BP; Versed less. Weaning criteria - HR < 130, RR < 35, BP < 180, SpO2 > 92% on FIO2 <=40% or PO2/FiO2 >=170 if ABG, RASS -1, PEEP <=8, hemodynamic stable - RSBI = RR/Vt <105 breaths/min/L - NIF <= -20 (more negative good) -- negative inspiratory force",
       "template": "",
-      "imgs": ""
+      "imgs": "images/wean vent.png"
     },
     {
       "data": "Intubation ketamine first, can still see breathing, then roc suc also used for paralytic; etomidate also for sedation",
@@ -1233,7 +1233,7 @@
     {
       "data": "MGH GRP-UCI IM Residency - MGH Whitebook 2021-2022 - Undedited.pdf (sharepoint.com)",
       "template": "",
-      "imgs": ""
+      "imgs": "images/gpc.png, images/gnc.png"
     },
     {
       "data": "microscopy - compare size of lymphocyte nucleus to RBC to see if RBC is small or large or normal - monocyte has vacuoles - hypersegmented neutrophil (more than 5 lobes) = megaloblastic anemia Ddx: folate or B12 deficiency, drug affecting folate metbolism.",
@@ -1278,7 +1278,7 @@
     {
       "data": "nausea / vomiting - in advanced cancer, olanzapine can help (also used in refractory depression, but together with another med) - UCI palliative Dr. Nisco seems to like compazine 5mg PO q6h - if works for doamine blocker IV haldol (dopamine blocker) 5mg IM if QTc allows cannabinoid marijuana vomiting/hyperemesis syndrome - Zofran, fosaprepitant.  haldol IM also works vomiting - zofran 8mg q8h PO or 4mg IV q8h - promethazine (Phenergan) - prochlorperazine (Compazine) - metoclopramide (Reglan) (if caused by opioid, chemo, toxin, or drugs, - target GI tract or chemoreceptor trigger zone = antidopamine good = compazine, phenergan, haldol, metoclopramide, chlorpromazine, olanzapine -- SE: sedation, hypotension, dystonia, pseudoparkinson) - can also try Haldol if really bad - if QTC - scopalamine patch but useless - zofran or promethazine x1 - Tigan trimethobenzamide (200 q8h PRN) - Emend IV (antihistamine for chemo - restricted) or dexamethasone (also chemo premed) or benadryl if due to constipation/gut wall/ileus = D2 receptor (metoclopramide, prochlorperazine, haldol, olanzapine) if gut mucosal injury (infection, inflammation, tumor, chemo, radiation) = serotonin receptor in gut (zofran) if drugs or bacteria, D2 5HT, NK1 all okay = NK1 blocker (aprepitant) motion sickness or ear = H1 receptor (scopolamine, diphenyhydramine, promethazine) anticipatory nausea = benzo and olanzapine - if due to ICP = steroids help",
       "template": "Ongoing abdominal pain meets Rome IV criteria for cyclic vomiting syndrome -- patient endorses chronic migraine history, episodic vomiting with period of normalcy in between episodes. Episodes are often associated with headaches and autonomic symptoms such as diaphoresis. Patient also endorses relief with hot baths. Other ddx include malabsorption given atrophic pancreatitis on CTAP and history of recurrent pancreatitis. #Episodic nausea and vomiting #Cyclic vomiting syndrome: as this is a diagnosis of exclusion, will need to rule out other etiologies such as gastroparesis and biliary dyskinesia - Gastric emptying study as an outpatient to rule out gastroparesis - Please order CCK HIDA as an outpatient to rule out biliary dyskinesia - Start Coq 200 mg BID Check levels within 2 weeks outpatient and titrate to goal of 3-4 (please see follow up instructions) - Please order coq enzyme level for outpatient follow up in 2 weeks at discharge (goal level is 3-4) - Start L-carnitine 1g BID, or patient can purchase OTC - Please order carnitine level in 2 weeks at discharge (goal suggested target blood level is a free carnitine level >40 micromol/L) - E-consult to Neurology for optimization of migraine meds (non-oral triptans bring relief for nausea, characteristic of CVS) - Start nortriptyline 10 mg qHS for MAINTENANCE against CVS. - Please prescribe sumatriptan intranasal dose 20 mg on discharge -- this is to be used for an ABORTIVE when patient feels an episode coming on. Can repeat dose in 2 hours if needed. - Ensure adequate volume resuscitation as one of the triggers for nausea can be dehydration-- 1L NS bolus now then maintenance rate with D5 1/2 NS, 60 cc/hr + 1ml/kg/hr for every kg above 20 kg (ex: 60 kg adult = 100 cc/hr ) please adjust based on clinical status, cardiac and renal comorbidities, etc. - Measure fecal elastase -- start Creon (at least 36k TID) if low - Continue PPI once daily for reflux symptoms -- please discharge on lansoprazole 30 mg once daily. - Phenergine suppository - Cyproheptadine - Riboflavin",
-      "imgs": ""
+      "imgs": "images/antiemetic.png"
     },
     {
       "data": "neck cervical myelopathy = by cervical spondylosis - test: MRI - Tx: surgical decompression Sx: lower motor weaness in arms/hands (less reflex), upper motor symptoms in legs (more muscle tone, hyperreclex, clonus, babinski) Lhermitte sign - electric shock from neck to spine with forward flex neck vs. cervical radiculopathy= spinal root compression from disc herniation or degenerative spine - Sx: constant neck pain to arm and paresthesia in dermatome, decreased deep denton reflex - test: positive spurling test (put pressure down on head while neck bent to affected side and extended; pain better when lifting arm above head) - Tx: neck exercise + topical and oral NSAID, no MRI needed. - Tx: if motor weakness, then need surgery neurogenic thoracic outlet syndrome - compression nerve root brachial plexus - thin, young active female with repetitive overhead stress - Sx: numb, pain, of 1 arm arm, neck, shoulder when arm overhead - EMG normal - Tx: physical therapy for posture and strentening shoulder girdle",
@@ -1611,6 +1611,11 @@
       "imgs": ""
     },
     {
+      "data": "rotem/teg /n thromboelastogram",
+      "template": "",
+      "imgs": "images/roten.png, images/Screenshot 2026-02-10 132824.png"
+    },
+    {
       "data": "rhabdo - CK> 5000, bolus 1L NS, then LR 3cc/kg/hr, urine output goal 200cc/hr (3cc/kg/hr).  If more, decrease IVF 1cc/kg/hr (min 2cc/kg/hr), if less, if hypovolemic, increase 1cc/kg/hr (max 5cc/kg/hr); if overloaded, diurese. - CK q8h, if <5000 x2, then can stop treatment",
       "template": "",
       "imgs": ""
@@ -1698,7 +1703,7 @@
     {
       "data": "shocks - cardiogenic - high PCWP - hypovolemic - low PCWP - obstructive - tamponade, PE, tension pneumo - anaphylatic - high cardiac output and low systemic resistance - septic shock - high cardiact output and low systemic resistance",
       "template": "",
-      "imgs": ""
+      "imgs": "images/vasopressor.png, images/shock.png"
     },
     {
       "data": "shoulder joint labral tear superior labrum anterior and posterior lesions (SLAP) - repetitive overhead stress / weightlifting or throwing - Sx: pain with abduction and external rotation, catching of joint, joint instability, creptius AC joint degeneration = poorly localized pain, strength and ROM normal - test: pain with adduction of arm across body (Cross-arm) and shoulder abduction >120degrees bicep tendinopathy - repetitive lifting and carrying - Sx: pain at anterior shoulder, radiate to deltoid, wrose with overhead - test: pain by palpating long head of biceps tendon, pain with arm at side while flexing elbow and supinate against resistance rotator cuff tendinopathy - Sx: pain worse at night, lying on affected side, with overhead activity; pain to upper arm near deltoid. - test: pain at 60-120 degrees of passive abduction (= positive painful arc test), empty can test - Tx: rest, tylenol, PT",
@@ -1943,7 +1948,7 @@
     {
       "data": "tube feeding - tuve feed <48 hours reduces mortality - no early feeding if in shock erythromycin (prokinetic - better than metoclopramide) - residual (content in stomach when feeding stopped) <500 okay; if more, ensure head of bed > 30, erythomycin or metoclopramid, advance to post-pyloric or into jejunum (if vomiting) - gastric okay for intermittent or continuous feed (no changes in outcome) - post-pyloric only for continuous feed",
       "template": "",
-      "imgs": ""
+      "imgs": "images/tube feeding.png"
     },
     {
       "data": "tumor lysis TLS - give lots of IV hydration (and lasix to enhance urine flow) - urate, K, phos really high - IV rasburicase for all high risk (bulky disease, high leukocytosis count, high urate or LDH, very bad CKD), or if rapid decreasing urate level is needed",
