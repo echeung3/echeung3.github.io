@@ -2081,7 +2081,7 @@
       "imgs": ""
     },
     {
-      "data": "Difference b/w LR & NS",
+      "data": "Difference b/w LR & NS \n\n Composition:\n- NS (0.9% NaCl): Na 154 mEq/L, Cl 154 mEq/L.\n- LR: Na 130 mEq/L, Cl 109 mEq/L, K 4 mEq/L, Ca 3 mEq/L, Lactate 28 mEq/L (buffer).\n\nMetabolic impact:\n- NS: High Cl load → non–anion gap (hyperchloremic) metabolic acidosis, esp with large volumes.\n- LR: Lactate (as sodium lactate) → metabolized to HCO3− → less hyperchloremic acidosis.\n\nWhen to prefer LR:\n- Sepsis/large-volume resuscitation, trauma/burns, peri-op fluids, DKA (often preferred).\n\nWhen to prefer NS:\n- Hypochloremic metabolic alkalosis (e.g., vomiting), severe hyponatremia, neuro/TBI concerns, blood transfusion (avoid LR due to Ca).\n\nPearls:\n- LR does NOT meaningfully worsen lactic acidosis.\n- LR’s K content is low (4 mEq/L); NS-related acidosis can worsen hyperkalemia.\n- Large NS volumes can contribute to AKI risk via hyperchloremia.",
       "template": "",
       "imgs": "images/lactatedringers-normalsaline-crystalloids-plasmalyte-comparison-original.jpeg"
     },
