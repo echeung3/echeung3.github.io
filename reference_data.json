@@ -257,17 +257,17 @@
       "imgs": ""
     },
     {
-      "data": "bloating - maalox (Mg Al OH) - Tums (calcium carbonate) - simethicone (form big bubble and fart/burp)",
+      "data": "bloating \n- maalox (Mg Al OH) \n- Tums (calcium carbonate) \n- simethicone (form big bubble and fart/burp)",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "BPH - finasteride takes weeks to work",
+      "data": "BPH \n- finasteride takes weeks to work",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "breast cancer prevention if risk is >3% - tamoxifen before menopause (increases risk of endometrial cancer) - tamoxifen and raloxifene after menopause",
+      "data": "breast cancer prevention if risk is >3% \n- tamoxifen before menopause (increases risk of endometrial cancer) \n- tamoxifen and raloxifene after menopause",
       "template": "",
       "imgs": ""
     },
@@ -277,12 +277,12 @@
       "imgs": ""
     },
     {
-      "data": "Budd-chiari - hepatic vein or IVC thrombosis - Sx: RUQ pain, jandice, rapid ascites,",
+      "data": "Budd-chiari \n- hepatic vein or IVC thrombosis \n- Sx: RUQ pain, jandice, rapid ascites,",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "bullous pemphigold - non muocsa surfaces pemphigus vulgaris - involves oral and vaginal mucosa surface porphyria cutanea tarda - dorsum of hand and sun-exposed areas",
+      "data": "bullous pemphigold \n- non muocsa surfaces \n\npemphigus vulgaris \n- involves oral and vaginal mucosa surface \n\nporphyria cutanea tarda \n- dorsum of hand and sun-exposed areas",
       "template": "",
       "imgs": ""
     },
@@ -292,32 +292,32 @@
       "imgs": ""
     },
     {
-      "data": "Burn - goal: urine output 31-50cc/hr (titrate fluids to get this) for 24 hours - if burn > 25%, vitamin C 66mg/kg/hr x24 hours (no if Cr > 1.5, MI in last 6 months, hepatic failure, >8 hrs since burn (UCI protocol available)",
+      "data": "Burn \n- goal: urine output 31-50cc/hr (titrate fluids to get this) for 24 hours \n- if burn > 25%, vitamin C 66mg/kg/hr x24 hours (no if Cr > 1.5, MI in last 6 months, hepatic failure, >8 hrs since burn \n(UCI protocol available)",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "bypass - micronutritent deficiency - B1, B6, B9, 12, ACDEK iron, zinc, selenium, copper",
+      "data": "bypass surgery \n- micronutritent deficiency \n- B1, B6, B9, 12, ACDEK iron, zinc, selenium, copper",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "c auris - Tx: micafungin",
+      "data": "c auris \n- Tx: micafungin (Echinocandins)",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "cabgf - vein mapping (vascular lab), pft, carotid ultrasound",
+      "data": "cabgf \n- vein mapping (vascular lab), pft, carotid ultrasound",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "calciphylaxis - happens in ESRD patients, painful ulcer - cause: calcification in dermal arterioles - Tx: no definitive treatment, but calcitonin and sodium thiosulfate (anti-inflammatory)",
+      "data": "calciphylaxis \n- happens in ESRD patients, painful ulcer \n- cause: calcification in dermal arterioles \n- Tx: no definitive treatment, but calcitonin and sodium thiosulfate (anti-inflammatory)",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "cancer colon cancer - programmed death receptor 1 inhibitors (PD-1 inhibitors) for refractor metastatic colon cancer - CEA q6m for 2 years and CT chest/abd/pelvis yearly for 5 years breast cancer - Her2 positive Tx: trastuzumab, need echo q3m - peau d'orange - need core needle biopsy - inverted nipple + erythematous at some portion of breast = inflammatory breast cance r(3% of all breast cancers) cervical cancer - stage 1/2:: hysterectomy and pelvic node dissection - stage 3 (extension to pelvic sidewall, lower third of vagina, or pelvic adenopathy): cisplatin + radiation neuroendocrine tumor - if no symptoms even if metastasis to liver, observe with interval 3m imaging.  If symptoms (face flushing /diarrhea), somatostatin analogue colon adenocarcinoma Tx: fluorouracil and oxaliplatin non-small cell lung cancer with ALK translocation - Tx: alectinib non-small cell lung cancer with no mutations or programmed death ligand expression, Tx with combo chemo (carboplatin and pemetrexed) + pembrolizumab - if have PD-L1 expression, then can just use pembrolizumab ALL, CLL, AML low Hgb and Plt CML high WBC. Tx: imatinib ALL and CLL large spleen, lymph nodes. APML Tx with retinoic acid. High risk AML, need stem cell transplant after chemo;  If low risk AML, after complete remission, then do \"consolidation chemo\" - as some cancer cells still can't be seen. chronic lymphocytic leukemia: high mature lymphocyte (>5) and smudge cells - test: flow cytometry - Tx: IVIG if low IgG or low IGA and having infections non-hogkin lymphoma - large B cell lymphoma - stage with LDH (international prognostic index score) brain mets with elevated ICP - high dose steroid to reduce tumor vasogenic edema Pdl1 score - whether benefit from immunotherapy P16+ scc = HPV associated If high risk - remove, chemo (cisplatin) and radiate Thyroid cancer: test for BRAF gene - = papillary carcinoma = aggressive form of cancer in melanoma, also look for BRAF",
+      "data":"Cancer overview:\n\nColon cancer:\n- PD-1 inhibitors for refractory metastatic colon cancer\n- Surveillance: CEA every 6 months for 2 years; CT chest/abdomen/pelvis annually for 5 years\n\nBreast cancer:\n- HER2-positive disease: treat with trastuzumab; obtain echocardiogram every 3 months\n- Peau d’orange: requires core needle biopsy\n- Inverted nipple with erythema of part of the breast suggests inflammatory breast cancer (~3% of cases)\n\nCervical cancer:\n- Stage I–II: hysterectomy with pelvic lymph node dissection\n- Stage III (pelvic sidewall involvement, lower third of vagina, or pelvic adenopathy): cisplatin with radiation\n\nNeuroendocrine tumor:\n- Asymptomatic (even with liver metastases): observation with imaging every 3 months\n- Symptomatic (flushing, diarrhea): treat with somatostatin analogues\n\nColon adenocarcinoma:\n- Chemotherapy with fluorouracil and oxaliplatin\n\nNon–small cell lung cancer (NSCLC):\n- ALK translocation: treat with alectinib\n- No driver mutations and no PD-L1 expression: carboplatin + pemetrexed + pembrolizumab\n- PD-L1 expression present: pembrolizumab monotherapy may be used\n\nLeukemias:\n- ALL, CLL, AML: anemia and thrombocytopenia common\n- CML: marked leukocytosis; treat with imatinib\n- ALL and CLL: splenomegaly and lymphadenopathy common\n- APL (APML): treat with all-trans retinoic acid (ATRA)\n\nAML risk stratification:\n- High-risk AML: stem cell transplant after induction chemotherapy\n- Low-risk AML: consolidation chemotherapy after complete remission\n\nChronic lymphocytic leukemia (CLL):\n- Findings: mature lymphocytosis >5 ×10^9/L and smudge cells\n- Diagnosis: flow cytometry\n- Treatment: IVIG if recurrent infections with low IgG or IgA\n\nNon-Hodgkin lymphoma (diffuse large B-cell lymphoma):\n- Stage and risk stratify using LDH as part of the International Prognostic Index\n\nBrain metastases with elevated ICP:\n- High-dose corticosteroids to reduce vasogenic edema\n\nImmunotherapy markers:\n- PD-L1 score predicts likelihood of benefit from immune checkpoint inhibitors\n\nSquamous cell carcinoma:\n- p16-positive SCC is HPV-associated\n- High-risk disease: surgical resection plus cisplatin-based chemoradiation\n\nThyroid cancer:\n- Test for BRAF mutation; BRAF-positive papillary thyroid carcinoma is more aggressive\n- BRAF testing is also relevant in melanoma \n\n Order additional tumor markers for unknown primary: [tumor markers: CEA, CA19-9, CA125, AFP, PSA, HE4, bHCG] ",
       "template": "",
       "imgs": ""
     },
