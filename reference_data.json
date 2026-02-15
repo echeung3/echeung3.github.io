@@ -252,7 +252,7 @@
       "imgs": ""
     },
     {
-      "data": "BiPAP, ACVC, chest PT KUB NG tube, OG tube BIPAP - increased work of breathing, hypoxemic with pulmonary edema, and hypercarbic respiratory failure  (or very sedated; opioid overdose --- anything to increase minute ventilation) ventilator:   6-8;, 4-6 cc/kg IBW if ards, 8-9 if coming in for CO2 and need to blow off.   but increase rate for CO2 first (more bang for buck)",
+      "data":"Airway and supportive measures:\n- BiPAP, AC/VC ventilation, chest physiotherapy\n- KUB for NG tube or OG tube confirmation\n\nBiPAP indications:\n- Increased work of breathing\n- Hypoxemic respiratory failure due to pulmonary edema\n- Hypercapnic respiratory failure\n- Severe sedation with hypoventilation (e.g., opioid overdose or other causes of low minute ventilation)\n\nMechanical ventilation principles:\n- Tidal volume: 6–8 mL/kg ideal body weight (IBW)\n- ARDS: use low tidal volume 4–6 mL/kg IBW\n- Hypercapnic respiratory failure (CO2 retention): may use higher tidal volumes 8–9 mL/kg IBW if lung mechanics allow\n- CO2 management: increase respiratory rate first (greater impact on minute ventilation with less risk of volutrauma)",
       "template": "",
       "imgs": ""
     },
