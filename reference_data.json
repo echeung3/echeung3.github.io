@@ -176,28 +176,28 @@
       "imgs": ""
     },
     {
-      "data": "aortic dissection - type A = surgical emergency, type B = medical manage - keep SBP < 120, HR < 60; IV labetalol. may need nitroprusside (need betablocker with it else reflex tachy = worse) / cardene drip - !!! do not use hydralazine - increases shear stress - if d-dimer low (<0.5ug/ml), rules out aortic dissection - Dx: CTA",
+      "data": "aortic dissection \n- type A = surgical emergency, type B = medical manage \n- keep SBP < 120, HR < 60; IV labetalol. may need nitroprusside (need betablocker with it else reflex tachy = worse) / cardene drip \n- !!! do not use hydralazine - increases shear stress \n- if d-dimer low (<0.5ug/ml), rules out aortic dissection \n- Dx: CTA",
       "template": "- D-dimer, trop - CT (higher sensitivity and specific than U/S) - IV labetalol",
       "imgs": ""
     },
     {
-      "data": "aortic dissection BP < 120 with esmolol and labetalol",
+      "data": "aortic dissection \n-BP < 120 with esmolol and labetalol",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "aortic stenosis - 50% mortality in 3 years if angina, 3 years if syncope, 2 years if HF/SOB - aortic valve area <1cm and ( if mean AV gradient>40 OR ao peak velocity >4 = high flow)  then classic (classic high flow high gradient) - only pseudo severe should not get tavr. (Dobumatine stress increases ef to over 50%) - Heyde syndrome = angiodysplasia causing lower GI bleed",
+      "data": "aortic stenosis \n- 50% mortality in 3 years if angina, 3 years if syncope, 2 years if HF/SOB \n- aortic valve area <1cm and ( if mean AV gradient>40 OR ao peak velocity >4 = high flow)  then classic (classic high flow high gradient) \n- only pseudo severe should not get tavr. (Dobumatine stress increases EF to over 50%) \n\n- Heyde syndrome = angiodysplasia causing lower GI bleed",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "appetite stimulant - progesterone, dronabinol, mirtazepine (may be preferred), megace",
+      "data": "appetite stimulant \n- progesterone, dronabinol, mirtazepine (may be preferred), megace",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "ARDS - Berlin criteria: within 1 week of ARDS insut, bilateral opacities (pulmonary edema), respiratory failure not due to HF, PaO2/FiO2 <300 when on PEEP 5+ - mild: PaO2/FiO2 200-300, mod: 100-200, severe: <100 - Tx: 4-6cc/kg IBW, pleateau (end inspiratory pressure) < 30, even if some acidosis and hypercapnia - steroid NOT indicated in ARDS O2 = FiO2 and PEEP; pCO2 = RR and TV",
-      "template": "ARDS: Mild (P:F ratio 200-300) Moderate (P:F ratio 100-200) Severe (P:F ratio <100) ACVC - Goal tidal volume of 6 cc/kg predicted body weight - Goal rate 14-18 - FIO2 of 100% then reduce to 60% if SpO2 > 88% - PEEP of 10 given bilateral opacification of lungs on Xray - Goal SPO2 88-94% (PaO2 of 55-70) - Pplateau <30 --if above goal, reduce TV - Ppeak < 45 Pressure controlled - PEEP 5-10 depending on degree of hypoxemia - FIO2 of 100% then reduce to 60% if SpO2 > 88% - Driving pressure (or inspiratory pressure -- Pplateau - PEEP) of <15 cm H2O - Rate of 14-18 breaths per minute - Inspiratory time to keep I:E ratio 1:1.5 or higher - pH of 7.15 /  7.25 or greater is acceptable given high risk of overextension Compliance = Tidal Volume / Pplat-PEEP 6 P's of REfractory Hypoxemia : Pee: consider diuresis PEPP: Optimize PEEP Paralysis: early paralysis within 48 hrs of ARDS onset Pulmonary vasodilators -- iNO trial to see if inhaled epoprostenol would be beneficial Prone Perfusion (ECMO) -- severe refractory hypoxemia if ventilated <7 days",
+      "data": "ARDS \n- Berlin criteria: within 1 week of ARDS insult, bilateral opacities (pulmonary edema), respiratory failure not due to HF, PaO2/FiO2 <300 when on PEEP 5+ \n- mild: PaO2/FiO2 200-300, mod: 100-200, severe: <100 \n- Tx: 4-6cc/kg IBW, pleateau (end inspiratory pressure) < 30, even if some acidosis and hypercapnia \n- steroid NOT indicated in ARDS \n\n\n O2 = FiO2 and PEEP; pCO2 = RR and TV",
+      "template": "ARDS: \nMild (P:F ratio 200-300) \nModerate (P:F ratio 100-200) \nSevere (P:F ratio <100) \n\nACVC \n- Goal tidal volume of 6 cc/kg predicted body weight \n- Goal rate 14-18 \n- FIO2 of 100% then reduce to 60% if SpO2 > 88% \n- PEEP of 10 given bilateral opacification of lungs on Xray \n- Goal SPO2 88-94% (PaO2 of 55-70) \n- Pplateau <30 --if above goal, reduce TV \n- Ppeak < 45 \n\nPressure controlled \n- PEEP 5-10 depending on degree of hypoxemia \n- FIO2 of 100% then reduce to 60% if SpO2 > 88% \n- Driving pressure (or inspiratory pressure -- Pplateau - PEEP) of <15 cm H2O \n- Rate of 14-18 breaths per minute \n- Inspiratory time to keep I:E ratio 1:1.5 or higher \n- pH of 7.15 /  7.25 or greater is acceptable given high risk of overextension \n\nCompliance = Tidal Volume / Pplat-PEEP \n\n6 P's of REfractory Hypoxemia : \nPee: consider diuresis \nPEPP: Optimize PEEP \nParalysis: early paralysis within 48 hrs of ARDS onset \nPulmonary vasodilators -- iNO trial to see if inhaled epoprostenol would be beneficial \nProne positioning \nPerfusion (ECMO) -- severe refractory hypoxemia if ventilated <7 days",
       "imgs": ""
     },
     {
