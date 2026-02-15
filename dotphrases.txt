@@ -130,6 +130,51 @@ DOTPHRASE Alcohol withdrawal
 - At same time, taper off daytime valproate doses over couple days until eventual removal of all VPA by ~day 7
 - If started gabapentin, consider extended continuation as outpatient to supress recidivism}
 
+DOTPHRASE Alcohol Use Disorder 
+Alcohol use history:
+- Last drink: ***
+- Average number of alcoholic drinks per week: ***
+- Duration of alcohol use (years): ***
+
+Withdrawal management:
+- CIWA protocol active as indicated
+- Alcohol withdrawal managed with benzodiazepines and/or barbiturates as needed per protocol
+
+Pharmacologic treatment for Alcohol Use Disorder:
+- Discussed evidence-based pharmacologic options for AUD with the patient:
+
+Naltrexone:
+  - Reviewed contraindications, including:
+  - Current opioid use or acute opioid withdrawal
+  - Positive urine drug screen for opioids
+  - Acute hepatitis
+  - Child-Pugh Class C or other severe liver impairment
+  - Significantly elevated liver transaminases (>3–5x ULN)
+  - Discussed that naltrexone remains safe in stable chronic liver disease and is generally preferred over acamprosate due to improved tolerability
+
+Acamprosate:
+- Reviewed contraindications, including:
+  - Severe renal impairment (CrCl <30 mL/min)
+- Dose adjustment discussed for:
+  - CrCl 30–50 mL/min
+  - Body weight <60 kg
+
+Medication decision:
+- ☐ Naltrexone 50 mg PO daily prescribed
+- ☐ Acamprosate 666 mg PO TID prescribed
+- ☐ Acamprosate 333 mg PO TID prescribed (dose-reduced for renal function or low body weight)
+- ☐ Patient declined pharmacotherapy (reason documented)
+- ☐ Not addressed (reason documented)
+
+Counseling:
+- Patient was extensively counseled on abstinence from alcohol use while taking the above medication(s)
+- Risks, benefits, and alternatives were reviewed, and patient questions were answered
+
+Care coordination:
+- Ambulatory Clinical Pharmacist consulted
+- Plan for close outpatient follow-up with PCP within 7 days of discharge, to be coordinated with discharge coordinator
+
+
 DOTPHRASE Acute encephalopathy
 Presented with ***. Baseline mental status is ***. Differential diagnosis is broad and includes ***.
 Plan:
@@ -1572,4 +1617,84 @@ DOTPHRASE ALLLABS
 
 DOTPHRASE Brief Preop Evaluation
 Preoperative Cardiac Risk Asessment for *** surgery: According to the 2014 ACC/AHA guidelines for preoperative cardiovascular risk assessment, risk of perioperative cardiac morbidity should be estimated with the Revised Cardiac Risk Index which includes 6 predictors: high risk surgery (intraperitoneal, intrathoracic, or suprainguinal vascular surgery), ischemic heart disease, heart failure, cerebrovascular disease, renal insufficiency with Cr >2, and insulin-dependent diabetes mellitus.  @M@ @LNAME@ has a score of *** which is associated with a low (<1%)/elevated (***%) risk of MACE. No active cardiac conditions such as unstable angina, recent MI, decompensated heart failure, unstable arrhythmias, or severe valvular disease. Functional capacity is ***>***< 4 METS. In summary, he/she is a *** risk patient going for a *** risk surgery.   @CAPHE@ may proceed to surgery without further testing because further testing will not impact decision-making or perioperative care. We recommend the following for management of her perioperative cardiovascular risk: 1) Continue all antihypertensive/antianginal medications perioperatively 2) Continue/hold*** aspirin as she has a/no*** history of coronary stents.  Resume aspirin postoperatively if no active bleeding. 
+
+
+DOTPHRASE AUDPLAN
+
+Alcohol use history:
+- Last drink: ***
+- Average number of alcoholic drinks per week: ***
+- Duration of alcohol use (years): ***
+- Longest sober: *** 
+
+========================
+Alcohol Withdrawal (CIWA-Ar)
+========================
+- CIWA-Ar monitoring initiated as indicated
+- Severity stratification:
+  - CIWA-Ar <8: Mild withdrawal → supportive care only (no scheduled benzodiazepines)
+  - CIWA-Ar 8–15: Moderate withdrawal → symptom-triggered benzodiazepines per CIWA protocol
+  - CIWA-Ar ≥16: Severe withdrawal → scheduled benzodiazepines ± escalation to ICU-level care
+- Benzodiazepines and/or barbiturates administered per institutional protocol
+- Thiamine administered prior to glucose-containing fluids to prevent Wernicke encephalopathy
+
+========================
+Pharmacotherapy for Alcohol Use Disorder
+========================
+- Discussed evidence-based pharmacologic treatment options for AUD with patient per guidelines:
+
+------------------------
+Naltrexone (First-line)
+------------------------
+Eligibility criteria:
+- No current opioid use or opioid withdrawal
+- Negative UDS for opioids
+- No acute hepatitis
+- No severe hepatic impairment (Child-Pugh Class C)
+- AST/ALT ≤3–5x upper limit of normal
+
+Liver disease considerations:
+- Stable chronic liver disease (including compensated cirrhosis) is NOT a contraindication
+- Naltrexone is preferred over acamprosate when hepatic function is stable due to improved tolerability and adherence
+
+Prescription:
+- ☐ Naltrexone 50 mg PO daily prescribed
+
+------------------------
+Acamprosate (Alternative)
+------------------------
+Renal function–based dosing (per VA/ASAM):
+- CrCl ≥50 mL/min → 666 mg PO TID
+- CrCl 30–50 mL/min → 333 mg PO TID (dose-reduced)
+- CrCl <30 mL/min → CONTRAINDICATED
+
+Weight-based consideration:
+- Weight <60 kg → consider 333 mg PO TID
+
+Prescription:
+- ☐ Acamprosate 666 mg PO TID prescribed
+- ☐ Acamprosate 333 mg PO TID prescribed (renal function or low body weight)
+
+========================
+Medication Decision
+========================
+- ☐ Pharmacotherapy initiated as above
+- ☐ Patient declined pharmacotherapy after counseling (reason documented)
+- ☐ Pharmacotherapy deferred (reason documented)
+
+========================
+Counseling
+========================
+- Patient counseled extensively on:
+  - Abstinence from alcohol while on pharmacotherapy
+  - Expected benefits (reduced cravings, relapse prevention)
+  - Common adverse effects and warning signs
+- Risks, benefits, and alternatives reviewed; patient expressed understanding
+
+========================
+Care Coordination & Discharge Planning
+========================
+- Ambulatory Clinical Pharmacist consulted. 
+- Plan for close outpatient follow-up with PCP within 7 days of discharge
+- Discharge coordinator to assist with continuity of AUD treatment
 
