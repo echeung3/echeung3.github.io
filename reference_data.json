@@ -217,12 +217,12 @@
       "imgs": ""
     },
     {
-      "data": "back pain - local heat, massage, acupuncture, psinal manipulation - NSAID if above doesn't work, then tramadol or duloxeitine as 2nd line - oxycodone as 3rd line - only if >6 weeks no improvement, then imaging  (immediate MRI if risk for spinal infection, cord compression, cauda equina)",
-      "template": "Differential diagnosis includes most likely musculoskeletal pain, muscle spasm/sprain, spinal stenosis, sciatica. Low suspicion for vertebral fracture, no point tenderness over the spine, falls, or recent trauma, normal gait. Doubt spinal epidural abscess or hematoma. Patient has no significant risk factors for spinal epidural emergency such as fever, IVDU, HIV, or anticoagulant use. No signs or symptoms concerning for cauda equina syndrome - neurologically intact without any lower extremity weakness, saddle anesthesia, or incontinence. Doubt pyelonephritis or kidney stone, no fevers, systemic symptoms, hematuria, or dysuria. Doubt AAA, no sig cardiac risk factors, no pulsatile mass and normal lower extremity pulses.",
+      "data": "back pain \n- local heat, massage, acupuncture, spinal manipulation \n- NSAID if above doesn't work, then tramadol or duloxetine as 2nd line \n- oxycodone as 3rd line \n- only if >6 weeks no improvement, then imaging  (immediate MRI if risk for spinal infection, cord compression, cauda equina)",
+      "template": "Differential diagnosis includes most likely musculoskeletal pain, muscle spasm/sprain, spinal stenosis, sciatica. \n\nLow suspicion for vertebral fracture, no point tenderness over the spine, falls, or recent trauma, normal gait. \nDoubt spinal epidural abscess or hematoma. Patient has no significant risk factors for spinal epidural emergency such as fever, IVDU, HIV, or anticoagulant use. No signs or symptoms concerning for cauda equina syndrome \n- neurologically intact without any lower extremity weakness, saddle anesthesia, or incontinence. \nDoubt pyelonephritis or kidney stone, no fevers, systemic symptoms, hematuria, or dysuria. \nDoubt AAA, no sig cardiac risk factors, no pulsatile mass and normal lower extremity pulses.",
       "imgs": ""
     },
     {
-      "data": "bactrim bad for AKI atorvaquone if prednisone pulse",
+      "data": "bactrim bad for AKI atorvaquone if prednisone pulse \n In AKI, avoid TMP-SMX/Bactrim due to pseudo-AKI, true nephrotoxicity, and hyperkalemia; use atovaquone for PJP prophylaxis when giving high-dose steroids",
       "template": "",
       "imgs": ""
     },
@@ -232,7 +232,7 @@
       "imgs": ""
     },
     {
-      "data": "Behcet syndrome (oral ulcers, genital ulcers) - a vasculitis issue - 1st line = colchicine - 2nd line: apremilast (prevention of oral ulcers in Behet)",
+      "data": "Behcet syndrome (oral ulcers, genital ulcers) - a vasculitis issue \n- 1st line = colchicine \n- 2nd line: apremilast (prevention of oral ulcers in Behet)",
       "template": "",
       "imgs": ""
     },
@@ -242,12 +242,12 @@
       "imgs": ""
     },
     {
-      "data": "bigemy - start metoprolol",
+      "data": "bigeminy \n- start metoprolol",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "bilirubinemia very high, concern for cholangiocarcinoma - MRCP/MRI Abdomen WO/W contrast - Obtain CA 19-9, CEA, and AFP - Please send hepatitis serologies (HAV Ab, HBsAg, HBsAb, HBc Ab Total, HCV Ab, HEV Ab); ANA, Anti-smooth muscle Ab, Anti-mitochondrial Ab. Iron including ferritin;  Ceruloplasmin - Start Lasix 40 IV given moderate volume ascites",
+      "data": "bilirubinemia very high, concern for cholangiocarcinoma \n- MRCP/MRI Abdomen WO/W contrast \n- Obtain CA 19-9, CEA, and AFP \n- Please send hepatitis serologies (HAV Ab, HBsAg, HBsAb, HBc Ab Total, HCV Ab, HEV Ab); ANA, Anti-smooth muscle Ab, Anti-mitochondrial Ab. Iron including ferritin;  Ceruloplasmin \n- Start Lasix 40 IV given moderate volume ascites",
       "template": "",
       "imgs": ""
     },
