@@ -8,9 +8,9 @@ function initTable() {
 
 document.addEventListener("DOMContentLoaded", () => {
   try {
-    initTable();
-    initSearch();
-    initCopy();
+    if (typeof initTable === "function") initTable();
+    if (typeof initSearch === "function") initSearch();
+    if (typeof initCopy === "function") initCopy();
   } catch (e) {
     console.error("Init failed:", e);
   }
