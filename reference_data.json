@@ -131,8 +131,8 @@
       "imgs": ""
     },
     {
-      "data": "anemia - causes: - MCV < 80: iron deficiency, chronic inflammation, thalassemia and hemoglobinopathy, copper deficiency (rare), lead toxicity zinc toxicity, sideroblastic anemia (lead, alcohol, drugs). - MCV 80-100: acute, malignancy, bone marrow invasion or suppression, or primary disorder, cancer, CKD (low EPO), hemolysis, endocrine issue (hyothyroidism, adrenal insufficiency) - MCV >100: alcohol, folate, vitamin B12, GI resection, vegan, liver disease, antiretroviral - if vita B12 low, need methylmalonic acid and homocysteine lab (if true B12 deficiency, both are increased.  In folate deficiency, only increased homocysteine). - folate >4ng/ml = no deficiency. < 2ng/ml = folate deficiency - acute anemia: can also look at Calcium dropping to determine dilutional vs - iron sat <19% AND MCV low if ferritin is high, then mixed picture.  If MCV normal, then only anemia of chronic disease for old people, iron deficiency anemia cancer unless proven otherwise - B12 deficiency: hypersegmented neutrophil, (will get higher LDH, indrect bili and AST = ineffective erythropoesis) - zinc blocks copper absoprtion (i.e. good for wilson disease) iron deficiency: - transferrin sat < 20% - ferritin < 30 ug/L - ferritin 30-100 need serum transferrin receptor/log ferritin >2 - ferritin > 100 rules out (= anemia of chronic disease) for pregnant patients, use sucrose, NOT gluconate There is a risk of adverse maternal reactions (eg, anaphylaxis, hypotension, shock) following use of parenteral iron, which may result in fetal bradycardia, especially during the second and third trimesters. An immediate hypersensitivity reaction has been reported in a pregnant patient (Cuciti 2005). Although the risk is rare, immediate treatment for anaphylactoid and/or hypersensitivity reactions should be available (BSH [Pavord 2020]).",
-      "template": "- reticulocyte count - peripheral blood smear - TSH, free T4 - occult blood - iron studies if increased RDW - B12, folate if increased RDW - LDH (high), haptoglobin (low - binds free Hgb) , T bili (for indirect bili) if hemolysis - Hgb electrophoresis if thalassemia/hemoglobinopathy - abdominal U/S if spleen - ESR, CRP if inflammation - bone marrow biopsy if pancytopenia or abnormal cells peripheral blood #acute on chronic anemia: - Ganzoni Equation shows IV iron of *** - f/u B12, folate, iron panel, ferritin - CBC q 4 hours - IV pantoprazole - Pediatric tubing for all blood draws",
+      "data":"Anemia\n- Causes:\n- MCV <80: iron deficiency, chronic inflammation, thalassemia, hemoglobinopathy, copper deficiency (rare), lead toxicity, zinc toxicity, sideroblastic anemia (lead, alcohol, drugs)\n- MCV 80–100: acute blood loss, malignancy, bone marrow invasion or suppression, primary marrow disorder, cancer, CKD (low EPO), hemolysis, endocrine disorders (hypothyroidism, adrenal insufficiency)\n- MCV >100: alcohol use, folate deficiency, vitamin B12 deficiency, GI resection, vegan diet, liver disease, antiretroviral therapy\n- If vitamin B12 is low: check methylmalonic acid (MMA) and homocysteine (true B12 deficiency → both elevated; folate deficiency → homocysteine elevated only)\n- Folate >4 ng/mL = no deficiency; <2 ng/mL = folate deficiency\n- Acute anemia: calcium drop may suggest dilutional anemia\n- Iron saturation <19% with low MCV and high ferritin suggests mixed picture; if MCV normal, consider anemia of chronic disease alone\n\nSpecial considerations:\n- In older adults, iron deficiency anemia = malignancy until proven otherwise\n- B12 deficiency: hypersegmented neutrophils, elevated LDH, indirect bilirubin, and AST (ineffective erythropoiesis)\n- Zinc excess blocks copper absorption (therapeutic in Wilson disease)\n\nIron deficiency criteria:\n- Transferrin saturation <20%\n- Ferritin <30 mcg/L\n- Ferritin 30–100 mcg/L: check soluble transferrin receptor/log ferritin >2\n- Ferritin >100 mcg/L generally rules out iron deficiency (suggests anemia of chronic disease)\n\nPregnancy:\n- Use IV iron sucrose, NOT iron gluconate\n- Parenteral iron carries a rare risk of maternal hypersensitivity reactions (anaphylaxis, hypotension, shock) that may cause fetal bradycardia, especially in 2nd–3rd trimesters; emergency treatment for hypersensitivity should be immediately available (BSH Pavord 2020)",
+      "template": "Anemia workup:\n- Reticulocyte count\n- Peripheral blood smear\n- TSH, free T4\n- Fecal occult blood\n- Iron studies if RDW increased\n- Vitamin B12 and folate if RDW increased\n- If hemolysis suspected: LDH (elevated), haptoglobin (low – binds free hemoglobin), total bilirubin (indirect predominance)\n- Hemoglobin electrophoresis if concern for thalassemia or hemoglobinopathy\n- Abdominal ultrasound if splenomegaly suspected\n- ESR, CRP if concern for inflammation\n- Bone marrow biopsy if pancytopenia or abnormal cells on peripheral smear\n\n#Acute on chronic anemia:\n- IV iron requirement (Ganzoni equation): Total iron deficit (mg) = body weight (kg) × (target Hgb − actual Hgb) × 2.4 + iron stores (≈500 mg)\n- Follow-up B12, folate, iron panel, ferritin\n- CBC every 4-8 hours\n- IV pantoprazole\n- Use pediatric tubing for all blood draws",
       "imgs": ""
     },
     {
@@ -156,22 +156,22 @@
       "imgs": ""
     },
     {
-      "data": "anovulatory uterine bleeding - irregular heavy bleeding within 2 years after menopause without nausea or cramping - Tx: observation only - normal",
+      "data": "anovulatory uterine bleeding \n- irregular heavy bleeding within 2 years after menopause without nausea or cramping \n- Tx: observation only - normal",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "anthrax - Sx: flu-like syndrome then sepsis - Dx: bloody pleural effusion on CT/CXR and widening of mediastinum",
+      "data": "anthrax \n- Sx: flu-like syndrome then sepsis \n- Dx: bloody pleural effusion on CT/CXR and widening of mediastinum",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "antiphospholipid antibody syndrome - Sx: Angulated retiform purpura (sudden skin necrosis with jagged edges), pregnancy loss - lupus anticoagulant, anticardiolipin Ab, anti beta-2 glycoprotein ab, measured 2x 12 weeks apart - Tx: need warfarin",
+      "data": "antiphospholipid antibody syndrome \n- Sx: Angulated retiform purpura (sudden skin necrosis with jagged edges), pregnancy loss \n- lupus anticoagulant, anticardiolipin Ab, anti beta-2 glycoprotein ab, measured 2x 12 weeks apart \n- Tx: need warfarin",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "aortic aneurysm (AA) (Thoracic or abdominal) - risk factors: smoking, male, age, HLD, HTN, obesity - surgery M >5.5cm or >0.5cm/6months growth; female: >4.5cm - statin, BB, aspirin - surveillenace: thoracic: if 3.5-4.4, every year, more is 6 months abdominal: <4cm is every 2 years; > 4cm is at least every year thoracic aortic aneurysm - BP <140/90 - Tx: BB, ARB, statin",
+      "data": "aortic aneurysm (AA) (Thoracic or abdominal) \n- risk factors: smoking, male, age, HLD, HTN, obesity \n- surgery M >5.5cm or >0.5cm/6months growth; female: >4.5cm \n- statin, BB, aspirin \n\n- surveillance: \nthoracic: if 3.5-4.4, every year, more is 6 months \nabdominal: <4cm is every 2 years; > 4cm is at least every year \n\nthoracic aortic aneurysm \n- BP <140/90 \n- Tx: BB, ARB, statin",
       "template": "",
       "imgs": ""
     },
