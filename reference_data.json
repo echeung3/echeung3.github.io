@@ -322,28 +322,28 @@
       "imgs": ""
     },
     {
-      "data": "cardiogenic shock - criteria: SBP < 90 for 30m or pressors needed + cold extremities/oliguria/lactic (hypoperfusion) + hemodynamics (CI < 2.2, PCWP > 15) - test: EKG, troponin, TTE to exclusion tamponade - cause: MI, ESRD< myocarditis - goal: CO > 4, CI > 2.1, mixed venous >65  (dobutamine) initial dose 0.5-1mcg/kg/min; or milrinone (also inodilator) 0.125mcg/kg/min if severe hypotension, use epi, levoped",
+      "data": "cardiogenic shock \n- criteria: SBP < 90 for 30m or pressors needed + cold extremities/oliguria/lactic (hypoperfusion) + hemodynamics (CI < 2.2, PCWP > 15) \n- test: EKG, troponin, TTE to exclusion tamponade \n- cause: MI, ESRD< myocarditis \n- goal: CO > 4, CI > 2.1, mixed venous >65  (dobutamine) initial dose 0.5-1mcg/kg/min; or milrinone (also inodilator) 0.125mcg/kg/min \n\nif severe hypotension, use epi, levoped",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "cardioversion - need 3 weeks of anticoag before CV (or TEE echo) and 4 weeks after",
+      "data": "cardioversion \n- need 3 weeks of anticoag before CV (or TEE echo) and 4 weeks after",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "carpel tunnel - weakness and numbness 1st 3 fingers, worse at night - Tx: decompression if have muscle weakness/atrophy;  if no evidence of weakness, then neutral wrist splinting at night and steroid injection (can aso do short course oral steroid) lateral epicondylitis (tennis elbow) - too much wrist extension - Sx: pain at lateral elbow, radiates down back of hand, worse at night and with activity - test: pain at elbow with forced extension of wrist",
+      "data": "carpal tunnel \n- weakness and numbness 1st 3 fingers, worse at night \n- Tx: decompression if have muscle weakness/atrophy;  \nif no evidence of weakness, then neutral wrist splinting at night and steroid injection (can aso do short course oral steroid) \n\nlateral epicondylitis (tennis elbow) \n- too much wrist extension \n- Sx: pain at lateral elbow, radiates down back of hand, worse at night and with activity \n- test: pain at elbow with forced extension of wrist",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "cauda equina - bilateral leg weakness, saddle anesthesia, bowel/bladder dysfunction - PE: absense distal reflex and leg weakness - caused: disk herniation, spondylosis, trauma, infection, cancer (prostate, lumphoma, multiple myeloma) -  dexamethasone and emergent MRI - surgery consult",
+      "data": "cauda equina \n- bilateral leg weakness, saddle anesthesia, bowel/bladder dysfunction \n- PE: absence distal reflex and leg weakness \n- caused: disk herniation, spondylosis, trauma, infection, cancer (prostate, lumphoma, multiple myeloma) \n-  dexamethasone and emergent MRI \n- surgery consult",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "cdiff - last thing can trial IVIG if severe  (can be considered to fight infection)",
-      "template": "#C. Diff colitis: atypical presentation given patient does not endorse watery diarrhea, but definitely +RF given IBD. C. Diff PCR positive on 05/06/20. Non-severe (WBC<15, and Cr <1.5) Severe (WBC > 15, Cr > 1.5) Fulminant - PO vanc 125 mg q 8 hours (05/07/20 - 5/17/20) - Probiotics daily -- shown to decrease recurrence compared to placebo >50% with no significant adverse effects (Gastro 2017; 152: 1889) - Isolation precautions",
+      "data": "cdiff \n- last thing can trial IVIG if severe  (can be considered to fight infection)",
+      "template": "#C. Diff colitis: \natypical presentation given patient does not endorse watery diarrhea, but definitely +RF given IBD. \nC. Diff PCR positive on 05/06/25. \nNon-severe (WBC<15, and Cr <1.5) \nSevere (WBC > 15, Cr > 1.5) \nFulminant: hypotension, shock, ileus, or toxic megacolon - PO vanc 125 mg q 8 hours (05/07/20 - 5/17/20) \n- Probiotics daily -- shown to decrease recurrence compared to placebo >50% with no significant adverse effects (Gastro 2017; 152: 1889) \n- Isolation precautions",
       "imgs": ""
     },
     {
