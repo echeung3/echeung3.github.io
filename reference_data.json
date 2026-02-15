@@ -348,7 +348,7 @@
     },
     {
       "data": "Cdiff: use fidaxomicin in CKD patients instead of vancomycin or in severe Fulminant cdiff (systemic toxicity): po vanc, iv Flagyl and rectal vanc",
-      "template": "",
+      "template": "Clostridioides difficile infection (CDI) – evidence-based management:\n\nInitial episode (non-fulminant):\n- Fidaxomicin preferred over oral vancomycin when available (IDSA/SHEA 2021)\n- Rationale: similar cure rates but lower recurrence, especially in high-risk patients (CKD, age ≥65, immunocompromised)\n- Fidaxomicin has minimal systemic absorption and requires no renal dose adjustment\n- Dosing: fidaxomicin 200 mg PO BID × 10 days\n- Alternative: oral vancomycin 125 mg PO QID × 10 days if fidaxomicin unavailable\n\nSevere CDI (non-fulminant):\n- Defined as WBC ≥15,000 or creatinine >1.5 mg/dL\n- Treatment: fidaxomicin preferred or oral vancomycin 125 mg PO QID\n\nFulminant CDI (systemic toxicity):\n- Defined by hypotension, shock, ileus, or toxic megacolon\n- Treatment: vancomycin 500 mg PO or via NG tube QID PLUS IV metronidazole 500 mg every 8 hours\n- Add rectal vancomycin enemas if ileus present to ensure colonic drug delivery\n- Fidaxomicin is not recommended in fulminant CDI due to insufficient data\n\nClinical pearls:\n- Oral vancomycin is not nephrotoxic\n- Fidaxomicin is preferred due to reduced recurrence, not renal safety concerns",
       "imgs": ""
     },
     {
