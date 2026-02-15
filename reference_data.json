@@ -91,7 +91,7 @@
       "imgs": ""
     },
     {
-      "data": "alcohol hepatitis - alcohol use at least 2 months, recent jaundice, AST/ALT >2 (AST < 500),  INR >2, Bili > 3 - score: Maddrey's Discriminant Function for Alcoholic Hepatitis- MDCalc! for whether steroid or not \n ITP (immune) - if plt <30k, give steroid dexamethsaone 40mg x4 days - if critical bleeding (to important anatomical space), platelet transfuse + IVIG + steroid - if severe bleeding, then IVIG or steroid",
+      "data": "Alcohol hepatitis\n- Alcohol use at least 2 months, recent jaundice\n- AST/ALT > 2 (AST < 500)\n- INR > 2, Bili > 3\n- Score: Maddrey's Discriminant Function for Alcoholic Hepatitis (MDCalc) to determine steroid use\n\nITP (immune)\n- If plt < 30k: give steroid (dexamethasone 40 mg daily x4 days)\n- If critical bleeding (important anatomic space): platelet transfusion + IVIG + steroid\n- If severe bleeding: IVIG or steroid",
       "template": "",
       "imgs": ""
     },
