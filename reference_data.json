@@ -101,32 +101,32 @@
       "imgs": ""
     },
     {
-      "data": "alpha-1 antitrypsin - tests: serum AAT (if <11mmol/L/<57mg/dL and FEV1 <80%) can provide pooled human AAT augmentation to decrrease emphysema progression",
+      "data": "alpha-1 antitrypsin \n- tests: serum AAT (if <11mmol/L/<57mg/dL and FEV1 <80%) can provide pooled human AAT augmentation to decrrease emphysema progression",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "ALS - vital capcity can assess capacity (NIF, PFT possible too)",
+      "data": "ALS - vital capacity \n-- can assess capacity (NIF, PFT possible too)",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "amenorrhea - labs: T4, FSH and prolactin",
+      "data": "amenorrhea \n- labs: T4, FSH and prolactin",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "amyloidosis - Sx: neuropathy, proteinuria, restrictive heart (low volta ECG), periorbital echymosis (panda eyes) - CMR (cardiac MRI) imaging positive supports amyloidosis - positive technetium pyrophosphate scan = hereditary transthyretin amyloidosis - abdominal fat pat aspiration positive = AL amyloidosis - Tx: beta blocker, diuretics if edema",
+      "data": "amyloidosis \n- Sx: neuropathy, proteinuria, restrictive heart (low voltage ECG), periorbital echymosis (panda eyes) \n- CMR (cardiac MRI) imaging positive supports amyloidosis \n- positive technetium pyrophosphate scan = hereditary transthyretin amyloidosis \n- abdominal fat pat aspiration positive = AL amyloidosis \n- Tx: beta blocker, diuretics if edema",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "anal fissure - Tx: sitz bath, psyllium; lidocaine topical - if chronic (>8 weeks)with rectal spasm - Tx: topical diltiazem/nifedpine",
+      "data": "anal fissure \n- Tx: sitz bath, psyllium; lidocaine topical \n- if chronic (>8 weeks)with rectal spasm \n- Tx: topical diltiazem/nifedpine",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "anaphylaxis - does not need SOB, hypotension qualifies (criteria: skin involvement + hypotension/respiratory distress)",
+      "data": "anaphylaxis \n- does not need SOB, hypotension qualifies (criteria: skin involvement + hypotension/respiratory distress)",
       "template": "",
       "imgs": ""
     },
@@ -136,17 +136,22 @@
       "imgs": ""
     },
     {
-      "data": "animal bite - augmentin most common - ceftriaxone+flagyl (+vanc until MRSA negative) - Need TDAP if <5 years",
+      "data": "animal bite \n- augmentin most common \n- IV Unasyn \n- ceftriaxone+flagyl (+vanc until MRSA negative) \n- Need TDAP if <5 years",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "ankle - test: talar tilt test high ankle sprain - squeeze the calf = pain at high ankle - Tx: ice for 20 minutes q2h, elevation, crutches/rest, elastic wrapping to reduce swelling, and splint wotj ;eg brace to prevent ankle movement, referral to ortho - achielles rpture - no plantar flexion when calf squeezed",
+      "data": "ankle \n- test: talar tilt test \n\nhigh ankle sprain \n- squeeze the calf = pain at high ankle \n- Tx: ice for 20 minutes q2h, elevation, crutches/rest, elastic wrapping to reduce swelling, and splint w/ leg brace to prevent ankle movement, referral to ortho \n\n- Achilles' rupture \n- no plantar flexion when calf squeezed",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "anklylosing spondylitis - Sx: female < 45 yr old, morning stiffness >30m, improvement with exercise, uveitis, - Dx of inflammatory sacroilitis: pelvic MRI for erosions or inflammatory at sacroiliac joints RA - Dx: RF and anti-CCP",
+      "data": "anklylosing spondylitis \n- Sx: < 45 yr old, morning stiffness >30m, improvement with exercise, uveitis, \n- Dx of inflammatory sacroilitis: pelvic MRI for erosions or inflammatory at sacroiliac joints \n\n RA - Dx: RF and anti-CCP",
+      "template": "",
+      "imgs": ""
+    },
+    {
+      "data":"#Ankylosing spondylitis / axial spondyloarthritis\n\nAssessment:\nChronic inflammatory back pain in patient <45 years with insidious onset >3 months, morning stiffness >30 minutes, improvement with exercise (not rest), and nocturnal pain. Extra-articular features may include anterior uveitis, enthesitis, peripheral arthritis, psoriasis, or inflammatory bowel disease. Females often have delayed diagnosis and less classic radiographic findings.\n\nWorkup:\n- ESR/CRP (may be normal)\n- HLA-B27 (supportive but not diagnostic)\n- Pelvic MRI with STIR sequences preferred early to detect active inflammatory sacroiliitis (bone marrow edema, erosions)\n- X-ray pelvis may be normal early; later findings include SI joint sclerosis, erosions, joint space narrowing, ankylosis\n\nManagement:\n- First-line scheduled NSAIDs (trial, not PRN)\n- Exercise and physical therapy (cornerstone of treatment)\n- If NSAID-refractory or high disease activity: TNF-alpha inhibitors or IL-17 inhibitors in coordination with rheumatology\n- Avoid chronic systemic steroids for axial disease\n- Ophthalmology referral if uveitis\n\nABIM/ITE Pearls:\n- MRI detects early disease before X-ray changes\n- Normal ESR/CRP does not exclude diagnosis\n- HLA-B27 increases likelihood but is not required\n- Mechanical back pain improves with rest; inflammatory back pain improves with activity",
       "template": "",
       "imgs": ""
     },
@@ -1597,6 +1602,11 @@
     },
     {
       "data": "reactive arthritis - Reactive arthritis is a rare cause of inflammatory arthritis that can occur following specific genitourinary and gastrointestinal infections, including Chlamydia trachomatis and Ureaplasma urealyticum in the urethra and Campylobacter, Escherichia coli, Salmonella, Shigella, and Yersinia in the intestine - Sx: 2-3 weeks after infectio, asymmetric and can be 1 or multiple joints.  Can also get  keratoderma blennorrhagicum(psoriasiform rash on palms, toes, and soles of the feet), conjunctivitis (more common than anterior uveitis) and circinate balanitis (psoriasiform rash on penis)",
+      "template": "",
+      "imgs": ""
+    },
+    {
+      "data":"# Rheumatoid arthritis\n\nAssessment:\nSymmetric inflammatory polyarthritis involving MCP, PIP, and wrists with morning stiffness >60 minutes improving with activity. May have fatigue, anemia of chronic disease, and extra-articular manifestations including rheumatoid nodules, interstitial lung disease, pleural effusions, and vasculitis.\n\nWorkup:\n- Serologies: RF and anti-CCP (anti-CCP highly specific and prognostic for erosive disease)\n- ESR/CRP for inflammatory activity\n- Baseline labs prior to DMARDs: CBC, CMP, hepatitis B/C, TB screening\n- Imaging: X-ray hands/feet for erosions; ultrasound or MRI if early disease suspected and X-rays are normal\n\nManagement:\n- Initiate DMARD therapy early (do not wait for erosions)\n- First-line methotrexate unless contraindicated\n- Short course low-dose glucocorticoids for bridging only\n- Escalate to biologic or targeted synthetic DMARDs if inadequate response, per rheumatology\n\nABIM/ITE Pearls:\n- Anti-CCP predicts more aggressive and erosive disease\n- RF may be negative early in disease\n- Early DMARD initiation improves long-term outcomes\n- Steroids are for short-term symptom control, not monotherapy",
       "template": "",
       "imgs": ""
     },
