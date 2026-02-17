@@ -377,6 +377,11 @@
       "imgs": "images/chest pain algorithm.png, images/stable chest pain algorithm.png"
     },
     {
+      "data":"Chest Pain DDx:\nLife-threatening—ACS (STEMI/NSTEMI/unstable angina), aortic dissection, pulmonary embolism, tension pneumothorax, esophageal rupture (Boerhaave), cardiac tamponade\n|Cardiac—stable angina, pericarditis/myopericarditis, hypertrophic cardiomyopathy, severe aortic stenosis, Takotsubo cardiomyopathy\n|Pulmonary—pulmonary embolism, pneumothorax, pneumonia, pleuritis, pulmonary hypertension\nAortic/Vascular—aortic dissection, intramural hematoma, penetrating aortic ulcer\n|GI/Esophageal—GERD, esophagitis, esophageal spasm, achalasia, peptic ulcer disease, biliary colic, pancreatitis\n|Chest Wall/Musculoskeletal—costochondritis, rib fracture, muscle strain, herpes zoster (pre-rash)\n|Psych/Functional—panic disorder, anxiety, somatic symptom disorder\n|Referred—cervical radiculopathy, gallbladder disease, diaphragmatic irritation\n|Special populations—pregnancy (PE, spontaneous coronary artery dissection), elderly (atypical ACS, dissection), immunocompromised (esophagitis, opportunistic pneumonia), cocaine/stimulant use (ACS, vasospasm, dissection)",
+      "template": "",
+      "imgs": "images/chest pain algorithm.png, images/stable chest pain algorithm.png"
+    },
+    {
       "data": "chest tube vs thoracentesis: - if loculation, then chest tube as can put in tpA and flush - chest tube to suction or gravity - thoracentesis: upper limit 1.5L can take out  (can cause reexpansion pulmonary edema if more); versus take out until cough or pain (lung is expanding) chest tube < 200cc/day, (water seal) then can take chest tube out if constant bubbles in water sesal when off wall suction, bronchpulmonary fistula or and air leak in chest tube",
       "template": "",
       "imgs": ""
