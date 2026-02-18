@@ -80,13 +80,19 @@ DOTPHRASE Agent Selection
 - Digoxin (not for acute control, 2 hour onset. Favor in heart failure)
 - None of the above if WPW / accessory pathway (consider cardioversion, ablation, or anti-arrhythmic instead) as it slows conduction through AV node which can increase anterograde conduction through accessory pathway}
 
-DOTPHRASE Acute kidney injury
-Baseline Cr ***. Cr *** on admission. Most likely prerenal in setting of decreased PO intake ***.
+DOTPHRASE Acute kidney injury 
+AKI v. AKI on CKD
+Baseline Cr ***. Cr *** on admission. DDx pre-renal (hypovolemia v. cardiorenal), intrarenal, post renal obstructive
+Most likely prerenal in setting of decreased PO intake ***.
 - Daily BMP
+- F/U urine lytes: Na (FENa <1% pre-renal, FEN >2% ATN), Cr, urea (if on diuretics), Osm (>500 pre-renal)
 - Maintenance IVF
+- Encourage oral PO intake
+- monitor I/Os 
 - Avoid nephrotoxins, renally dose medications
 - FENa/Urea, urine microscopy if considering intrarenal etiology ***
-- PVR, renal ultrasound for hydronephrosis if possible postrenal etiology ***
+- PVR, renal ultrasound for hydronephrosis if possible postrenal etiology *** 
+{consider adding C3/4, ANCA, anti-GBM, ANA, anti-dsDNA, HBV/HCV/HIV, cryo, SPEP/UPEP/FLC if evidence of intrinsic dz}
 
 DOTPHRASE Alcoholic hepatitis
 Maddrey Discriminant Function ***, treat if >32 {MDCalc}
