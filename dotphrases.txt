@@ -869,30 +869,30 @@ Last updated: @TD@
 DOTPHRASE INFORMATION ABOUT YOUR CONGESTIVE HEART FAILURE (CHF)
                                                                         
 Taking Care of Yourself At Home:
-?	Weigh yourself every morning after voiding, wearing the same clothing and before eating.  
-?	Get enough rest – and get plenty of sleep each night.  
-?	Plan 30 minutes of daily activity – stop and rest if you feel tired or short of breath during any activity.  
-?	You may be able to take the UCDHS ‘DO MORE with HEART FAILURE’ class.  Call (916) 734-0718 for information.  
-?	IF YOU SMOKE – STOP! You may be able to take the UCDHS ‘Smoking Cessation’ program. Call (916) 734-8493 for information. Also ask your doctor for help to quit smoking.
+•	Weigh yourself every morning after voiding, wearing the same clothing and before eating.  
+•	Get enough rest – and get plenty of sleep each night.  
+•	Plan 30 minutes of daily activity – stop and rest if you feel tired or short of breath during any activity.  
+•	You may be able to take the UCI ‘DO MORE with HEART FAILURE’ class.  
+•	IF YOU SMOKE – STOP! You may be able to take the UCI ‘Smoking Cessation’ program. Also ask your doctor for help to quit smoking.
 
 Medicines:
-?	Take all the medicines that your doctor gives you.
-?	Don’t run out of medicines.  Order more medicines when you have one week of pills left.
-?	Carry a list of your medicines, the amount that you take and the times you take them every day.  Add any herbal or over-the-counter medicines to your list.
+•	Take all the medicines that your doctor gives you.
+•	Don’t run out of medicines.  Order more medicines when you have one week of pills left.
+•	Carry a list of your medicines, the amount that you take and the times you take them every day.  Add any herbal or over-the-counter medicines to your list.
 
 Diet:
-?	Eat fresh fruits and vegetables.  Choose low fat dairy foods.
-?	Use less than 2000 mg of salt or sodium every day.  Read the labels on cans, frozen foods and prepared foods.  Do not add salt when cooking!
-?	Do not drink more than 2000 ml or 48 ounces a day.
-?	Drinking too much alcohol can hurt your heart, liver and brain. 
+•	Eat fresh fruits and vegetables.  Choose low fat dairy foods.
+•	Use less than 2000 mg of salt or sodium every day.  Read the labels on cans, frozen foods and prepared foods.  Do not add salt when cooking!
+•	Do not drink more than 2000 ml or 48 ounces a day.
+•	Drinking too much alcohol can hurt your heart, liver and brain. 
 
 Call your doctor if:
-?	You gain or lose 2 or more pounds in a day or 3 to 5 pounds in a week.
-?	You begin urinating less frequently.
-?	Your feet or ankles swell more than usual.
-?	You can’t keep up with your normal activities.
-?	Breathing becomes more difficult, or you start coughing at night.
-?	You notice any new symptoms, or your symptoms get worse.
+•	You gain or lose 2 or more pounds in a day or 3 to 5 pounds in a week.
+•	You begin urinating less frequently.
+•	Your feet or ankles swell more than usual.
+•	You can’t keep up with your normal activities.
+•	Breathing becomes more difficult, or you start coughing at night.
+•	You notice any new symptoms, or your symptoms get worse.
 
 If you develop chest pain, chest tightness, chest pressure and/or shortness of breath and/or nausea for more than 5 minutes CALL 9-1-1. 
 
@@ -903,7 +903,7 @@ DOTPHRASE HOSPITAL - DISCHARGE INSTRUCTIONS: FOR @NAME@
 - You were admitted to the hospital on @ADMITDT@ and discharged on @TD@
 - You were treated in the hospital for: ***
 - You were discharged by @ME@ 
-- You had following procedures done : {OPERATIVE/NON-OPERATIVE PROCEDURES IP NCAL:290891}
+- You had following procedures done : {OPERATIVE/NON-OPERATIVE PROCEDURES IP }
 
 YOU CAN REACH HOSPITAL DISCHARGING PHYSICIAN FOR UP TO 3 DAYS AFTER DISCHARGE
 - Your discharging physician wants to help you make a safe transition home
@@ -913,7 +913,7 @@ YOU CAN REACH HOSPITAL DISCHARGING PHYSICIAN FOR UP TO 3 DAYS AFTER DISCHARGE
 - After 3 days, please contact your primary care doctor
 
 FOLLOW UP APPOINTMENTS & TESTS
-- {Follow-up Instructions:294124}
+- {Follow-up Instructions:@@@}
 
 - You can also send your primary care provider a non-urgent message at Message Center (or using your UCI Health smartphone app). 
 - It may take up to 2 business days for your primary care provider to respond back to you.
