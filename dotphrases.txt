@@ -201,8 +201,39 @@ Baseline Hb circa ***, but on admission Hb *** with MCV ***. Likely due to {blee
 -consider empiric folate supplementation for 1-2 weeks 
 
 DOTPHRASE Thrombocytopenia 
-Patient with low platelets 
-@@@ 
+Patient with low platelets. 
+Confirm true vs pseudo (repeat CBC + peripheral smear; send citrate tube if clumping). Determine acuity and assess bleeding.
+
+DDx: ↓production vs ↑destruction/consumption vs sequestration/dilution.
+
+Common Causes
+↓ Production: Infection - Sepsis, HIV/HCV (± HBV), EBV/CMV, parvo; Nutrition - Alcohol, B12/folate deficiency, Marrow - MDS, leukemia, aplastic anemia, infiltration, Chemo/meds
+
+↑ Destruction / Consumption - Immune: ITP, SLE/APLS; Drug-induced: HIT (4T score if heparin exposure), MAHA: DIC, TTP/HUS 
+
+Sequestration/Dilution - Cirrhosis / hypersplenism, hemangioma, Massive transfusion, Hypothermia, Gestational
+
+Workup
+
+CBC w/diff, peripheral smear
+BMP, LFTs
+PT/INR, PTT, fibrinogen, D-dimer
+LDH, haptoglobin, indirect bili, retic
+- labs: HIV, HCV, varicella, CMV, EBV, parvo, tickborne, B12, folate,  DIC, TTP, haptoglobin, LDH, DAT, d-dimer, fibrinogen, copper, zinc
+Pregnancy test if applicable
+
+If schistocytes → evaluate MAHA (TTP/HUS/DIC)
+If autoimmune concern → ANA, lupus anticoagulant, anticardiolipin, β2GP1
+If persistent/unexplained or pancytopenia → consider Hematology consult ± BMBx
+
+Transfusion Thresholds
+
+<10K → transfuse
+<20K → if febrile
+<50K → procedure or active bleed
+Avoid platelets in TTP/HIT unless life-threatening bleed
+
+Cryo if fibrinogen <100–150 and bleeding/procedure
 
 DOTPHRASE Acute asthma exacerbation
 Patient presented with ***. Has history of {intermittent, mild persistent, moderate persistent, severe persistent} asthma.
