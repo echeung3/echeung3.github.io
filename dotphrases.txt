@@ -1735,3 +1735,10 @@ Care Coordination & Discharge Planning
 - Plan for close outpatient follow-up with PCP within 7 days of discharge
 - Discharge coordinator to assist with continuity of AUD treatment
 
+DOTPHRASE # Tobacco Use Disorder / Smoking Cessation
+- Assessed readiness to quit using 5 A’s (Ask, Advise, Assess, Assist, Arrange); discussed health risks and benefits of cessation.
+- Counseling provided (motivational interviewing); advised complete abstinence and set quit date if willing.
+- Pharmacotherapy discussed: NRT (patch + lozenge/gum PRN), varenicline, or bupropion (reviewed contraindications and side effects).
+- Offered behavioral support and referral to counseling; provided 1-800-QUIT-NOW and text/online resources.
+- Will follow up to reassess readiness, adherence, and adverse effects; document tobacco status at each visit.
+
