@@ -1742,3 +1742,27 @@ DOTPHRASE # Tobacco Use Disorder / Smoking Cessation
 - Offered behavioral support and referral to counseling; provided 1-800-QUIT-NOW and text/online resources.
 - Will follow up to reassess readiness, adherence, and adverse effects; document tobacco status at each visit.
 
+DOTPHRASE # Asthma – Outpatient Management
+- Dx: Asthma with variable respiratory symptoms (wheeze, SOB, cough, chest tightness) and airflow limitation; assess control (daytime sx, night awakenings, reliever use, activity limitation) and exacerbation risk.
+- Severity/Control: Intermittent vs persistent (mild/mod/severe); review triggers (allergens, URI, exercise, GERD, smoking), inhaler technique, and adherence.
+- Controller (Preferred – SMART/GINA Track 1): ICS–formoterol as both maintenance + reliever.
+   • Step 1–2: PRN low-dose ICS–formoterol
+   • Step 3: Daily low-dose ICS–formoterol + PRN
+   • Step 4: Daily medium-dose ICS–formoterol + PRN
+- Alternative (Track 2 if SMART not feasible): Daily ICS (± LABA) with SABA reliever; avoid SABA-only therapy.
+- Reliever: ICS–formoterol preferred; SABA only if not on SMART.
+- Add-ons (if uncontrolled): LAMA, ↑ ICS dose, assess phenotype (eosinophilic/allergic), consider biologics (Step 5).
+- Monitoring: Spirometry at dx and periodically; assess control q3–6 months; review exacerbations, oral steroid use, and rescue frequency.
+- Prevention/Education: Written asthma action plan, inhaler teaching, trigger avoidance, vaccines (flu, COVID), smoking cessation.
+- When to Refer/Escalate: ≥2 steroid bursts/year, hospitalization, diagnostic uncertainty, poor control despite Step 4 therapy.
+
+DOTPHRASE # Rhinitis – Outpatient
+- Dx: Chronic nasal symptoms (rhinorrhea, congestion, sneezing, pruritus ± post-nasal drip); classify as allergic vs non-allergic (vasomotor, irritant, medication-induced, infectious, hormonal).
+- Eval: Seasonal/perennial pattern, triggers (allergens, smoke, weather), meds (ACE-I, NSAIDs, topical decongestants → rhinitis medicamentosa), comorbid asthma/OSA/GERD; exam for turbinate edema, clear vs purulent discharge; consider IgE or skin testing if allergic suspected.
+- First-line Tx: ***Intranasal corticosteroid /fluticasone ** daily (most effective monotherapy); proper technique emphasized (aim away from septum, daily use ≥2–4 wks).
+- Adjuncts: Non-sedating oral antihistamine for itching/sneezing; **intranasal antihistamine** for breakthrough sx; saline irrigation PRN.
+- Refractory/Specific: Add intranasal anticholinergic (ipratropium) for predominant rhinorrhea; leukotriene receptor antagonist if concomitant asthma; short course intranasal decongestant ≤3 days only.
+- Avoid: Chronic topical decongestants (>3–5 days), sedating antihistamines when possible.
+- Education/Prevention: Allergen avoidance, dust-mite covers, pet exposure counseling; assess adherence and technique at each visit.
+- Refer: Persistent symptoms despite optimized therapy, red flags (unilateral obstruction, epistaxis, facial pain), or consideration of immunotherapy.
+
