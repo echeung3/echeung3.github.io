@@ -1771,7 +1771,7 @@ DOTPHRASE Obesity
 Obese patient with BMI *** kg/m². Chronic condition with increased cardiometabolic risk (HTN, DM, HLD, CAD, OSA, NAFLD, OA). 
 
 Work-up:
-- Anthropometrics: BMI, waist circumference
+- BMI, adipose tissue evaluation
 - Labs: A1c or fasting glucose, lipid panel, CMP (ALT/AST for NAFLD), TSH if clinically indicated
 - Screen for obesity-related complications: HTN, T2DM, dyslipidemia, OSA, GERD, NAFLD, OA, depression
 - Reviewed contributing meds (steroids, insulin, antipsychotics, beta-blockers)
@@ -1786,9 +1786,9 @@ Tx / Management:
 
 Monitoring / Surveillance:
 - Weight, BMI, vitals at each visit
-- Labs q6–12 months (A1c, lipids, CMP) or sooner if on anti-obesity meds
+- Labs q6–12 months (A1c, lipids, CMP) or sooner if on weight loss meds
 - Assess medication efficacy/tolerability; target ≥5–10% weight loss at 6–12 months
-- Follow-up in ___ months
+- Follow-up in *** months
 
 DOTPHRASE Severe/Moderate Protein Calorie Malnutrition 
 # Moderate Protein–Calorie Malnutrition
