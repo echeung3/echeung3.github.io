@@ -1766,3 +1766,36 @@ DOTPHRASE # Rhinitis – Outpatient
 - Education/Prevention: Allergen avoidance, dust-mite covers, pet exposure counseling; assess adherence and technique at each visit.
 - Refer: Persistent symptoms despite optimized therapy, red flags (unilateral obstruction, epistaxis, facial pain), or consideration of immunotherapy.
 
+DOTPHRASE Obesity 
+# Obesity
+Obese patient with BMI *** kg/m². Chronic condition with increased cardiometabolic risk (HTN, DM, HLD, CAD, OSA, NAFLD, OA). 
+
+Work-up:
+- Anthropometrics: BMI, waist circumference
+- Labs: A1c or fasting glucose, lipid panel, CMP (ALT/AST for NAFLD), TSH if clinically indicated
+- Screen for obesity-related complications: HTN, T2DM, dyslipidemia, OSA, GERD, NAFLD, OA, depression
+- Reviewed contributing meds (steroids, insulin, antipsychotics, beta-blockers)
+
+Tx / Management:
+- Lifestyle counseling provided today (>___ min): calorie deficit (≈500–750 kcal/day), Mediterranean/DASH-style diet, portion control, reduce sugar-sweetened beverages
+- Physical activity counseling: goal ≥150 min/week moderate-intensity aerobic + resistance training 2–3x/week
+- Behavioral strategies: sleep optimization, stress management, self-monitoring (weight/food log)
+- Pharmacotherapy discussed (BMI ≥30 or ≥27 w/ comorbidity): GLP-1 RA, GLP-1/GIP, or other FDA-approved agents; risks/benefits reviewed
+- Bariatric surgery discussed if BMI ≥40 or ≥35 w/ comorbidities; referral offered if interested
+- Shared decision-making documented
+
+Monitoring / Surveillance:
+- Weight, BMI, vitals at each visit
+- Labs q6–12 months (A1c, lipids, CMP) or sooner if on anti-obesity meds
+- Assess medication efficacy/tolerability; target ≥5–10% weight loss at 6–12 months
+- Follow-up in ___ months
+
+DOTPHRASE Severe/Moderate Protein Calorie Malnutrition 
+# Moderate Protein–Calorie Malnutrition
+Dx: Moderate protein–calorie malnutrition with reduced PO intake (<75% needs) and weight loss/BMI {__}.
+Eval: Nutrition assessment, weight trend, intake history; labs supportive only (CMP, Mg/Phos).
+Tx: Seen by Nutrition consult for diet; high-calorie/high-protein diet + oral supplements; MVI ± thiamine.
+Risk: ↑ infection risk, impaired wound healing, functional decline.
+Monitor: Weights, PO intake, electrolytes (refeeding risk); reassess nutrition status.
+
+
