@@ -2101,13 +2101,11 @@
       "template": "",
       "imgs": ""
     },
-
     {
       "data": "62-year-old with abdominal pain/diarrhea, colitis on imaging, on chronic steroids\n\nDifferential Dx | Clinical Signs/Symptoms | Pathophysiology | Diagnostic Work-Up | Treatment\n----------------|-------------------------|-----------------|-------------------|----------\nC. difficile colitis | Profuse watery diarrhea, abdominal pain, fever, severe leukocytosis | Steroids impair immune response → toxin-mediated mucosal necrosis | C.diff PCR/toxin, CBC, CMP, CT for severity | Oral vancomycin or fidaxomicin, contact isolation\nCMV colitis | Bloody diarrhea, fever, abdominal pain, steroid exposure | CMV reactivation → colonic ulceration | CMV PCR, colonoscopy w/ biopsy | IV ganciclovir\nInvasive bacterial colitis (Salmonella, Campylobacter, Shigella, E. coli) | Fever, diarrhea, abdominal pain, sepsis | Impaired mucosal immunity allows bacterial invasion | Stool PCR, blood cultures | Targeted antibiotics\nIschemic colitis | Sudden crampy pain, bloody diarrhea | Steroids worsen vascular fragility and healing | CT w/ contrast, lactate | IV fluids, bowel rest, antibiotics if severe\nSteroid-induced bowel perforation | Sudden severe pain, hypotension, free air | Steroids mask symptoms and weaken bowel wall | CT abdomen/pelvis | Emergent surgery",
       "template": "",
       "imgs": ""
-    }
-
+    },
     {
       "data": "Difference b/w LR & NS \n\n Composition:\n- NS (0.9% NaCl): Na 154 mEq/L, Cl 154 mEq/L.\n- LR: Na 130 mEq/L, Cl 109 mEq/L, K 4 mEq/L, Ca 3 mEq/L, Lactate 28 mEq/L (buffer).\n\nMetabolic impact:\n- NS: High Cl load → non–anion gap (hyperchloremic) metabolic acidosis, esp with large volumes.\n- LR: Lactate (as sodium lactate) → metabolized to HCO3− → less hyperchloremic acidosis.\n\nWhen to prefer LR:\n- Sepsis/large-volume resuscitation, trauma/burns, peri-op fluids, DKA (often preferred).\n\nWhen to prefer NS:\n- Hypochloremic metabolic alkalosis (e.g., vomiting), severe hyponatremia, neuro/TBI concerns, blood transfusion (avoid LR due to Ca).\n\nPearls:\n- LR does NOT meaningfully worsen lactic acidosis.\n- LR’s K content is low (4 mEq/L); NS-related acidosis can worsen hyperkalemia.\n- Large NS volumes can contribute to AKI risk via hyperchloremia.",
       "template": "",
