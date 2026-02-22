@@ -63,6 +63,18 @@ table.dataTable tbody td {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+.markdown-table {
+    margin: 0;
+    font-size: 0.85rem;
+}
+.markdown-table th {
+    background-color: #f1f3f5;
+    font-weight: 600;
+}
+.markdown-table td,
+.markdown-table th {
+    vertical-align: top;
+}
 .col-data {
     width: 40%;
 }
