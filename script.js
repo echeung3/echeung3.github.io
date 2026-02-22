@@ -131,6 +131,65 @@ function openImageModal(imageUrl) {
     $('#imageModal').show();
 }
 
+function escapeHtml(text) {
+    return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+function formatCellContent(text) {
+    const escaped = escapeHtml(text);
+    const withLinks = escaped.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
+    return withLinks.replace(/\n/g, '<br>');
+}
+
+function markdownTableToHtml(markdown) {
+    const lines = markdown
+        .split(/\r?\n/)
+        .map(line => line.trim())
+        .filter(line => line.length > 0);
+
+    if (lines.length < 2) return null;
+
+    const headerLine = lines[0];
+    const separatorLine = lines[1];
+
+    const isTable = headerLine.startsWith('|') && headerLine.endsWith('|') &&
+        /^\|?\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?$/.test(separatorLine);
+
+    if (!isTable) return null;
+
+    const splitRow = (row) => row
+        .replace(/^\|/, '')
+        .replace(/\|$/, '')
+        .split('|')
+        .map(cell => cell.trim());
+
+    const headers = splitRow(headerLine);
+    const bodyRows = lines.slice(2).map(splitRow);
+
+    let html = '<div class="table-responsive"><table class="table table-bordered table-sm markdown-table">';
+    html += '<thead><tr>' + headers.map(h => `<th>${formatCellContent(h)}</th>`).join('') + '</tr></thead>';
+    html += '<tbody>';
+    bodyRows.forEach(row => {
+        html += '<tr>' + row.map(cell => `<td>${formatCellContent(cell)}</td>`).join('') + '</tr>';
+    });
+    html += '</tbody></table></div>';
+    return html;
+}
+
+function renderCellContent(data, type) {
+    if (type === 'display' && data) {
+        const tableHtml = markdownTableToHtml(data);
+        if (tableHtml) return tableHtml;
+        return formatCellContent(data);
+    }
+    return data;
+}
+
 function initializeTables(data) {
     // Initialize Database Table
     const databaseData = data.database || [];
@@ -151,13 +210,7 @@ function initializeTables(data) {
             {
                 targets: [0, 1], // data and template columns
                 render: function(data, type, row) {
-                    if (type === 'display' && data) {
-                        // Convert URLs to clickable links
-                        data = data.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
-                        // Preserve line breaks
-                        data = data.replace(/\n/g, '<br>');
-                    }
-                    return data;
+                    return renderCellContent(data, type);
                 }
             },
             {
