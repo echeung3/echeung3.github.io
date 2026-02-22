@@ -387,32 +387,32 @@
       "imgs": "images/chest pain algorithm.png, images/stable chest pain algorithm.png"
     },
     {
-      "data": "chest tube vs thoracentesis: - if loculation, then chest tube as can put in tpA and flush - chest tube to suction or gravity - thoracentesis: upper limit 1.5L can take out  (can cause reexpansion pulmonary edema if more); versus take out until cough or pain (lung is expanding) chest tube < 200cc/day, (water seal) then can take chest tube out if constant bubbles in water sesal when off wall suction, bronchpulmonary fistula or and air leak in chest tube",
+      "data": "chest tube vs thoracentesis: \n- if loculation, then chest tube as can put in tpA and flush \n- chest tube to suction or gravity \n- thoracentesis: upper limit 1.5L can take out  (can cause reexpansion pulmonary edema if more); \nversus take out until cough or pain (lung is expanding) chest tube < 200cc/day, (water seal) then can take chest tube out if constant bubbles in water sesal when off wall suction, bronchpulmonary fistula or and air leak in chest tube",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "chickenpox: - S&S starts on face and trunjk, then goes to extremities. progresses over hours to vasicles with pus",
+      "data": "chickenpox: \n- S&S starts on face and trunk, then goes to extremities. progresses over hours to vesicles with pus",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "Choledochol - >7mm on ultrasound. Add 1 for every 10 years over 60.   Straight to ercp if bili>4 and cbd dilated Pancreatitis 10cc/kg bolus and then 1.5cc/kg/hr",
+      "data": "Choledocholithiasis – ASGE/Tokyo-aligned risk stratification & management:\n\nHigh probability (ASGE):\n- CBD stone seen on imaging OR\n- Total bilirubin ≥4 mg/dL PLUS dilated CBD (>6–7 mm)\n→ Proceed directly to ERCP\n\nIntermediate probability (ASGE):\n- Abnormal LFTs (AST/ALT/ALP/bilirubin)\n- Dilated CBD (>6–7 mm) without bilirubin ≥4 mg/dL\n- Age >55 years\n→ Further evaluation with MRCP or EUS (no empiric ERCP)\n\nLow probability (ASGE):\n- Normal bilirubin and LFTs AND nondilated CBD\n→ No further biliary imaging\n\nCBD diameter notes:\n- CBD >6–7 mm considered abnormal\n- Adjust for age: add ~1 mm per decade after age 60 (or post-cholecystectomy)\n\nAcute pancreatitis (initial fluids):\n- Use isotonic crystalloid (prefer lactated Ringer’s)\n- Initial bolus ~10 mL/kg if hypovolemic, then 1–1.5 mL/kg/hr\n- Frequent reassessment to avoid overload (urine output, BUN, hematocrit, exam)",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "chorea gravidarum - rare disease when newly pregnant female suddently has random non-repetitive, flowing dance-like movement that cannot be supressed. - test: pregnancy test vs. huntington is slow progressive condition  (mood and cognition would be first) then chorea vs wilson disease - involuntary movement with tremors - test: serum ceruloplasmin or 24-hr urine copper",
+      "data": "chorea gravidarum \n- rare disease when newly pregnant female suddently has random non-repetitive, flowing dance-like movement that cannot be supressed. \n- test: pregnancy test \n\nvs. huntington is slow progressive condition  (mood and cognition would be first) then chorea \n\nvs wilson disease \n- involuntary movement with tremors \n- test: serum ceruloplasmin or 24-hr urine copper",
       "template": "",
       "imgs": ""
     },
     {
-      "data": "chronic hypoxia and air travel safety/high altitude - oxygen sat curve steep part if baseline oxygen sat is already low if going to high altitudes - pts with SpO2 > 95% okay - 92-95% need high altitude stimulation testing - <92% at baseline, need 2L/min supplemental oxygen prescribed (no additional testing)",
-      "template": "",
+      "data": "chronic hypoxia and air travel safety/high altitude \n- oxygen sat curve steep part if baseline oxygen sat is already low if going to high altitudes \n- pts with SpO2 > 95% okay \n- 92-95% need high altitude stimulation testing \n- <92% at baseline, need 2L/min supplemental oxygen prescribed (no additional testing)",
+      "template": "cytokine causes increase in factor 8; high factor 8 can cause blood clots; ",
       "imgs": ""
     },
     {
-      "data": "cirrhosis - order factor 8 if not know why thrombocytopenia; if increased, due to liver (cytokine causes increase in factor 8) - normal factor 8 - high factor 8 level also can cause blood clots acute hepatic encephalopathy - causes: bleeding, infection, dehydration, medication non-compliance",
+      "data": "Cirrhosis – evaluation pearls & complications:\n\nThrombocytopenia in cirrhosis:\n- Common mechanisms: splenic sequestration (portal hypertension), decreased thrombopoietin production, bone marrow suppression, alcohol use\n- Factor 8 level: typically elevated in cirrhosis due to endothelial release and reduced hepatic clearance; supports liver-related thrombocytopenia rather than DIC (where factor VIII is low)\n- Elevated/increased Factor 8 = a prothrombotic state and does NOT protect against thrombosis (cirrhosis = rebalanced hemostasis)\n\nCoagulation considerations:\n- INR reflects synthetic dysfunction but does not reliably predict bleeding risk\n- Cirrhosis patients are at risk for BOTH bleeding and thrombosis (e.g., portal vein thrombosis)\n\nAcute hepatic encephalopathy (HE):\n- Common precipitants: GI bleeding, infection (SBP, UTI, pneumonia), dehydration/overdiuresis, electrolyte abnormalities (hypokalemia, hyponatremia), constipation, renal failure, sedatives/opioids/benzodiazepines, medication nonadherence (lactulose)\n- Always search for and correct the underlying trigger\n\nIM pearls:\n- Thrombocytopenia + elevated Factor 8 favors cirrhosis over consumptive coagulopathy\n- Do not correct INR prophylactically without bleeding or procedures\n- New encephalopathy in cirrhosis = trigger until proven otherwise",
       "template": "",
       "imgs": ""
     },
