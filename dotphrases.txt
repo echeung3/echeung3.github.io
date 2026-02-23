@@ -1798,4 +1798,39 @@ Tx: Seen by Nutrition consult for diet; high-calorie/high-protein diet + oral su
 Risk: ↑ infection risk, impaired wound healing, functional decline.
 Monitor: Weights, PO intake, electrolytes (refeeding risk); reassess nutrition status.
 
+DOTPHRASE Weakness 
+# Acute on chronic weakness – elderly patient
+Elderly patient with baseline functional decline now presenting with acute worsening weakness. Patient with recent falls and significant weakness impairing daily activities, which can represent systemic illness, metabolic derangement, medication effect, neurologic event, or deconditioning.
+
+Differentials include:
+- Infection (UTI, PNA, sepsis, endocarditis, occult intra-abdominal infection) – often without classic symptoms
+- Metabolic (hypoNa, hyperCa, hypo/hyperglycemia, uremia, thyroid, B12 deficiency, rhabdo, adrenal insufficiency)
+- Medication effect (sedatives/benzos/opioids, anticholinergics, polypharmacy, recent changes, statin myopathy)
+- Neurologic (stroke/TIA, subdural hematoma, brain mass, Parkinson progression, myelopathy, GBS, MG, Lambert-Eaton, peripheral neuropathy)
+- Cardiopulmonary (arrhythmia/afib/heart block, ACS, CHF exacerbation, Pulmonary Embolism, Severe aortic stenosis, hypoxia/OSA/COPD)
+- Hematologic / Oncologic (anemia, occult GI bleed, myeloma, leukemia, paraneoplastic syndrome, cachexia from malignancy)
+- Autoimmune/Inflammatory (PMR, myositis, vasculitis, rheumatologic flare)
+- Post-renal obstruction (BPH → urinary retention → AKI/uremia)
+- Volume depletion / orthostasis
+- Malnutrition / anemia
+- Depression or functional decline/deconditioning/frailty progression/failure to thrive, sarcopenia
+
+Work-up:
+- CBC, CMP, Mg, Phos, TSH, B12/folate, CK, UA +/- culture
+- EKG, CXR; consider troponin if cardiac concern
+- Orthostatic vitals
+- Obtain bladder scan / PVR to rule out urinary retention as cause/contributor of weakness
+- Head CT if focal deficits, fall, anticoagulation, or AMS
+- Medication reconciliation with deprescribing review
+- PT/OT evaluation for functional baseline
+
+Plan:
+- Treat reversible causes
+- Hold/high-risk meds contributing to weakness
+- Delirium precautions if applicable
+- Optimize nutrition, hydration
+- PT/OT evaluation 
+- Early mobility and discharge planning
+
+
 
