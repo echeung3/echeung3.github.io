@@ -1832,5 +1832,16 @@ Plan:
 - PT/OT evaluation 
 - Early mobility and discharge planning
 
+DOTPHRASE #Protein Gap / possible Multiple Myeloma
+Protein (gamma) gap = Total Protein − Albumin; >4 g/dL abnormal if persistent.
+Confirm true elevation (repeat CMP, assess albumin, hydration status).
+Initial workup: SPEP + UPEP + serum free light chains (κ/λ 0.26–1.65; interpret cautiously in CKD).
+If M-spike → immunofixation + quantitative Ig levels (IgG, IgA, IgM).
+If polyclonal → evaluate for chronic inflammation, infection (HIV, HCV), liver disease, autoimmune disease, malignancy.
 
+***Red flags: anemia, AKI, hypercalcemia, bone pain, neuropathy → evaluate for plasma cell dyscrasia (CBC, Cr, Ca, ± β2-microglobulin; low-dose whole-body CT preferred).
+
+ABIM pearl: Normal SPEP does NOT exclude light-chain myeloma — always check serum free light chains.
+• Elevated gamma gap with low albumin alone (cirrhosis, nephrotic syndrome) is less concerning than elevated total protein.
+• Polyclonal gammopathy is far more common than monoclonal in hospitalized patients.
 
