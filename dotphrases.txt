@@ -1845,3 +1845,9 @@ ABIM pearl: Normal SPEP does NOT exclude light-chain myeloma — always check se
 • Elevated gamma gap with low albumin alone (cirrhosis, nephrotic syndrome) is less concerning than elevated total protein.
 • Polyclonal gammopathy is far more common than monoclonal in hospitalized patients.
 
+DOTPHRASE #Multimodal pain regimen 
+s/p mechanical GLF
+Continue MMPR (Diclofenac Na 1% PRN, acetaminophen 325mg Q6H PRN, 
+acetaminophen 975mg PO TID, oxycodone 2.5mg PO Q4H PRN, oxycodone 5mg PO Q4H 
+PRN)
+-Integrative Health via Acupuncture/Acupressure
