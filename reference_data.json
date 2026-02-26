@@ -592,6 +592,11 @@
       "imgs": ""
     },
     {
+      "data": "Insulin \n Inpatient Insulin Algorithm\n\nSTEP 1: Identify Patient Status\n- Eating: Basal + Nutritional + Correction insulin\n- NPO: Basal + Correction insulin (NO nutritional)\n- Type 1 Diabetes: Basal insulin must ALWAYS be continued\n- Tube feeds / TPN: Basal insulin + Regular insulin Q6H\n\nSTEP 2: Calculate Total Daily Dose (TDD)\n- Start 0.3–0.5 units/kg/day\n- 0.3: elderly, frail, CKD, liver disease, insulin-naive\n- 0.4: mild–moderate hyperglycemia, average patient\n- 0.5: obese, insulin resistant, on steroids\n\nSTEP 3: Split the Dose\n- Basal insulin: 40–50% of TDD\n- Nutritional insulin: 50–60% of TDD divided with meals\n- Correction insulin: add sliding scale (do NOT use alone)\n\nSTEP 4: Special Situations\n- NPO overnight: reduce basal insulin by 20–25%\n- Hold nutritional insulin when NPO\n- Continue correction insulin Q4–6H\n- Steroid-induced hyperglycemia: increase nutritional insulin (not SSI)\n- Home basal–bolus insulin: restart at 75–80% of home dose\n\nSTEP 5: Monitoring\n- Eating: POC glucose TIDAC + HS\n- NPO / tube feeds / poor intake: POC glucose Q4–6H\n- Prefer POC glucose over CGM inpatient\n\nKEY PEARLS\n- Sliding scale insulin is reactive, not preventative\n- Never stop basal insulin in Type 1 Diabetes\n- Insulin is safer and more predictable than oral agents inpatient",
+      "template": "",
+      "imgs": ""
+    },
+    {
       "data": "Dialysis line - Microbacterial (endocarditis), staph, and fungal cannot do salvage therapy for tunneled",
       "template": "",
       "imgs": ""
