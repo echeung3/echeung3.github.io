@@ -56,7 +56,7 @@ $(document).ready(function() {
     });
 
     // Password-protected document section
-    const DOCUMENT_PASSWORD = 'Interstellar!'; // Change this to your desired password
+    const DOCUMENT_PASSWORD = 'ElaineHW'; // Change this to your desired password
     const GOOGLE_DOC_URL = 'https://docs.google.com/document/d/1WjCufPfBqED1K548Y7Fw_O8Mi1ddv4bJ53vzJCzkmco/edit?usp=sharing'; // Replace with your Google Doc embed URL
 
     $('#submit-password').on('click', function() {
