@@ -55,6 +55,39 @@ $(document).ready(function() {
         }
     });
 
+    // Password-protected document section
+    const DOCUMENT_PASSWORD = 'ElaineHW'; // Change this to your desired password
+    const GOOGLE_DOC_URL = 'https://docs.google.com/document/d/1WjCufPfBqED1K548Y7Fw_O8Mi1ddv4bJ53vzJCzkmco/edit?usp=sharing'; // Replace with your Google Doc embed URL
+
+    $('#submit-password').on('click', function() {
+        const enteredPassword = $('#doc-password').val();
+        if (enteredPassword === DOCUMENT_PASSWORD) {
+            $('#password-error').hide();
+            $('#password-gate').hide();
+            $('#document-container').show();
+            $('#google-doc-frame').attr('src', GOOGLE_DOC_URL);
+            $('#doc-password').val('');
+        } else {
+            $('#password-error').show();
+            $('#doc-password').val('').focus();
+        }
+    });
+
+    // Allow Enter key to submit password
+    $('#doc-password').on('keypress', function(e) {
+        if (e.which === 13) {
+            $('#submit-password').click();
+        }
+    });
+
+    // Lock document button
+    $('#lock-document').on('click', function() {
+        $('#document-container').hide();
+        $('#password-gate').show();
+        $('#google-doc-frame').attr('src', '');
+        $('#doc-password').val('');
+    });
+
     // Column visibility toggles
     $('#showTemplate').on('change', function() {
         const visible = this.checked;

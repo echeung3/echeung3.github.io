@@ -34,6 +34,7 @@
                 <button class="tab-button active" data-section="quick">Quick Reference</button>
                 <button class="tab-button" data-section="database">Database</button>
                 <button class="tab-button" data-section="dotphrases">Dot Phrases</button>
+                <button class="tab-button" data-section="protected">Clinical Reasoning</button>
             </div>
             <div id="tableControls" style="display: none;">
                 <label class="me-3">
@@ -376,6 +377,43 @@
                     <input type="text" id="dotphraseSearch" class="form-control" placeholder="Search dot phrases...">
                 </div>
                 <div id="dotphrasesContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Protected Document Section -->
+    <div id="protected-section" class="data-section">
+        <div class="card">
+            <div class="card-header"><i class="fas fa-lock me-2"></i>Clinical Reasoning</div>
+            <div class="card-body">
+                <div id="password-gate" class="password-gate">
+                    <div class="password-container">
+                        <h5 class="mb-3">Enter Password to Access Document</h5>
+                        <div class="input-group mb-3">
+                            <input type="password" id="doc-password" class="form-control" placeholder="Enter password" aria-label="Password">
+                            <button class="btn btn-primary" type="button" id="submit-password">
+                                <i class="fas fa-unlock me-2"></i>Unlock
+                            </button>
+                        </div>
+                        <div id="password-error" class="alert alert-danger" style="display: none;">
+                            <i class="fas fa-exclamation-triangle me-2"></i>Incorrect password. Please try again.
+                        </div>
+                        <small class="text-muted"><i class="fas fa-info-circle me-1"></i>Contact administrator if you need access</small>
+                    </div>
+                </div>
+                <div id="document-container" class="document-container" style="display: none;">
+                    <div class="mb-3 d-flex justify-content-between align-items-center">
+                        <div class="text-success">
+                            <i class="fas fa-check-circle me-2"></i>Document Unlocked
+                        </div>
+                        <button class="btn btn-sm btn-secondary" id="lock-document">
+                            <i class="fas fa-lock me-2"></i>Lock Document
+                        </button>
+                    </div>
+                    <div class="embed-responsive">
+                        <iframe id="google-doc-frame" src="" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
