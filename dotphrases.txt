@@ -248,6 +248,49 @@ Latter with additive benefit for emergency but not hospital setting
 - Prednisone (1mg/kg) 40-60mg up to 10 days? Or until achieve 70% PEF
 - Magnesium sulfate 1-2g
 
+DOTPHRASE .ANEMIA
+
+# Acute on Chronic Anemia
+
+Hgb ___ (baseline ___). MCV ___ (microcytic/normocytic/macrocytic). Hemodynamically ___ (stable/unstable). Symptoms: ___ (fatigue, dyspnea, chest pain, melena, etc.).
+
+Differential:
+- Iron deficiency anemia (blood loss vs chronic depletion)
+- Anemia of chronic disease/inflammation
+- Acute blood loss
+- Hemolysis
+- Nutritional deficiency (B12/folate)
+- Bone marrow suppression
+- CKD-related anemia
+
+If iron deficiency suspected:
+- Ganzoni equation estimates total iron deficit: ___ mg
+- IV iron plan: ___
+- MCV ___ consistent with ___
+
+Workup:
+- Iron panel, ferritin, TIBC
+- B12, folate
+- Reticulocyte count/index
+- LDH, haptoglobin
+- Total/direct bilirubin
+- Peripheral smear
+- DAT/Coombs if hemolysis suspected
+- G6PD if indicated
+- Coags if bleeding suspected
+- UA (hematuria)
+- FOBT if GI bleed suspected
+
+Management:
+- Transfuse if Hgb <7 (or <8 if CAD/symptomatic) 
+- IV PPI if concern for GI bleed
+- Treat underlying cause
+- IV vs PO iron depending on tolerance/absorption
+- Trend CBC q___ hours if unstable
+- Minimize phlebotomy (pediatric tubes if frequent labs)
+
+
+
 DOTPHRASE Symptomatic Bradycardia with/without *** degree AV block
 Patient presents with symptoms of ***. HR was noted to be ***. ECG was notable for *** {first, second, third degree block, junctional rhythm, etc}. Patient {does/does not} take AV nodal blocking agents including {beta blockers, CCB, amiodarone and other antiarrhythmics, lithium, digitalis, sofosbovir, daclatasvir, opioids, other sedatives, certain chemotherapeutic agents}. Etiology of bradycardia is most likely {medication induced, acute MI, increased vagal tone, increased intracranial pressure, infectious such as Lyme disease, Chagas disease, legionella, psittacosis, Q fever, typhoid fever, typhus, babesiosis, malaria, leptospirosis, yellow fever, dengue fever, viral hemorrhagic fevers, trichinosis, and Rocky Mountain Spotted fever}.
 Workup:
