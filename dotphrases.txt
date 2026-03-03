@@ -257,7 +257,7 @@ Latter with additive benefit for emergency but not hospital setting
 - Prednisone (1mg/kg) 40-60mg up to 10 days? Or until achieve 70% PEF
 - Magnesium sulfate 1-2g
 
-DOTPHRASE .ANEMIA
+DOTPHRASE 2ANEMIA
 
 # Acute on Chronic Anemia
 
@@ -297,6 +297,7 @@ Management:
 - IV vs PO iron depending on tolerance/absorption
 - Trend CBC q___ hours if unstable
 - Minimize phlebotomy (pediatric tubes if frequent labs)
+
 
 
 
@@ -1903,3 +1904,15 @@ Continue MMPR (Diclofenac Na 1% PRN, acetaminophen 325mg Q6H PRN,
 acetaminophen 975mg PO TID, oxycodone 2.5mg PO Q4H PRN, oxycodone 5mg PO Q4H 
 PRN)
 -Integrative Health via Acupuncture/Acupressure
+
+DOTPHRASE Comfort Care
+
+-Transfer to inpatient hospice with Vitas
+-Change code status to DNR/comfort care
+-Start IV versed infusion 2 mg/hour after 2 mg load and titrate by 2 mg/hour q 30 minutes to RASS -5 up to a maximum of 10 mg/hour
+-{Comfort Care Pain:38188}
+-Extubate and withdraw life support after RASS -5 is achieved and family is done saying good-byes
+-Start dexamethasone 6 mg IV q 6 hours for fevers
+-Start glycopyrrolate 0.2 mg IV q 6 hours for secretions
+-Remove NG keofeed tube and stop tube feeds
+-Stop all non-comfort medications and measures
