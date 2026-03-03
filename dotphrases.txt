@@ -200,6 +200,15 @@ Baseline Hb circa ***, but on admission Hb *** with MCV ***. Likely due to {blee
 -LFTs, haptoglobin, LDH to assess for hemolysis
 -consider empiric folate supplementation for 1-2 weeks 
 
+#acute on chronic anemia:
+-differential: anemia of chronic disease, iron deficiency, anemia of chronic, blood loss anemia,
+-Ganzoni Equation shows total iron deficit of ***. IV iron of ***. MCV is *** concerning for
+-f/u B12, folate, iron panel, ferritin
+-for secondary workup consider LDH, haptoglobin, reticulocyte count/index, t bili/dbili, UA, coags, coombs, DAT, G6PD, peripheral smear,
+-CBC q 4 hours
+-IV pantoprazole for coverage for GI bleed
+-Pediatric tubing for all blood draws
+
 DOTPHRASE Thrombocytopenia 
 Patient with low platelets. 
 Confirm true vs pseudo (repeat CBC + peripheral smear; send citrate tube if clumping). Determine acuity and assess bleeding.
