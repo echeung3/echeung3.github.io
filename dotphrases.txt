@@ -1916,3 +1916,23 @@ DOTPHRASE Comfort Care
 -Start glycopyrrolate 0.2 mg IV q 6 hours for secretions
 -Remove NG keofeed tube and stop tube feeds
 -Stop all non-comfort medications and measures
+
+DOTPHRASE Denies ROS
+DENIESGI
+Bloating, early satiety, abdominal pain, vomiting, nausea, hematemesis, melena, hematochezia, diarrhea, constipation, dysphagia, odynophagia, weight loss
+
+DENIESROS
+Denies fever, chills, chest pain, palpitations, shortness of breath, wheezes, n/v/d/c, headache, lower extremity swelling, abdominal pain, bloody urine.
+
+DOTPHRASE Colon mass 
+
+# Colorectal mass: CEA***
+* Order CEA
+* Please order bowel prep via the "UCI IP GI Bowel Prep"
+* Please select options for next day procedure -- Diet Order Therapeutic -- Clear Liquid, then NPO at 7 am the next day.
+* Please order ***high risk bowel prep option // ****standard risk bowel prep option
+* Please click for Crystal Lite option to mix in the GoLytely
+* Please click for Zofran injections PRN
+* Tentative plan for colonoscopy ____________________
+* Please order iron studies (iron, iron saturation), ferritin, B12, folate.
+
