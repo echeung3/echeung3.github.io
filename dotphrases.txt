@@ -1936,3 +1936,76 @@ DOTPHRASE Colon mass
 * Tentative plan for colonoscopy ____________________
 * Please order iron studies (iron, iron saturation), ferritin, B12, folate.
 
+
+DOTPHRASE 2Acute Encephalopathy
+
+WUAMS
+
+# Acute Encephalopathy: Ddx includes metabolic, infectious, drugs vs medications, primary CNS, delirium.
+
+Patient's acute encephalopathy concerning for trauma vs vascular vs increased ICP, meds/toxins, metabolic.
+- EKG to evaluate for arrhythmia
+- UTox for possible substance abuse
+- AM cortisol, TSH
+- Bladder scan for urine retention
+- Seizure, stroke, syncope
+
+- CBC, BMP, LFT, lactate, NH3, B12, TSH, VBG, UA, CXR, bladder scan
+- ESR, CRP, CK, B12, B12
+- TTP consideration (low platelets, anemia, renal failure, fever, neuro changes) -- LDH, stat smear
+- Elevated T, HR, BP, RR concerning for serotonin syndrome >> neuroleptic malignant syndrome
+
+- Consider EEG
+- Consider MRI w/ gad for possible stroke vs malignancy
+- Consider LP
+- HIV, RPR, HSV, VZV,
+- Delirium precautions
+
+- In setting of immunosuppression, f/u on
+  * Blood cultures (fungal as well)
+  * Sputum cultures
+  * 1,3 BD glucan
+  * Galactomannan
+  * Histo urine / serum antigen
+  * Crypto antigen
+
+- Concern for seizure
+- Continuous EEG
+- Start renal dose Keppra 500 mg BID with additional 500 mg given back after each HS session and continue indefinitely
+- for recurrent electrographic or clinical seizure give weight based Ativan IV (1mg/kg up to 4 mg per dose, up to 2 doses)
+- consider escalating abx regimen to meningitic dosing and adding empiric amp and acyclovir; pt may not be able to undergo LP given thrombocytopenia
+
+
+DOTPHRASE #sinus tachycardia
+
+**Sinus Tachycardia (HR >100)** – ECG with normal P wave before each QRS. Usually **physiologic and secondary to underlying illness**, so management focuses on identifying and treating the cause.
+
+**Common Causes**
+
+* **Hypovolemia / dehydration**
+* **Pain, anxiety**
+* **Fever / infection / sepsis**
+* **Hypoxia**
+* **Anemia / hemorrhage**
+* **Pulmonary embolism**
+* **Cardiac:** HF, ischemia, myocarditis
+* **Endocrine:** hyperthyroidism
+* **Metabolic:** acidosis
+* **Medications / stimulants / withdrawal**
+
+**Evaluation**
+
+* Confirm sinus rhythm on **ECG**
+* Assess **hemodynamics, oxygenation, volume status**
+* Labs as indicated: **CBC, BMP, Mg/K, lactate, troponin, TSH**
+* Imaging based on suspicion: **CXR, CT-PE, bedside US**
+
+**Management**
+
+* **Treat underlying cause** (fluids, oxygen, analgesia, antibiotics, etc.)
+* Avoid routine **rate control** unless persistent after reversible causes addressed.
+
+**Red Flags**
+
+* Tachycardia with **hypotension, hypoxia, chest pain, AMS, rising lactate**
+  → evaluate urgently for **sepsis, PE, ACS, or hemorrhage**.
