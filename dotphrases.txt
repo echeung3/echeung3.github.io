@@ -790,6 +790,7 @@ Presented with ***. Labs notable for WBC ***, lactate ***. Meets criteria for **
 Workup:
 - Daily CBC
 - F/u BCx, UCx
+- F/u lactate
 - F/u CXR
 - F/u procalcitonin
 - F/u RVP
