@@ -1979,10 +1979,9 @@ Patient's acute encephalopathy concerning for trauma vs vascular vs increased IC
 
 DOTPHRASE #sinus tachycardia
 
-**Sinus Tachycardia (HR >100)** – ECG with normal P wave before each QRS. Usually **physiologic and secondary to underlying illness**, so management focuses on identifying and treating the cause.
+Sinus Tachycardia (HR >100) – ECG with normal P wave before each QRS. Usually **physiologic and secondary to underlying illness**, so management focuses on identifying and treating the cause.
 
-**Common Causes**
-
+**Common Causes include: 
 * **Hypovolemia / dehydration**
 * **Pain, anxiety**
 * **Fever / infection / sepsis**
@@ -2010,3 +2009,63 @@ DOTPHRASE #sinus tachycardia
 
 * Tachycardia with **hypotension, hypoxia, chest pain, AMS, rising lactate**
   → evaluate urgently for **sepsis, PE, ACS, or hemorrhage**.
+
+DOTPHRASE Severe Sepsis
+
+**Severe Sepsis / Septic Shock Evaluation and Management**
+
+Sepsis is **life-threatening organ dysfunction due to a dysregulated host response to infection**. Severe sepsis refers to **sepsis with evidence of organ dysfunction or tissue hypoperfusion**.
+
+**Clinical Criteria / Concerning Findings**
+- Suspected or confirmed infection
+- Organ dysfunction indicators:
+  - SBP <90 or MAP <65
+  - Lactate >2 mmol/L
+  - Creatinine >2 or acute kidney injury
+  - Oliguria <0.5 cc/kg/hr
+  - Bilirubin >2
+  - Platelets <100k
+  - INR >1.5
+  - Altered mental status
+  - Hypoxemia or respiratory failure
+- qSOFA indicators of high mortality risk
+  - RR ≥22
+  - SBP ≤100
+  - Altered mentation
+
+**Immediate Evaluation**
+- Blood cultures ×2 before antibiotics if feasible
+- Lactate level (repeat if >2)
+- CBC, CMP, LFTs
+- Coagulation panel
+- Procalcitonin (if available)
+- UA + urine culture
+- CXR
+- Source-directed imaging (CT abdomen/pelvis, CT chest, ultrasound, etc.)
+
+**Initial Management (within first hour when possible)**
+- **Fluid resuscitation:** 30 cc/kg IV crystalloid for hypotension or lactate ≥4
+- **Broad spectrum antibiotics immediately**
+  - Example: **Vancomycin + Zosyn**
+  - Alternative: **Vancomycin + Ceftriaxone ± Azithromycin** depending on suspected source
+- **Source control**
+  - Drain abscess
+  - Remove infected lines
+  - Evaluate biliary/urinary obstruction
+  - Surgical consult when indicated
+
+**Hemodynamic Support**
+- If hypotension persists after fluids:
+  - **Start vasopressors (first line: norepinephrine)**
+  - Goal **MAP ≥65**
+
+**Monitoring**
+- Serial lactates
+- Urine output (>0.5 mL/kg/hr goal)
+- Repeat blood cultures for bacteremia
+- Daily labs for organ dysfunction
+
+**Additional Considerations**
+- Evaluate for infective endocarditis if persistent bacteremia
+- Infectious Disease consult for complex infections (e.g., MRSA bacteremia, Candida)
+- De-escalate antibiotics once culture data available
