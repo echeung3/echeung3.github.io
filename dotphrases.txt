@@ -2069,3 +2069,269 @@ Sepsis is **life-threatening organ dysfunction due to a dysregulated host respon
 - Evaluate for infective endocarditis if persistent bacteremia
 - Infectious Disease consult for complex infections (e.g., MRSA bacteremia, Candida)
 - De-escalate antibiotics once culture data available
+
+
+DOTPHRASE CIRRHOSIS
+
+#Decompensated cirrhosis secondary to *** complicated by (ascites / hepatic encephalopathy / variceal bleeding / jaundice)
+
+Severity
+- MELD-Na: ***
+- MELD: ***
+- Child-Pugh: ***
+
+Etiology
+Likely secondary to *** (viral hepatitis A/B/C/D/E, alcohol, NAFLD/NASH, autoimmune PSC/PBC/AIH, IgG4 disease, Wilson disease, hemochromatosis, A1AT deficiency, cardiogenic)
+
+Workup
+Viral hepatitis: HAV Ab, HBsAg, HBcAb, HBsAb, HCV Ab  
+Alcohol: EtOH level, PEth  
+NAFLD: BMI ***, A1c ***, lipid panel ***  
+Autoimmune: ANA, ASMA, AMA, IgG, p-ANCA  
+Wilson: ceruloplasmin  
+Hemochromatosis: ferritin, iron saturation, TIBC  
+A1AT level  
+Cardiogenic: echocardiogram
+
+Complications (VIBES)
+
+Varices
+- Last EGD: ***  
+- Findings: *** (bands placed / no varices / small varices)  
+- Beta blocker: *** (propranolol / nadolol / carvedilol)  
+- If bleeding suspected: start PPI + octreotide drip + GI consult  
+
+Infection / SBP
+- Diagnostic paracentesis: ***  
+- PMN: ***  
+- If SBP: ceftriaxone 2 g IV daily x 5–7 days  
+- Albumin: 1.5 g/kg day 1, 1 g/kg day 3 if Cr >1, BUN >30, or Tbili >4  
+- SBP prophylaxis: *** (ciprofloxacin / bactrim) if prior SBP or ascitic protein <1.5  
+
+Bleeding / Coagulopathy
+- Platelets: ***  
+- INR: ***  
+- Monitor for bleeding; transfuse only if clinically indicated  
+
+Encephalopathy
+- Mental status: ***  
+- Lactulose *** titrate to 2–3 BM/day  
+- Rifaximin 550 mg BID if recurrent  
+- Zinc 220 mg daily if deficient  
+
+Sodium / Ascites
+- Current regimen: ***  
+- Diuretics: spironolactone 100 mg + furosemide 40 mg (max 400:160)  
+- Na restriction <2 g/day  
+- Fluid restriction <1.5 L/day if Na <125  
+- Avoid NSAIDs, ACEi/ARB  
+- Consider TIPS if refractory ascites  
+
+Ascites Evaluation
+- SAAG ≥1.1 → portal hypertension  
+- SAAG ≥1.1 + protein >2.5 → cardiac/Budd-Chiari  
+- SAAG <1.1 → malignancy/TB/nephrotic  
+
+HCC Screening
+- Last RUQ US: ***  
+- AFP: ***  
+- Continue screening q6 months
+
+Immunizations
+- HAV immune: ***  
+- HBV immune: ***  
+- Pneumococcal: ***  
+- Tdap: ***
+
+Nutrition / Counseling
+- Protein intake 1.2–1.5 g/kg/day  
+- Avoid alcohol, opioids, benzodiazepines  
+- Avoid raw shellfish  
+- Avoid NSAIDs  
+
+Transplant
+- MELD >15 → transplant referral  
+- Patient currently *** candidate for transplant
+
+Follow-up
+- Liver clinic follow-up  
+- HCC screening q6 months  
+- PCP follow-up for vaccinations
+
+DOTPHRASE CKD
+
+#Chronic Kidney Disease (CKD)
+
+Definition/Staging:
+- GFR staging:
+  • G1 >90
+  • G2 60–90
+  • G3a 45–60
+  • G3b 30–45
+  • G4 15–30
+  • G5 <15
+- Albuminuria staging:
+  • A1: <30 mg/day
+  • A2: 30–300 mg/day
+  • A3: >300 mg/day
+
+Evaluation:
+- UA: if protein present → check urine protein/Cr ratio (UA detects albumin only)
+- Common etiologies:
+  • DM (~44%)
+  • HTN nephrosclerosis (~29%)
+  • Cystic kidney disease (~20%)
+
+Management:
+Proteinuria management
+- Goal proteinuria: <500–1000 mg/day
+- RAAS blockade: ACE inhibitor or ARB
+
+Blood pressure control
+- Goal BP: <130/80
+- Consider SBP <120 if GFR 20–60 (per MDRD data)
+
+Medication approach
+- ACEi/ARB first line
+- If persistent proteinuria → add non-dihydropyridine CCB
+- If edema present → loop diuretic
+
+Cardiovascular risk reduction
+- Aspirin
+- Statin
+- Smoking cessation
+- Exercise
+
+Avoid nephrotoxins
+- NSAIDs
+- Bactrim
+- Lithium
+- Acyclovir
+- IV contrast when possible
+
+Medication dosing
+- Renally dose all medications
+
+Dietary recommendations
+- Sodium <2 g/day
+- Fluid <2 L/day
+- Phosphorus restriction
+- Protein intake 0.6–0.8 g/kg/day if GFR <60 and no nephrotic syndrome
+
+Monitoring:
+- Labs:
+  • BMP / Cr
+  • Urine protein
+  • PTH
+  • 25-OH Vitamin D
+  • CBC
+  • Iron studies
+
+- Imaging:
+  • Renal ultrasound
+
+Urine testing
+- Urine microalbumin/Cr ratio
+
+Nephrology referral indications:
+- GFR <30
+- Severe albuminuria
+- Glomerular hematuria
+- Resistant hypertension
+- Metabolic complications:
+  • Hyperparathyroidism
+  • Anemia
+  • Metabolic acidosis
+  • Hyperkalemia
+  • Hyperphosphatemia
+- Unclear etiology
+- Suspected hereditary disease
+
+CKD complications:
+
+Mineral bone disease
+- Check Ca, PO4, 25-OH Vitamin D
+- Target PO4 <4.5
+
+Anemia of CKD
+- Goal Hgb: 10–11.5
+- Iron repletion if transferrin saturation <20%
+- Hold iron if ferritin >500–800
+
+Metabolic acidosis
+- Sodium bicarbonate 650–1300 mg PO TID
+- Goal bicarbonate >22
+
+Dialysis planning
+- Prepare HD access when appropriate
+- Avoid BP measurements or venipuncture in planned access arm
+- Avoid subclavian lines / PICC lines
+
+DOTPHRASE 1CKD
+CKD management:
+- Control BP (<130/80) with ACEi/ARB
+- Goal proteinuria <500–1000 mg/day
+- Avoid nephrotoxins, renally dose meds
+- Monitor: Cr, U protein, PTH, Vit D, CBC, Fe studies
+- Diet: Na <2g/day, protein 0.6–0.8 g/kg/day
+- Treat complications: anemia, acidosis, CKD-MBD
+- Refer nephrology if GFR <30 or severe albuminuria
+
+DOTPHRASE #HTN, HYPERTENSION
+"Patient's blood pressure is *** and categorized as normal (<120/80) // elevated (120–129/<80) // Stage 1 (130–139/80–89) // Stage 2 (>140/90) // Resistant (on 3 or more agents at optimal doses, with one being a diuretic, or controlled on 4+ meds)
+
+– f/u fasting blood glucose, LIPID PROFILE (cardiovascular comorbidity)
+– CBC (polycythemia) Serum sodium potassium and calcium (Cushing, Conn, hyperparathyroidism) TSH (2/2 cause)
+– Cr/GFR, UA, ECG, ECHO, urinary albumin/Cr (target organ damage)
+
+Other secondary causes of HTN
+– Renal u/s (Renal parenchymal disease / CKD):
+– Renal duplex or MRA or abdominal CT (renovascular disease)
+– Plasma aldosterone / renin ratio (primary hyperaldosteronism is >20)
+– Sleep study (OSA)
+– 24H urinary metanephrines (pheochromocytoma)
+– Overnight 1mg dexamethasone suppression test (Cushing)
+– TSH
+– Ca
+– IGF1 (acromegaly)
+– Aldosterone and renin levels (mineralocorticoid excess)
+– Echocardiography (coarctation of aorta)
+
+Plan:
+Hypertension: ASCVD risk ***. Goal of <130/80 (<140/90 if secondary stroke prevention)
+– <10% can be managed with lifestyle changes as he has no significant comorbidities (db, CKD, HF, PAD, lacunar CVA)
+– Start on ace/arb given albuminuria
+– Start on 2 agents given stage 2 BP.
+– Black: thiazides or CCB
+– Stable ischemic heart disease: beta blocker + ace / arb (+dihydropyridine CCB if HTN and angina uncontrolled -- more smooth muscle effect... NOT diltiazem or verapamil)
+
+– HFrEF: loop diuretic + ACEI + beta blocker (NO CCBs... consider spironolactone if LVEF <35%)
+– HFpEF: diuretics (+acei or ARB plus beta blocker)
+– CKD: if albuminuria present: ACE (thiazides ineffective if GFR <30... use loop diuretic)
+
+#hypertensive urgency: HTN urgency given BP >180/20 without evidence of end organ damage.
+Hypertensive emergency BP > 180/120 with evidence of end-organ damage.
+
+– Reduce BP to <160/100 over the course of the day (05/16/20)
+– Reduce to normal range (<130/90) over *** – ***
+– Long term: Amlodipine 5–10 mg daily, lisinopril 10–20 mg po daily, losartan 25–50 mg daily,
+– Short term: IV labetolol, captopril 6.25–25 mg PO tid, clonidine 0.1 mg PO bid, hydralazine 10 mg PO q8h, nitroprate quickly lowers preload (good in flash pulmonary edema)
+– Avoid short acting nifedipine
+
+#Hypertensive Emergency
+– Evidence of end organ damage
+– nicardipine gtt initial of 5 mg/hr, increasing 2.5 mg/hr every 5 minutes to max dose of 15
+– Clevipidine: 1–2 mg/hr, doubled every 2 min max of 32 mg/hr
+– Nitropruside 0.3 mcg/kg/min – 4 mcg/kg/min (acute heart failure, avoid in MI due to risk of steal syndrome and renal/liver dx)
+– Nitroglycerin 5–60 micrograms/min, preload and afterload reduction (ACS, acute pulmonary edema)
+– labetalol: 10–20 mg IV initial followed by 10–80 IV q10 min (pregnant, not to use in CHF)
+– esmolol: initial 0.5mg/kg then 50–200 micrograms/kg/min (acute aortic dissection, post op hypertension, MI, quick onset)
+– Avoid hydralazine, nifedipine, and nitropaste
+
+– decrease MAP 10–20% in the first hour, then MAP ~120 over next 2–6 hours
+– rapid decline in BP can lead to stroke, MI, or renal failure
+
+Exceptions
+– Recent ischemic stroke: dont lower BP unless >185/110 if receiving reperfusion therapy or >220/120 if not receiving reperfusion therapy for permissive hypertension
+– Acute Aortic dissection: rapidly lower BP to SBP < 120 in the first hour
+– Pheochromocytoma and eclampsia: rapidly lower SBP < 140 within first hour
