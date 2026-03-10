@@ -2335,3 +2335,148 @@ Exceptions
 – Recent ischemic stroke: dont lower BP unless >185/110 if receiving reperfusion therapy or >220/120 if not receiving reperfusion therapy for permissive hypertension
 – Acute Aortic dissection: rapidly lower BP to SBP < 120 in the first hour
 – Pheochromocytoma and eclampsia: rapidly lower SBP < 140 within first hour
+
+DOTPHRASE Acute Pancreatitis
+
+# Acute Pancreatitis
+Patient presenting with typical epigastric abdominal pain radiating to the back with elevated lipase *** and *** imaging findings consistent with acute pancreatitis.
+
+Diagnosis of acute pancreatitis requires ≥2 of the following:
+• Characteristic abdominal pain
+• Lipase or amylase ≥3x ULN
+• Imaging consistent with pancreatitis
+
+Most likely etiology: *** (alcohol / gallstones / hypertriglyceridemia / medication / idiopathic).
+
+Current APACHE II score: *** (prognostic indicator).
+
+No evidence of cholangitis at this time (no fever, RUQ pain, jaundice, altered mental status, or shock).  
+ALT >3x ULN strongly predicts gallstone pancreatitis (>95% PPV).
+
+Reference: https://www.mdcalc.com/calc/1868/apache-ii-score
+
+--------------------------------------------------
+
+# Classification
+• Mild acute pancreatitis – no organ failure and no local/systemic complications  
+• Moderately severe pancreatitis – transient organ failure (<48 hr) and/or local complications  
+• Severe pancreatitis – persistent organ failure (>48 hr) involving ≥1 organs  
+
+Imaging classification:
+• Interstitial edematous pancreatitis – inflammation without tissue necrosis  
+• Necrotizing pancreatitis – pancreatic and/or peripancreatic necrosis
+
+--------------------------------------------------
+
+# Evaluation
+Etiology assessment:
+• Alcohol use
+• Gallstones
+• Hypertriglyceridemia
+• Hypercalcemia
+• Medications
+• Trauma
+• Autoimmune disease
+
+Labs:
+• CBC
+• BMP
+• LFTs
+• Albumin
+• Lipid panel
+• Lactate
+• ESR / CRP
+
+Imaging:
+• RUQ ultrasound to evaluate for gallstones
+• CT abdomen pancreas protocol or MRI/MRCP if unclear diagnosis or concern for malignancy
+
+Consider autoimmune pancreatitis workup if indicated:
+• IgG4
+• ANA
+• Associated autoimmune disease (Sjogren’s, thyroiditis, IBD, nephritis)
+
+Consider GI consult for:
+• EUS
+• ERCP
+
+--------------------------------------------------
+
+# Management
+
+Fluid resuscitation
+• LR bolus 20 mL/kg over 30 minutes
+• Then LR ~250 mL/hr for 24–48 hours
+• Use NS instead if hypercalcemia present
+
+Monitoring
+• CBC/BMP q8h to trend HCT and BUN
+• Daily LFTs
+• Strict I/O monitoring
+• Goal urine output >0.5 mL/kg/hr
+• Continuous pulse oximetry as needed
+
+Pain control
+• Dilaudid IV PRN
+
+Nausea control
+• Ondansetron PRN
+
+Nutrition
+• Trial clear liquid diet → advance to low fat / low residue diet
+• If unable to tolerate PO within 48–72 hrs → consider NG or NJ tube feeding
+• Enteral nutrition preferred for moderate/severe disease
+
+--------------------------------------------------
+
+# Etiology Specific Management
+
+Gallstone pancreatitis
+• RUQ ultrasound
+• Cholecystectomy prior to discharge if uncomplicated
+• ERCP within 24 hours if cholangitis present
+• Consider ERCP if worsening LFTs or persistent obstruction
+
+Hypertriglyceridemia
+• Start gemfibrozil 600 mg BID
+• Consider insulin infusion or plasmapheresis if severe
+
+Alcohol related
+• Alcohol cessation counseling
+• CIWA monitoring if withdrawal risk
+
+--------------------------------------------------
+
+# Antibiotics
+Antibiotics NOT routinely indicated in pancreatitis.
+
+Only treat if:
+• Cholangitis
+• Cholecystitis
+• Infected pancreatic necrosis
+• Other intra-abdominal infection
+
+Options:
+• Ceftriaxone + metronidazole
+• Piperacillin-tazobactam
+
+--------------------------------------------------
+
+# Additional Workup for Transaminitis (if present)
+
+Hepatocellular pattern (R ratio >5):
+Possible etiologies:
+• Alcohol
+• Viral hepatitis
+• Drug induced liver injury
+• Autoimmune disease
+
+Workup:
+• UTOX
+• Ethanol level
+• Viral hepatitis panel
+• HIV
+• Consider CMV / EBV / HSV / VZV if persistent
+• Consider celiac (anti-TTG, total IgA)
+• Consider hemochromatosis
+• Consider Wilson disease
