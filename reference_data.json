@@ -2142,6 +2142,16 @@
     "imgs": ""
   },
   {
+    "data": "Eliquis BID 10 mg for the first week to decrease risk of VTE; Correlate to DAPT treatment s/p stenting, the first 30 days are high risk for thrombosis due to endothelial cell changes. \n\n patients with asterixis, assess with serial 7s backwards & covert encephalopathy  \n\n isolated BUN increase: \n UGI bleed \n pre-renal/hypovolemia \n urea increase -> increased protein intake \n steroids (prednisone) \n medications (rifampin) ",
+    "template": "PDL-1 immune checkpoint inhibitor, normally preventing autoimmunity by binding to PD-1 receptors on T cells to inhibit their activity -- Anti–PD-1 \n\n Drug: Atezolizumab \n Durvalumab \n Avelumab \n\n Potential immune toxicities: \n Common: Rash, diarrhea, hypothyroidism/thyroiditis \nOthers: \n Endocrine: Adrenal insufficiency, hyperthyroidism, hypophysitis \n Cardiac: Myocarditis, pericarditis \n Lung: Pneumonitis (potentially severe) \n Liver: Elevated aminotransferase levels \n Neurologic: Peripheral neuropathy, myasthenia gravis   ",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
     "data": "Condition name and description",
     "template": "",
     "imgs": ""
