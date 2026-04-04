@@ -2147,6 +2147,11 @@
     "imgs": ""
   },
     {
+    "data": "When and why should a washout period occur with Entresto?",
+    "template": " Transition between an ACE inhibitor and sacubitril-valsartan – Sacubitril-valsartan should not be administered to patients who have taken an ACE inhibitor within the previous 36 hours due to the risk of angioedema (see above). This is true for starting sacubitril-valsartan in patients already taking an ACE inhibitor and for starting an ACE inhibitor in patients already taking sacubitril-valsartan.\n\nTransition from an ARB to sacubitril-valsartan – As noted in the prescribing information for sacubitril-valsartan, the valsartan in sacubitril-valsartan is more bioavailable than the valsartan in other marketed tablet formulations; 26, 51, and 103 mg of valsartan in the sacubitril-valsartan tablet are equivalent to 40, 80, and 160 mg of valsartan in other marketed tablet formulations, respectively.\n\nIf changing from ARB monotherapy to sacubitril-valsartan, no washout period is required; the next dose of ARB can be substituted for an equivalent dose of sacubitril-valsartan. ",
+    "imgs": ""
+  },
+    {
     "data": "Condition name and description",
     "template": "",
     "imgs": ""
@@ -2156,6 +2161,46 @@
     "template": "",
     "imgs": ""
   },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },
+    {
+    "data": "Condition name and description",
+    "template": "",
+    "imgs": ""
+  },    
     {
   "data": "Condition name and description",
   "template": " ",
