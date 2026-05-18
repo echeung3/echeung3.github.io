@@ -937,14 +937,14 @@
     },
     {
       "id": "colon-cancer-screening-1-2-sessile-serrated-polyp-10mm-witho",
-      "data": "colon cancer screening - 1-2 sessile serrated polyp < 10mm without dysplasia = 5-10 years - 3-4 polyp = 3-5 years - 4+ = 3 years - <20 <10mm hyperplastic polyp also 10 years",
+      "data": "colon cancer screening\n- 1-2 sessile serrated polyp < 10mm without dysplasia = 5-10 years - 3-4 polyp = 3-5 years - 4+ = 3 years - <20 <10mm hyperplastic polyp also 10 years",
       "template": "",
       "imgs": "",
       "category": "Heme/Onc",
       "tags": [],
       "links": [],
       "createdAt": "2026-05-01T00:00:00.000Z",
-      "updatedAt": "2026-05-01T00:00:00.000Z"
+      "updatedAt": "2026-05-18T06:53:23.962Z"
     },
     {
       "id": "colorectal-cancer-prevention-baby-aspirin-helps-if-fam-hx-st",
