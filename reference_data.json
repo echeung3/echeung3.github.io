@@ -3346,14 +3346,14 @@
     },
     {
       "id": "ppi-aspiration-ppx-when-undergoing-anesthesia-nsaid-ulcer-cr",
-      "data": "PPI - aspiration ppx when undergoing anesthesia - NSAID ulcer - critically ill patients - upper GI bleed PPI prophylaxis - patients intubated > 48 hrs - plt < 50, INR > 1.5, or PTT 2x baseline - GI bleed or ulcer in past year - major trauma with injury severity score 16+ - burn >=35% - head injury GCS <=10 and inability to follow simple commands - spinal cord injury - partial hepatectomy - solid organ transplant periop in ICU - 2 antiplts (placix, aspirin, ticagerlo, cilostazol, dipyridamole - 2 of sepsis, ICU stay > 7 days, occult bleeding more than 6 days, or (high steroid >250mg hydrocotrisone, 50mg methylpred, 60mg prednisone, 10mg dexamethasone), enteral feeding hlh",
+      "data": "PPI\n- aspiration ppx when undergoing anesthesia \n- NSAID ulcer \n- critically ill patients \n- upper GI bleed PPI prophylaxis \n- patients intubated > 48 hrs \n- plt < 50, INR > 1.5, or PTT 2x baseline \n- GI bleed or ulcer in past year \n- major trauma with injury severity score 16+ \n- burn >=35% - head injury GCS <=10 and inability to follow simple commands \n- spinal cord injury - partial hepatectomy \n- solid organ transplant periop in ICU \n- 2 antiplts (placix, aspirin, ticagerlo, cilostazol, dipyridamole \n- 2 of sepsis, ICU stay > 7 days, occult bleeding more than 6 days, or (high steroid >250mg hydrocotrisone, 50mg methylpred, 60mg prednisone, 10mg dexamethasone), enteral feeding hlh",
       "template": "",
       "imgs": "",
       "category": "GI",
       "tags": [],
       "links": [],
       "createdAt": "2026-05-01T00:00:00.000Z",
-      "updatedAt": "2026-05-01T00:00:00.000Z"
+      "updatedAt": "2026-05-18T06:57:28.325Z"
     },
     {
       "id": "pregnant-outpt-tdap-27-36-weeks-each-pregnancy-24-28-weeks-2",
