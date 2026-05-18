@@ -22,11 +22,14 @@ let dotphrasesData = [];
 // =========================================================================
 
 $(document).ready(function () {
-    fetch('reference_data.json')
+    // Cache-bust on load so a fresh deploy is picked up immediately (avoids
+    // GitHub Pages CDN serving stale JSON for up to 10 min after a commit).
+    const bust = `?v=${Date.now()}`;
+    fetch('reference_data.json' + bust, { cache: 'no-store' })
         .then(r => r.json())
         .then(data => {
             initKB(data.database || []);
-            return fetch('dotphrases.txt');
+            return fetch('dotphrases.txt' + bust, { cache: 'no-store' });
         })
         .then(r => r.text())
         .then(text => {
