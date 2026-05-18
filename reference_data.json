@@ -4841,11 +4841,11 @@
       "updatedAt": "2026-05-01T00:00:00.000Z"
     },
     {
-      "id": "test",
-      "data": "Test\nblah blah",
-      "template": "blah blah",
+      "id": "Lung Transplant Evaluation",
+      "data": "Lung Transplant Eval",
+      "template": "consider lung transplant for advanced lung disease with progressive decline despite maximal therapy (e.g. COPD, ILD/ idiopathic pulmonary fibrosis, CF/bronchiectasis, PAH)",
       "imgs": "",
-      "category": "Other",
+      "category": "Other", "Pulm"
       "tags": [],
       "links": [],
       "createdAt": "2026-05-18T06:40:31.000Z",
