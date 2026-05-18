@@ -203,6 +203,51 @@ function formatCellContent(text) {
     return withLinks.replace(/\n/g, '<br>');
 }
 
+// Richer text renderer: detects bullet/numbered lists and paragraphs.
+// Used in KB card bodies for clinical notes & templates.
+function renderRichText(text) {
+    if (!text) return '';
+    // Split into blocks separated by blank line(s)
+    const blocks = text.split(/\n{2,}/);
+    return blocks.map(renderRichBlock).filter(Boolean).join('');
+}
+
+function renderRichBlock(block) {
+    const lines = block.split('\n');
+    if (!lines.length) return '';
+    // Bullet list: every non-blank line starts with "- " or "* "
+    const isBullet = lines.every(l => !l.trim() || /^\s*[-*]\s+/.test(l));
+    // Numbered list: every non-blank line starts with "N." or "N)"
+    const isNumbered = lines.every(l => !l.trim() || /^\s*\d+[.)]\s+/.test(l));
+
+    if (isBullet && lines.some(l => /^\s*[-*]\s+/.test(l))) {
+        const items = lines.filter(l => l.trim()).map(l => {
+            const inner = l.replace(/^\s*[-*]\s+/, '');
+            return `<li>${formatInline(inner)}</li>`;
+        });
+        return `<ul class="kb-list-block">${items.join('')}</ul>`;
+    }
+    if (isNumbered && lines.some(l => /^\s*\d+[.)]\s+/.test(l))) {
+        const items = lines.filter(l => l.trim()).map(l => {
+            const inner = l.replace(/^\s*\d+[.)]\s+/, '');
+            return `<li>${formatInline(inner)}</li>`;
+        });
+        return `<ol class="kb-list-block">${items.join('')}</ol>`;
+    }
+    // Plain paragraph: keep single newlines as <br>
+    return `<p class="kb-para">${lines.map(formatInline).join('<br>')}</p>`;
+}
+
+// Inline-only formatting: escape, link URLs, bold (**), italic (*).
+function formatInline(text) {
+    let out = escapeHtml(text);
+    // URLs
+    out = out.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+    // Bold: **text**
+    out = out.replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>');
+    return out;
+}
+
 function markdownTableToHtml(markdown) {
     const lines = markdown
         .split(/\r?\n/)
@@ -233,7 +278,7 @@ function renderCellContent(data) {
     if (!data) return '';
     const tableHtml = markdownTableToHtml(data);
     if (tableHtml) return tableHtml;
-    return formatCellContent(data);
+    return renderRichText(data);
 }
 
 function copyTextToClipboard(text, btn) {
@@ -273,6 +318,7 @@ const KB_STATE = {
     entries: [],
     query: '',
     scope: 'all',
+    sort: 'updatedAt-desc',
     category: null,
     activeTags: [],
     expanded: new Set(),
@@ -322,7 +368,7 @@ function getTitle(entry) {
 
 function applyFilters() {
     const q = KB_STATE.query.trim().toLowerCase();
-    return KB_STATE.entries.filter(e => {
+    const filtered = KB_STATE.entries.filter(e => {
         if (KB_STATE.category && e.category !== KB_STATE.category) return false;
         if (KB_STATE.activeTags.length) {
             const tags = (e.tags || []).map(t => t.toLowerCase());
@@ -341,6 +387,44 @@ function applyFilters() {
         }
         return true;
     });
+    return sortEntries(filtered, KB_STATE.sort);
+}
+
+function sortEntries(list, mode) {
+    const sorted = [...list];
+    switch (mode) {
+        case 'updatedAt-desc':
+            sorted.sort((a, b) => (b.updatedAt || '').localeCompare(a.updatedAt || ''));
+            break;
+        case 'createdAt-desc':
+            sorted.sort((a, b) => (b.createdAt || '').localeCompare(a.createdAt || ''));
+            break;
+        case 'title-asc':
+            sorted.sort((a, b) => getTitle(a).toLowerCase().localeCompare(getTitle(b).toLowerCase()));
+            break;
+        case 'title-desc':
+            sorted.sort((a, b) => getTitle(b).toLowerCase().localeCompare(getTitle(a).toLowerCase()));
+            break;
+    }
+    return sorted;
+}
+
+// Human-readable relative time, e.g. "5 min ago", "2 days ago", "May 1, 2026"
+function relativeTime(iso) {
+    if (!iso) return '';
+    const then = new Date(iso);
+    if (isNaN(then.getTime())) return '';
+    const diffMs = Date.now() - then.getTime();
+    const sec = Math.round(diffMs / 1000);
+    if (sec < 60) return 'just now';
+    const min = Math.round(sec / 60);
+    if (min < 60) return `${min} min ago`;
+    const hr = Math.round(min / 60);
+    if (hr < 24) return `${hr} hr ago`;
+    const day = Math.round(hr / 24);
+    if (day < 30) return `${day} day${day === 1 ? '' : 's'} ago`;
+    // Older than ~a month — show absolute date
+    return then.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
 }
 
 function categoryClass(cat) {
@@ -415,6 +499,12 @@ function renderCard(entry) {
         bodyHtml += '</div>';
     }
 
+    const updatedLabel = entry.updatedAt ? relativeTime(entry.updatedAt) : '';
+    const updatedAbs = entry.updatedAt ? new Date(entry.updatedAt).toLocaleString() : '';
+    const updatedHtml = updatedLabel
+        ? `<span class="kb-card-date" title="Last updated ${escapeHtml(updatedAbs)}">· ${escapeHtml(updatedLabel)}</span>`
+        : '';
+
     return `
 <div class="kb-card${isExpanded ? ' expanded' : ''}" data-id="${escapeHtml(entry.id)}">
   <div class="kb-card-header" data-toggle-id="${escapeHtml(entry.id)}">
@@ -426,6 +516,7 @@ function renderCard(entry) {
       <div class="kb-card-meta">
         <span class="kb-category-badge ${categoryClass(cat)}">${escapeHtml(cat)}</span>
         ${tagChipsHtml}
+        ${updatedHtml}
       </div>
     </div>
     <i class="fas fa-chevron-${isExpanded ? 'up' : 'down'} kb-chevron"></i>
@@ -519,6 +610,15 @@ function initKB(entries) {
             renderKB();
         });
     });
+
+    const sortEl = document.getElementById('kbSort');
+    if (sortEl) {
+        sortEl.value = KB_STATE.sort;
+        sortEl.addEventListener('change', e => {
+            KB_STATE.sort = e.target.value;
+            renderKB();
+        });
+    }
 
     document.getElementById('kbSidebarToggle')?.addEventListener('click', () => {
         document.getElementById('kbSidebar').classList.toggle('open');
@@ -1188,6 +1288,10 @@ function buildEntryFromForm() {
     const category = document.getElementById('entryCategory').value || 'Other';
     const cleanLinks = EDITOR_STATE.links.filter(l => l.label?.trim() || l.url?.trim());
     const data = dataBody ? `${title}\n${dataBody}` : title;
+    const now = new Date().toISOString();
+    const existing = EDITOR_STATE.editingId
+        ? KB_STATE.entries.find(e => e.id === EDITOR_STATE.editingId)
+        : null;
     return {
         id: EDITOR_STATE.editingId || ensureUniqueId(slugifyTitle(title)),
         data,
@@ -1196,6 +1300,8 @@ function buildEntryFromForm() {
         category,
         tags: [...EDITOR_STATE.tags],
         links: cleanLinks,
+        createdAt: existing?.createdAt || now,
+        updatedAt: now,
     };
 }
 

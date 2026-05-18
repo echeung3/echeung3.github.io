@@ -580,6 +580,17 @@ table.dataTable tbody td {
     background: #e3e7ec;
     color: var(--uci-blue);
 }
+.kb-card-date {
+    color: #888;
+    font-size: 0.72rem;
+    margin-left: 2px;
+    cursor: default;
+}
+.kb-sort-select {
+    width: auto;
+    min-width: 150px;
+    flex-shrink: 0;
+}
 
 .kb-card-body {
     padding: 0.8rem 1rem 1rem;
@@ -610,13 +621,32 @@ table.dataTable tbody td {
     padding: 0.7rem 0.9rem;
     border-radius: 6px;
     border-left: 3px solid var(--uci-blue);
-    white-space: pre-wrap;
     word-wrap: break-word;
-    line-height: 1.5;
+    line-height: 1.55;
     font-size: 0.88rem;
 }
 .kb-section-content .markdown-table {
     white-space: normal;
+}
+/* Rich-text block elements inside section content */
+.kb-section-content .kb-para {
+    margin: 0 0 0.6rem;
+}
+.kb-section-content .kb-para:last-child {
+    margin-bottom: 0;
+}
+.kb-section-content .kb-list-block {
+    margin: 0 0 0.6rem;
+    padding-left: 1.4rem;
+}
+.kb-section-content .kb-list-block:last-child {
+    margin-bottom: 0;
+}
+.kb-section-content .kb-list-block li {
+    margin-bottom: 0.2rem;
+}
+.kb-section-content .kb-list-block li:last-child {
+    margin-bottom: 0;
 }
 
 .kb-links {
