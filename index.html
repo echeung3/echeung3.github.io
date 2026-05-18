@@ -546,6 +546,12 @@
                         <input type="radio" class="btn-check" name="kbScope" id="kbScopeBody" value="body">
                         <label class="btn btn-outline-secondary" for="kbScopeBody">Body</label>
                     </div>
+                    <select id="kbSort" class="form-select form-select-sm kb-sort-select" aria-label="Sort knowledge base">
+                        <option value="updatedAt-desc">Recently updated</option>
+                        <option value="createdAt-desc">Recently added</option>
+                        <option value="title-asc">A → Z</option>
+                        <option value="title-desc">Z → A</option>
+                    </select>
                     <button id="kbAddBtn" class="btn btn-success btn-sm" type="button" title="Add entry">
                         <i class="fas fa-plus me-1"></i><span class="d-none d-md-inline">Add entry</span>
                     </button>
