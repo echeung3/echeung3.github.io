@@ -2480,3 +2480,11 @@ Workup:
 • Consider celiac (anti-TTG, total IgA)
 • Consider hemochromatosis
 • Consider Wilson disease
+
+DOTPHRASE Postop Pain (Ortho)
+-Oxycodone 5 mg q4hr PRN for moderate pain
+-Oxycodone 10 mg q4hr PRN for severe pain
+-IV Morphine/Dilaudid for breakthrough pain
+-Scheduled Tylenol 
+-Lidoderm patch x2 patches to hip***
+
